@@ -1,0 +1,1501 @@
+Car_ID,Brand,Model,Manufacturing_Year,Fuel_Type,Transmission,KM_Driven,Owner_Type,City,Listed_Price_INR,Purchase_Price_INR,Selling_Price_INR,Status,Listing_Date,Sold_Date,Car_Age_Years,Profit_INR
+UC00001,Maruti Suzuki,Swift,2024,Petrol,Automatic,21620,1st Owner,Ahmedabad,680000,615000,695000.0,Sold,2026-05-31,2026-06-21,2,80000.0
+UC00002,Hyundai,i20,2020,Diesel,Automatic,80889,1st Owner,Delhi,255000,225000,,In Stock,2024-10-17,,6,
+UC00003,Tata,Safari,2020,Diesel,Automatic,67031,2nd Owner,Hyderabad,825000,695000,815000.0,Sold,2025-07-27,2025-08-04,6,120000.0
+UC00004,Mahindra,Bolero,2023,Diesel,Automatic,62345,1st Owner,Jaipur,455000,385000,435000.0,Sold,2025-01-23,2025-02-08,3,50000.0
+UC00005,Toyota,Innova Crysta,2022,Petrol,Automatic,59560,1st Owner,Mumbai,1275000,1160000,1250000.0,Sold,2024-11-23,2024-12-05,4,90000.0
+UC00006,Maruti Suzuki,Dzire,2023,Petrol,Manual,48449,2nd Owner,Hyderabad,460000,415000,,In Stock,2025-11-29,,3,
+UC00007,Hyundai,Creta,2019,Petrol,Manual,98201,1st Owner,Delhi,620000,550000,615000.0,Sold,2026-04-14,2026-04-29,7,65000.0
+UC00008,Tata,Safari,2019,Diesel,Manual,79607,1st Owner,Jaipur,605000,500000,585000.0,Sold,2026-06-15,2026-07-06,7,85000.0
+UC00009,Mahindra,Bolero,2019,Diesel,Manual,85506,1st Owner,Bengaluru,380000,320000,360000.0,Sold,2026-03-21,2026-04-23,7,40000.0
+UC00010,Toyota,Urban Cruiser Hyryder,2023,CNG,Manual,37540,1st Owner,Bengaluru,980000,845000,,In Stock,2025-09-29,,3,
+UC00011,Maruti Suzuki,Baleno,2025,Petrol,Automatic,8434,2nd Owner,Nagpur,540000,500000,,In Stock,2026-01-04,,1,
+UC00012,Hyundai,Verna,2021,Petrol,Automatic,61048,1st Owner,Mumbai,380000,325000,380000.0,Sold,2025-05-01,2025-06-09,5,55000.0
+UC00013,Tata,Nexon,2024,Diesel,Manual,26469,1st Owner,Nagpur,895000,740000,880000.0,Sold,2024-07-07,2024-07-30,2,140000.0
+UC00014,Mahindra,Thar,2021,Diesel,Manual,66390,1st Owner,Pune,900000,795000,,In Stock,2024-11-05,,5,
+UC00015,Toyota,Fortuner,2019,Petrol,Automatic,74351,1st Owner,Nashik,1275000,1175000,1270000.0,Sold,2025-05-25,2025-07-01,7,95000.0
+UC00016,Maruti Suzuki,Baleno,2025,Petrol,Manual,17054,1st Owner,Aurangabad,805000,675000,800000.0,Sold,2026-05-17,2026-06-17,1,125000.0
+UC00017,Hyundai,Verna,2018,Petrol,Automatic,97166,2nd Owner,Aurangabad,500000,425000,470000.0,Sold,2024-04-23,2024-05-19,8,45000.0
+UC00018,Tata,Punch,2022,CNG,Manual,60465,3rd Owner,Delhi,400000,340000,415000.0,Sold,2024-11-01,2024-11-26,4,75000.0
+UC00019,Mahindra,Thar,2021,Petrol,Automatic,50859,2nd Owner,Ahmedabad,865000,760000,,In Stock,2026-07-24,,5,
+UC00020,Toyota,Innova Crysta,2023,Petrol,Automatic,52509,1st Owner,Mumbai,1525000,1290000,,In Stock,2026-07-25,,3,
+UC00021,Maruti Suzuki,Swift,2023,Petrol,Automatic,55883,1st Owner,Nashik,515000,475000,510000.0,Sold,2024-11-21,2025-01-03,3,35000.0
+UC00022,Hyundai,Creta,2019,Petrol,Manual,84860,1st Owner,Nashik,615000,545000,,In Stock,2025-06-15,,7,
+UC00023,Tata,Nexon,2023,CNG,Manual,29399,2nd Owner,Pune,625000,535000,,In Stock,2024-11-25,,3,
+UC00024,Mahindra,XUV 3XO,2025,Petrol,Manual,14388,1st Owner,Pune,735000,615000,,Under Inspection,2025-10-27,,1,
+UC00025,Toyota,Fortuner,2022,Petrol,Manual,44394,2nd Owner,Ahmedabad,1090000,905000,,In Stock,2025-05-01,,4,
+UC00026,Maruti Suzuki,Baleno,2020,CNG,Automatic,63407,1st Owner,Nashik,320000,275000,,In Stock,2025-03-09,,6,
+UC00027,Hyundai,Venue,2022,Petrol,Automatic,72727,2nd Owner,Nashik,365000,300000,365000.0,Sold,2024-07-20,2024-08-27,4,65000.0
+UC00028,Tata,Punch,2022,CNG,Manual,50169,1st Owner,Jaipur,380000,315000,360000.0,Sold,2024-07-23,2024-08-01,4,45000.0
+UC00029,Mahindra,XUV 3XO,2024,Diesel,Manual,35979,1st Owner,Delhi,845000,775000,865000.0,Sold,2025-06-01,2025-06-10,2,90000.0
+UC00030,Toyota,Rumion,2023,CNG,Manual,61885,1st Owner,Bengaluru,680000,595000,,In Stock,2024-04-22,,3,
+UC00031,Maruti Suzuki,Swift,2021,CNG,Automatic,46426,2nd Owner,Nashik,405000,365000,,In Stock,2026-10-25,,5,
+UC00032,Hyundai,Verna,2019,Petrol,Automatic,81606,1st Owner,Bengaluru,380000,340000,365000.0,Sold,2025-03-31,2025-04-23,7,25000.0
+UC00033,Tata,Nexon,2021,Diesel,Manual,79409,1st Owner,Aurangabad,465000,415000,,Under Inspection,2025-12-05,,5,
+UC00034,Mahindra,XUV 3XO,2025,Petrol,Manual,32185,2nd Owner,Nagpur,1030000,905000,1035000.0,Sold,2025-11-16,2025-11-25,1,130000.0
+UC00035,Toyota,Urban Cruiser Hyryder,2022,Petrol,Automatic,59932,1st Owner,Jaipur,655000,590000,,Under Inspection,2025-10-07,,4,
+UC00036,Maruti Suzuki,Dzire,2019,Petrol,Manual,72865,2nd Owner,Ahmedabad,320000,295000,,In Stock,2024-02-22,,7,
+UC00037,Hyundai,Creta,2022,Diesel,Manual,46303,1st Owner,Nagpur,765000,690000,780000.0,Sold,2025-05-04,2025-05-16,4,90000.0
+UC00038,Tata,Harrier,2019,Diesel,Manual,89613,1st Owner,Jaipur,710000,615000,,In Stock,2026-02-06,,7,
+UC00039,Mahindra,Scorpio,2023,Diesel,Manual,44226,1st Owner,Ahmedabad,710000,595000,,Under Inspection,2025-08-05,,3,
+UC00040,Toyota,Glanza,2024,Petrol,Manual,45573,2nd Owner,Aurangabad,495000,425000,,In Stock,2026-03-30,,2,
+UC00041,Maruti Suzuki,Fronx,2025,Petrol,Manual,26264,1st Owner,Ahmedabad,910000,815000,855000.0,Sold,2026-01-28,2026-03-07,1,40000.0
+UC00042,Hyundai,i20,2020,Petrol,Manual,58287,2nd Owner,Nagpur,380000,315000,,In Stock,2025-12-19,,6,
+UC00043,Tata,Punch,2024,CNG,Automatic,38168,1st Owner,Pune,455000,420000,430000.0,Sold,2025-11-13,2025-12-04,2,10000.0
+UC00044,Mahindra,Thar,2025,Diesel,Automatic,28795,1st Owner,Jaipur,785000,650000,,In Stock,2024-02-07,,1,
+UC00045,Toyota,Rumion,2023,Petrol,Automatic,19830,2nd Owner,Mumbai,835000,750000,855000.0,Sold,2025-04-24,2025-05-04,3,105000.0
+UC00046,Maruti Suzuki,Swift,2018,CNG,Manual,93568,2nd Owner,Hyderabad,210000,190000,200000.0,Sold,2024-04-14,2024-05-17,8,10000.0
+UC00047,Hyundai,i20,2025,Diesel,Manual,7869,1st Owner,Mumbai,810000,725000,775000.0,Sold,2026-03-19,2026-03-29,1,50000.0
+UC00048,Tata,Punch,2025,CNG,Manual,14784,1st Owner,Hyderabad,545000,505000,,In Stock,2025-07-18,,1,
+UC00049,Mahindra,Bolero,2020,Diesel,Manual,84088,1st Owner,Delhi,290000,255000,275000.0,Sold,2026-09-22,2026-10-06,6,20000.0
+UC00050,Toyota,Fortuner,2020,Petrol,Manual,65466,1st Owner,Delhi,1230000,1040000,1230000.0,Sold,2026-08-24,2026-08-27,6,190000.0
+UC00051,Maruti Suzuki,Baleno,2021,Petrol,Manual,81403,1st Owner,Nashik,420000,375000,420000.0,Sold,2024-09-15,2024-10-21,5,45000.0
+UC00052,Hyundai,Venue,2022,Diesel,Manual,41651,1st Owner,Delhi,660000,605000,680000.0,Sold,2026-02-09,2026-03-05,4,75000.0
+UC00053,Tata,Punch,2024,CNG,Manual,35587,1st Owner,Ahmedabad,455000,415000,430000.0,Sold,2025-08-16,2025-09-01,2,15000.0
+UC00054,Mahindra,XUV700,2021,Petrol,Manual,71887,2nd Owner,Hyderabad,1010000,870000,,In Stock,2025-12-02,,5,
+UC00055,Toyota,Fortuner,2022,Diesel,Automatic,47336,2nd Owner,Nagpur,1870000,1680000,,In Stock,2024-11-22,,4,
+UC00056,Maruti Suzuki,Baleno,2018,CNG,Manual,102012,1st Owner,Bengaluru,375000,350000,,In Stock,2026-04-21,,8,
+UC00057,Hyundai,Exter,2024,Petrol,Manual,44836,1st Owner,Ahmedabad,575000,500000,550000.0,Sold,2026-03-04,2026-03-16,2,50000.0
+UC00058,Tata,Altroz,2025,Petrol,Manual,6125,1st Owner,Jaipur,590000,490000,,In Stock,2025-09-07,,1,
+UC00059,Mahindra,XUV 3XO,2025,Petrol,Automatic,19297,1st Owner,Delhi,875000,770000,,In Stock,2024-12-13,,1,
+UC00060,Toyota,Glanza,2022,CNG,Manual,71833,2nd Owner,Aurangabad,465000,400000,460000.0,Sold,2025-09-08,2025-10-02,4,60000.0
+UC00061,Maruti Suzuki,Swift,2018,Petrol,Manual,97675,1st Owner,Mumbai,225000,185000,230000.0,Sold,2024-12-21,2025-01-10,8,45000.0
+UC00062,Hyundai,Venue,2019,Diesel,Manual,83354,1st Owner,Bengaluru,535000,475000,,In Stock,2025-10-27,,7,
+UC00063,Tata,Safari,2025,Diesel,Automatic,3000,2nd Owner,Nagpur,1050000,945000,1035000.0,Sold,2026-06-29,2026-08-12,1,90000.0
+UC00064,Mahindra,Bolero,2021,Diesel,Manual,51387,2nd Owner,Jaipur,430000,370000,410000.0,Sold,2025-06-17,2025-07-23,5,40000.0
+UC00065,Toyota,Rumion,2024,CNG,Automatic,39219,1st Owner,Nagpur,935000,775000,,In Stock,2024-10-06,,2,
+UC00066,Maruti Suzuki,Fronx,2024,CNG,Manual,35756,1st Owner,Aurangabad,850000,765000,,In Stock,2024-04-24,,2,
+UC00067,Hyundai,Verna,2023,Petrol,Manual,48781,1st Owner,Mumbai,825000,675000,,In Stock,2025-07-11,,3,
+UC00068,Tata,Nexon,2024,Diesel,Manual,27589,1st Owner,Nagpur,700000,640000,,In Stock,2026-06-14,,2,
+UC00069,Mahindra,XUV700,2022,Diesel,Manual,49780,1st Owner,Ahmedabad,940000,845000,,Under Inspection,2025-11-01,,4,
+UC00070,Toyota,Innova Crysta,2024,Diesel,Manual,30150,3rd Owner,Ahmedabad,1250000,1080000,1290000.0,Sold,2026-01-05,2026-01-22,2,210000.0
+UC00071,Maruti Suzuki,Swift,2018,Petrol,Manual,84014,1st Owner,Aurangabad,315000,270000,,Under Inspection,2025-04-20,,8,
+UC00072,Hyundai,Exter,2025,CNG,Automatic,12426,1st Owner,Nashik,640000,590000,,In Stock,2024-08-14,,1,
+UC00073,Tata,Harrier,2023,Diesel,Manual,35218,1st Owner,Delhi,845000,775000,,In Stock,2024-09-20,,3,
+UC00074,Mahindra,Bolero,2022,Diesel,Manual,60259,3rd Owner,Hyderabad,415000,375000,,In Stock,2025-05-08,,4,
+UC00075,Toyota,Fortuner,2019,Petrol,Manual,98234,3rd Owner,Hyderabad,995000,820000,1030000.0,Sold,2025-06-22,2025-07-06,7,210000.0
+UC00076,Maruti Suzuki,Swift,2018,Petrol,Manual,85345,1st Owner,Hyderabad,210000,175000,205000.0,Sold,2024-11-24,2025-01-04,8,30000.0
+UC00077,Hyundai,Verna,2021,Petrol,Manual,68306,1st Owner,Pune,335000,305000,315000.0,Sold,2024-01-02,2024-01-16,5,10000.0
+UC00078,Tata,Harrier,2019,Diesel,Automatic,90514,2nd Owner,Aurangabad,525000,450000,505000.0,Sold,2026-06-25,2026-07-27,7,55000.0
+UC00079,Mahindra,Scorpio,2019,Diesel,Automatic,86684,1st Owner,Nagpur,600000,500000,565000.0,Sold,2025-04-28,2025-04-30,7,65000.0
+UC00080,Toyota,Rumion,2023,Petrol,Manual,49388,1st Owner,Hyderabad,660000,585000,,In Stock,2025-10-13,,3,
+UC00081,Maruti Suzuki,Brezza,2019,CNG,Manual,92842,2nd Owner,Delhi,475000,405000,490000.0,Sold,2026-10-13,2026-11-10,7,85000.0
+UC00082,Hyundai,Exter,2025,CNG,Manual,31792,2nd Owner,Ahmedabad,655000,555000,645000.0,Sold,2026-05-14,2026-05-19,1,90000.0
+UC00083,Tata,Altroz,2019,Diesel,Manual,67055,2nd Owner,Mumbai,325000,295000,,In Stock,2024-06-04,,7,
+UC00084,Mahindra,XUV700,2022,Petrol,Automatic,54426,1st Owner,Hyderabad,1350000,1110000,,Under Inspection,2025-06-16,,4,
+UC00085,Toyota,Glanza,2023,CNG,Automatic,42108,1st Owner,Ahmedabad,525000,445000,,In Stock,2024-05-18,,3,
+UC00086,Maruti Suzuki,Baleno,2020,CNG,Manual,56526,1st Owner,Pune,430000,365000,430000.0,Sold,2024-08-30,2024-09-24,6,65000.0
+UC00087,Hyundai,Venue,2024,Diesel,Manual,43729,2nd Owner,Hyderabad,615000,540000,,In Stock,2026-10-29,,2,
+UC00088,Tata,Punch,2023,CNG,Automatic,37212,1st Owner,Mumbai,585000,490000,605000.0,Sold,2025-12-17,2025-12-27,3,115000.0
+UC00089,Mahindra,XUV 3XO,2025,Petrol,Manual,24022,2nd Owner,Nashik,1085000,935000,,In Stock,2025-11-16,,1,
+UC00090,Toyota,Urban Cruiser Hyryder,2024,CNG,Manual,46333,2nd Owner,Delhi,1205000,1000000,,In Stock,2026-06-27,,2,
+UC00091,Maruti Suzuki,Brezza,2019,CNG,Automatic,102098,2nd Owner,Aurangabad,360000,310000,,In Stock,2025-02-07,,7,
+UC00092,Hyundai,i20,2018,Diesel,Manual,91062,1st Owner,Aurangabad,285000,240000,,In Stock,2025-01-31,,8,
+UC00093,Tata,Nexon,2020,CNG,Manual,79832,2nd Owner,Nashik,555000,470000,535000.0,Sold,2025-05-17,2025-06-10,6,65000.0
+UC00094,Mahindra,Thar,2022,Petrol,Manual,52057,3rd Owner,Mumbai,785000,685000,745000.0,Sold,2024-05-22,2024-06-05,4,60000.0
+UC00095,Toyota,Innova Crysta,2024,Petrol,Automatic,31234,3rd Owner,Jaipur,1545000,1280000,1475000.0,Sold,2024-08-21,2024-09-16,2,195000.0
+UC00096,Maruti Suzuki,Brezza,2019,CNG,Manual,67812,1st Owner,Delhi,375000,315000,,In Stock,2025-07-04,,7,
+UC00097,Hyundai,Verna,2023,Petrol,Manual,27411,2nd Owner,Mumbai,480000,445000,,In Stock,2026-03-21,,3,
+UC00098,Tata,Safari,2019,Diesel,Automatic,84664,1st Owner,Delhi,690000,585000,,In Stock,2025-03-10,,7,
+UC00099,Mahindra,XUV700,2025,Diesel,Manual,11852,1st Owner,Bengaluru,1190000,1100000,,In Stock,2024-12-10,,1,
+UC00100,Toyota,Glanza,2020,Petrol,Manual,71887,1st Owner,Aurangabad,255000,235000,,Under Inspection,2024-05-18,,6,
+UC00101,Maruti Suzuki,Swift,2019,CNG,Manual,89600,1st Owner,Nashik,220000,205000,,In Stock,2024-03-16,,7,
+UC00102,Hyundai,i20,2025,Petrol,Manual,17620,3rd Owner,Pune,635000,555000,,Under Inspection,2026-05-09,,1,
+UC00103,Tata,Safari,2021,Diesel,Manual,56235,2nd Owner,Delhi,950000,860000,,Under Inspection,2025-10-15,,5,
+UC00104,Mahindra,XUV700,2023,Diesel,Automatic,40957,1st Owner,Mumbai,855000,745000,815000.0,Sold,2026-04-07,2026-05-06,3,70000.0
+UC00105,Toyota,Glanza,2021,CNG,Automatic,68859,1st Owner,Aurangabad,405000,360000,,Under Inspection,2025-07-05,,5,
+UC00106,Maruti Suzuki,Baleno,2022,Petrol,Automatic,59488,1st Owner,Jaipur,550000,495000,570000.0,Sold,2025-04-17,2025-05-22,4,75000.0
+UC00107,Hyundai,Verna,2019,Petrol,Manual,98053,2nd Owner,Aurangabad,395000,355000,,Under Inspection,2025-02-27,,7,
+UC00108,Tata,Punch,2023,Petrol,Manual,41436,1st Owner,Aurangabad,420000,350000,,In Stock,2026-02-08,,3,
+UC00109,Mahindra,Bolero,2020,Diesel,Manual,61769,2nd Owner,Mumbai,395000,335000,400000.0,Sold,2026-07-03,2026-07-17,6,65000.0
+UC00110,Toyota,Urban Cruiser Hyryder,2022,Petrol,Automatic,58387,1st Owner,Delhi,890000,800000,,In Stock,2026-02-21,,4,
+UC00111,Maruti Suzuki,Baleno,2020,CNG,Automatic,83432,1st Owner,Nagpur,235000,205000,,In Stock,2025-12-20,,6,
+UC00112,Hyundai,Venue,2022,Diesel,Manual,60153,1st Owner,Ahmedabad,540000,480000,525000.0,Sold,2025-02-26,2025-04-09,4,45000.0
+UC00113,Tata,Altroz,2025,CNG,Automatic,11921,2nd Owner,Jaipur,640000,560000,630000.0,Sold,2025-09-28,2025-10-28,1,70000.0
+UC00114,Mahindra,Bolero,2020,Diesel,Manual,74624,1st Owner,Nashik,395000,360000,380000.0,Sold,2024-08-17,2024-08-20,6,20000.0
+UC00115,Toyota,Innova Crysta,2021,Petrol,Manual,76728,2nd Owner,Delhi,765000,710000,735000.0,Sold,2024-05-01,2024-05-04,5,25000.0
+UC00116,Maruti Suzuki,Brezza,2021,CNG,Automatic,57427,1st Owner,Jaipur,615000,525000,,In Stock,2024-05-24,,5,
+UC00117,Hyundai,i20,2018,Diesel,Manual,79835,1st Owner,Pune,315000,280000,,Under Inspection,2024-01-25,,8,
+UC00118,Tata,Altroz,2019,Diesel,Automatic,99002,3rd Owner,Aurangabad,235000,205000,,In Stock,2024-11-30,,7,
+UC00119,Mahindra,Bolero,2020,Diesel,Automatic,80156,2nd Owner,Jaipur,260000,235000,265000.0,Sold,2025-03-13,2025-03-24,6,30000.0
+UC00120,Toyota,Rumion,2023,Petrol,Manual,42750,1st Owner,Aurangabad,615000,510000,580000.0,Sold,2025-07-14,2025-08-22,3,70000.0
+UC00121,Maruti Suzuki,Dzire,2018,Petrol,Automatic,91933,1st Owner,Mumbai,335000,305000,,In Stock,2024-06-03,,8,
+UC00122,Hyundai,Creta,2018,Diesel,Manual,92933,2nd Owner,Hyderabad,495000,445000,490000.0,Sold,2025-03-08,2025-03-19,8,45000.0
+UC00123,Tata,Safari,2020,Diesel,Manual,73638,1st Owner,Aurangabad,585000,535000,,Under Inspection,2024-07-04,,6,
+UC00124,Mahindra,XUV 3XO,2024,Petrol,Manual,26165,2nd Owner,Nagpur,1040000,955000,1000000.0,Sold,2025-05-11,2025-06-10,2,45000.0
+UC00125,Toyota,Rumion,2023,Petrol,Manual,27680,2nd Owner,Bengaluru,800000,660000,,In Stock,2025-01-25,,3,
+UC00126,Maruti Suzuki,Brezza,2023,Petrol,Automatic,32520,2nd Owner,Aurangabad,595000,505000,590000.0,Sold,2025-08-12,2025-09-02,3,85000.0
+UC00127,Hyundai,i20,2023,Diesel,Manual,48012,1st Owner,Bengaluru,535000,450000,550000.0,Sold,2026-07-28,2026-09-04,3,100000.0
+UC00128,Tata,Harrier,2024,Diesel,Manual,38626,1st Owner,Jaipur,945000,845000,910000.0,Sold,2025-03-11,2025-03-22,2,65000.0
+UC00129,Mahindra,Thar,2022,Petrol,Automatic,56492,1st Owner,Pune,740000,610000,720000.0,Sold,2026-09-02,2026-09-30,4,110000.0
+UC00130,Toyota,Glanza,2020,Petrol,Manual,71733,1st Owner,Jaipur,250000,220000,,In Stock,2026-10-07,,6,
+UC00131,Maruti Suzuki,Dzire,2018,CNG,Automatic,98404,1st Owner,Nashik,240000,220000,,In Stock,2025-02-25,,8,
+UC00132,Hyundai,Exter,2023,Petrol,Manual,31333,3rd Owner,Nagpur,460000,395000,460000.0,Sold,2025-11-18,2025-12-04,3,65000.0
+UC00133,Tata,Punch,2021,CNG,Manual,77742,1st Owner,Ahmedabad,370000,320000,,Under Inspection,2026-04-22,,5,
+UC00134,Mahindra,XUV 3XO,2025,Petrol,Manual,6185,1st Owner,Aurangabad,1075000,945000,1045000.0,Sold,2025-04-29,2025-05-04,1,100000.0
+UC00135,Toyota,Innova Crysta,2022,Diesel,Automatic,47918,1st Owner,Ahmedabad,1110000,1000000,,In Stock,2024-08-13,,4,
+UC00136,Maruti Suzuki,Fronx,2025,Petrol,Manual,27177,2nd Owner,Delhi,775000,715000,775000.0,Sold,2025-10-09,2025-10-12,1,60000.0
+UC00137,Hyundai,Exter,2025,Petrol,Automatic,24455,2nd Owner,Mumbai,635000,555000,,In Stock,2026-09-10,,1,
+UC00138,Tata,Punch,2025,CNG,Manual,40033,1st Owner,Delhi,725000,635000,,Under Inspection,2024-06-17,,1,
+UC00139,Mahindra,Thar,2025,Diesel,Manual,14716,2nd Owner,Pune,1025000,850000,1045000.0,Sold,2024-09-13,2024-10-09,1,195000.0
+UC00140,Toyota,Urban Cruiser Hyryder,2025,CNG,Manual,11534,1st Owner,Nagpur,990000,900000,1015000.0,Sold,2026-01-11,2026-01-26,1,115000.0
+UC00141,Maruti Suzuki,Dzire,2024,CNG,Manual,29572,1st Owner,Bengaluru,390000,350000,,In Stock,2024-05-23,,2,
+UC00142,Hyundai,Creta,2022,Petrol,Manual,55282,1st Owner,Bengaluru,650000,540000,675000.0,Sold,2024-07-16,2024-07-27,4,135000.0
+UC00143,Tata,Altroz,2021,CNG,Manual,67451,2nd Owner,Ahmedabad,310000,270000,295000.0,Sold,2025-10-27,2025-11-14,5,25000.0
+UC00144,Mahindra,XUV 3XO,2024,Diesel,Automatic,34605,1st Owner,Bengaluru,610000,565000,625000.0,Sold,2026-08-06,2026-08-20,2,60000.0
+UC00145,Toyota,Fortuner,2018,Petrol,Manual,98928,2nd Owner,Ahmedabad,1045000,910000,,Under Inspection,2025-08-18,,8,
+UC00146,Maruti Suzuki,Baleno,2020,CNG,Automatic,69892,1st Owner,Nashik,415000,375000,,Under Inspection,2025-10-12,,6,
+UC00147,Hyundai,Exter,2024,CNG,Automatic,31269,1st Owner,Aurangabad,725000,670000,735000.0,Sold,2025-07-24,2025-08-15,2,65000.0
+UC00148,Tata,Harrier,2025,Diesel,Manual,4355,1st Owner,Aurangabad,1020000,925000,,Under Inspection,2026-05-26,,1,
+UC00149,Mahindra,Bolero,2018,Diesel,Manual,98891,3rd Owner,Mumbai,210000,185000,,Under Inspection,2024-02-12,,8,
+UC00150,Toyota,Innova Crysta,2022,Diesel,Manual,50561,1st Owner,Pune,1365000,1200000,1370000.0,Sold,2025-08-19,2025-09-12,4,170000.0
+UC00151,Maruti Suzuki,Fronx,2025,CNG,Automatic,6104,1st Owner,Pune,785000,680000,810000.0,Sold,2024-04-05,2024-04-21,1,130000.0
+UC00152,Hyundai,Verna,2018,Diesel,Manual,98210,1st Owner,Pune,375000,315000,380000.0,Sold,2025-12-07,2026-01-09,8,65000.0
+UC00153,Tata,Altroz,2024,Petrol,Manual,23252,1st Owner,Mumbai,505000,470000,500000.0,Sold,2025-06-17,2025-07-29,2,30000.0
+UC00154,Mahindra,XUV700,2025,Petrol,Manual,7788,1st Owner,Delhi,1980000,1725000,2040000.0,Sold,2024-02-23,2024-03-27,1,315000.0
+UC00155,Toyota,Fortuner,2024,Petrol,Automatic,30500,1st Owner,Nagpur,2785000,2475000,,In Stock,2025-10-31,,2,
+UC00156,Maruti Suzuki,Dzire,2023,CNG,Manual,35116,2nd Owner,Aurangabad,420000,380000,415000.0,Sold,2025-09-19,2025-10-23,3,35000.0
+UC00157,Hyundai,Venue,2019,Petrol,Automatic,94687,2nd Owner,Delhi,310000,260000,320000.0,Sold,2024-10-23,2024-11-02,7,60000.0
+UC00158,Tata,Punch,2022,Petrol,Automatic,57851,1st Owner,Ahmedabad,380000,325000,375000.0,Sold,2025-02-12,2025-02-26,4,50000.0
+UC00159,Mahindra,Scorpio,2020,Diesel,Manual,73284,1st Owner,Pune,535000,485000,,In Stock,2024-03-14,,6,
+UC00160,Toyota,Innova Crysta,2021,Diesel,Manual,57620,1st Owner,Nashik,905000,780000,,In Stock,2024-07-02,,5,
+UC00161,Maruti Suzuki,Baleno,2019,Petrol,Manual,84645,1st Owner,Ahmedabad,280000,255000,290000.0,Sold,2025-01-22,2025-02-20,7,35000.0
+UC00162,Hyundai,Verna,2018,Diesel,Manual,82453,2nd Owner,Ahmedabad,485000,420000,460000.0,Sold,2026-08-12,2026-09-08,8,40000.0
+UC00163,Tata,Harrier,2022,Diesel,Manual,57775,1st Owner,Nagpur,1075000,895000,,In Stock,2024-03-13,,4,
+UC00164,Mahindra,XUV 3XO,2025,Diesel,Automatic,35405,1st Owner,Pune,790000,700000,815000.0,Sold,2025-02-25,2025-04-11,1,115000.0
+UC00165,Toyota,Glanza,2023,Petrol,Manual,45757,1st Owner,Delhi,460000,420000,465000.0,Sold,2026-09-23,2026-10-27,3,45000.0
+UC00166,Maruti Suzuki,Swift,2019,CNG,Automatic,82614,1st Owner,Nashik,350000,295000,,Under Inspection,2025-12-12,,7,
+UC00167,Hyundai,i20,2020,Diesel,Manual,80432,2nd Owner,Nagpur,355000,305000,365000.0,Sold,2025-12-11,2025-12-13,6,60000.0
+UC00168,Tata,Harrier,2022,Diesel,Manual,31465,1st Owner,Ahmedabad,1130000,940000,,In Stock,2025-06-28,,4,
+UC00169,Mahindra,Thar,2022,Petrol,Manual,61456,1st Owner,Pune,985000,875000,,Under Inspection,2024-06-22,,4,
+UC00170,Toyota,Glanza,2023,Petrol,Manual,44266,2nd Owner,Mumbai,355000,310000,340000.0,Sold,2026-03-03,2026-03-22,3,30000.0
+UC00171,Maruti Suzuki,Brezza,2020,Petrol,Automatic,75354,2nd Owner,Delhi,350000,295000,,Under Inspection,2024-10-06,,6,
+UC00172,Hyundai,i20,2021,Petrol,Manual,90685,1st Owner,Ahmedabad,265000,235000,270000.0,Sold,2025-02-16,2025-03-30,5,35000.0
+UC00173,Tata,Safari,2024,Diesel,Manual,9229,1st Owner,Ahmedabad,1170000,1040000,1190000.0,Sold,2026-06-29,2026-07-06,2,150000.0
+UC00174,Mahindra,Bolero,2019,Diesel,Manual,67230,2nd Owner,Jaipur,315000,285000,,In Stock,2025-10-14,,7,
+UC00175,Toyota,Innova Crysta,2021,Diesel,Manual,48824,1st Owner,Bengaluru,875000,795000,900000.0,Sold,2025-09-03,2025-10-09,5,105000.0
+UC00176,Maruti Suzuki,Dzire,2020,CNG,Manual,71253,2nd Owner,Nagpur,310000,285000,320000.0,Sold,2026-10-05,2026-10-22,6,35000.0
+UC00177,Hyundai,Verna,2023,Petrol,Manual,53318,1st Owner,Delhi,520000,470000,,Under Inspection,2026-07-08,,3,
+UC00178,Tata,Harrier,2025,Diesel,Automatic,25275,1st Owner,Nashik,1405000,1280000,1325000.0,Sold,2025-09-28,2025-11-09,1,45000.0
+UC00179,Mahindra,Bolero,2020,Diesel,Manual,85169,1st Owner,Bengaluru,395000,325000,,Under Inspection,2026-06-29,,6,
+UC00180,Toyota,Fortuner,2020,Petrol,Automatic,72025,2nd Owner,Hyderabad,970000,850000,985000.0,Sold,2026-07-18,2026-08-24,6,135000.0
+UC00181,Maruti Suzuki,Baleno,2021,Petrol,Automatic,52284,1st Owner,Aurangabad,415000,360000,,In Stock,2026-02-20,,5,
+UC00182,Hyundai,Venue,2020,Diesel,Manual,71942,1st Owner,Ahmedabad,315000,290000,,Under Inspection,2026-05-17,,6,
+UC00183,Tata,Punch,2025,Petrol,Manual,8285,1st Owner,Aurangabad,860000,710000,,In Stock,2024-03-15,,1,
+UC00184,Mahindra,Bolero,2022,Diesel,Manual,53196,2nd Owner,Aurangabad,415000,375000,410000.0,Sold,2025-11-01,2025-11-10,4,35000.0
+UC00185,Toyota,Glanza,2019,Petrol,Manual,76212,1st Owner,Hyderabad,380000,325000,,In Stock,2024-09-15,,7,
+UC00186,Maruti Suzuki,Fronx,2023,Petrol,Manual,44981,1st Owner,Aurangabad,840000,715000,835000.0,Sold,2024-12-22,2025-01-17,3,120000.0
+UC00187,Hyundai,Venue,2023,Petrol,Manual,63542,1st Owner,Delhi,670000,600000,635000.0,Sold,2024-02-24,2024-03-14,3,35000.0
+UC00188,Tata,Harrier,2019,Diesel,Manual,92000,2nd Owner,Hyderabad,720000,635000,730000.0,Sold,2024-09-05,2024-09-30,7,95000.0
+UC00189,Mahindra,XUV700,2021,Diesel,Manual,65820,1st Owner,Delhi,1025000,850000,1015000.0,Sold,2025-09-24,2025-10-18,5,165000.0
+UC00190,Toyota,Rumion,2024,Petrol,Automatic,43022,1st Owner,Bengaluru,730000,605000,685000.0,Sold,2024-07-08,2024-07-26,2,80000.0
+UC00191,Maruti Suzuki,Dzire,2022,CNG,Manual,49405,1st Owner,Pune,310000,275000,,In Stock,2026-09-15,,4,
+UC00192,Hyundai,Venue,2021,Petrol,Automatic,63877,1st Owner,Nashik,565000,515000,590000.0,Sold,2026-01-31,2026-02-14,5,75000.0
+UC00193,Tata,Punch,2022,CNG,Automatic,54116,3rd Owner,Bengaluru,410000,365000,,Under Inspection,2024-12-04,,4,
+UC00194,Mahindra,Scorpio,2021,Diesel,Manual,54643,1st Owner,Bengaluru,870000,810000,,In Stock,2026-10-05,,5,
+UC00195,Toyota,Innova Crysta,2018,Diesel,Manual,98438,1st Owner,Bengaluru,685000,620000,665000.0,Sold,2025-10-30,2025-11-24,8,45000.0
+UC00196,Maruti Suzuki,Swift,2021,Petrol,Manual,48774,1st Owner,Pune,375000,310000,365000.0,Sold,2026-03-08,2026-03-21,5,55000.0
+UC00197,Hyundai,Verna,2025,Petrol,Manual,27385,1st Owner,Ahmedabad,1030000,860000,1030000.0,Sold,2024-01-23,2024-02-23,1,170000.0
+UC00198,Tata,Harrier,2021,Diesel,Automatic,72728,1st Owner,Mumbai,630000,580000,625000.0,Sold,2026-07-31,2026-08-10,5,45000.0
+UC00199,Mahindra,XUV 3XO,2025,Petrol,Automatic,15146,1st Owner,Bengaluru,845000,735000,825000.0,Sold,2026-02-09,2026-02-13,1,90000.0
+UC00200,Toyota,Fortuner,2020,Diesel,Manual,69160,1st Owner,Mumbai,1405000,1270000,,In Stock,2024-02-18,,6,
+UC00201,Maruti Suzuki,Swift,2024,Petrol,Manual,20699,1st Owner,Ahmedabad,510000,440000,,In Stock,2024-08-22,,2,
+UC00202,Hyundai,i20,2025,Diesel,Manual,31177,2nd Owner,Jaipur,750000,615000,,Under Inspection,2024-07-25,,1,
+UC00203,Tata,Altroz,2020,CNG,Manual,78343,2nd Owner,Mumbai,295000,255000,295000.0,Sold,2025-10-06,2025-11-06,6,40000.0
+UC00204,Mahindra,Bolero,2023,Diesel,Automatic,51755,1st Owner,Mumbai,485000,415000,,In Stock,2024-01-25,,3,
+UC00205,Toyota,Innova Crysta,2025,Diesel,Manual,4667,2nd Owner,Bengaluru,1170000,1070000,,In Stock,2026-02-09,,1,
+UC00206,Maruti Suzuki,Dzire,2019,Petrol,Manual,76384,1st Owner,Jaipur,370000,310000,,In Stock,2026-06-19,,7,
+UC00207,Hyundai,Venue,2021,Petrol,Automatic,82009,1st Owner,Bengaluru,565000,495000,580000.0,Sold,2024-12-17,2025-01-23,5,85000.0
+UC00208,Tata,Altroz,2020,Diesel,Automatic,67932,1st Owner,Nashik,240000,215000,225000.0,Sold,2024-05-28,2024-06-19,6,10000.0
+UC00209,Mahindra,Thar,2021,Petrol,Manual,70567,1st Owner,Nagpur,750000,645000,755000.0,Sold,2024-02-03,2024-02-23,5,110000.0
+UC00210,Toyota,Fortuner,2021,Diesel,Manual,67642,2nd Owner,Mumbai,1430000,1265000,1345000.0,Sold,2025-01-31,2025-03-07,5,80000.0
+UC00211,Maruti Suzuki,Baleno,2024,Petrol,Automatic,18577,2nd Owner,Aurangabad,595000,540000,,In Stock,2024-01-24,,2,
+UC00212,Hyundai,i20,2023,Diesel,Manual,36957,1st Owner,Jaipur,515000,430000,,Under Inspection,2024-07-18,,3,
+UC00213,Tata,Nexon,2018,Diesel,Manual,105793,1st Owner,Pune,420000,350000,,Under Inspection,2026-10-23,,8,
+UC00214,Mahindra,XUV 3XO,2024,Petrol,Manual,31233,2nd Owner,Mumbai,800000,740000,775000.0,Sold,2026-02-01,2026-03-12,2,35000.0
+UC00215,Toyota,Fortuner,2021,Diesel,Manual,68368,1st Owner,Ahmedabad,1990000,1675000,1930000.0,Sold,2025-02-27,2025-03-18,5,255000.0
+UC00216,Maruti Suzuki,Brezza,2020,Petrol,Manual,69105,1st Owner,Pune,400000,345000,405000.0,Sold,2025-11-16,2025-12-03,6,60000.0
+UC00217,Hyundai,Creta,2024,Petrol,Automatic,37774,1st Owner,Nashik,610000,535000,580000.0,Sold,2025-12-13,2026-01-16,2,45000.0
+UC00218,Tata,Punch,2021,CNG,Manual,68539,1st Owner,Jaipur,445000,415000,435000.0,Sold,2024-04-27,2024-05-21,5,20000.0
+UC00219,Mahindra,XUV 3XO,2025,Petrol,Manual,19357,2nd Owner,Delhi,765000,630000,725000.0,Sold,2024-12-18,2025-01-01,1,95000.0
+UC00220,Toyota,Rumion,2023,Petrol,Manual,36550,1st Owner,Pune,715000,610000,680000.0,Sold,2024-08-25,2024-09-04,3,70000.0
+UC00221,Maruti Suzuki,Baleno,2024,Petrol,Manual,41212,1st Owner,Jaipur,505000,455000,,In Stock,2025-05-17,,2,
+UC00222,Hyundai,Exter,2023,Petrol,Automatic,42898,1st Owner,Mumbai,445000,415000,455000.0,Sold,2026-09-02,2026-09-16,3,40000.0
+UC00223,Tata,Safari,2019,Diesel,Automatic,81343,1st Owner,Mumbai,880000,730000,850000.0,Sold,2026-06-13,2026-06-16,7,120000.0
+UC00224,Mahindra,Bolero,2021,Diesel,Manual,64886,1st Owner,Mumbai,315000,290000,310000.0,Sold,2026-07-12,2026-08-15,5,20000.0
+UC00225,Toyota,Glanza,2019,Petrol,Manual,84642,1st Owner,Hyderabad,325000,280000,330000.0,Sold,2025-01-04,2025-02-04,7,50000.0
+UC00226,Maruti Suzuki,Fronx,2023,CNG,Automatic,45078,1st Owner,Jaipur,580000,530000,580000.0,Sold,2025-07-06,2025-07-15,3,50000.0
+UC00227,Hyundai,Exter,2025,Petrol,Automatic,24745,1st Owner,Aurangabad,775000,640000,770000.0,Sold,2025-09-19,2025-09-24,1,130000.0
+UC00228,Tata,Safari,2021,Diesel,Automatic,52782,1st Owner,Pune,785000,695000,795000.0,Sold,2025-05-09,2025-05-17,5,100000.0
+UC00229,Mahindra,Bolero,2018,Diesel,Manual,106861,2nd Owner,Jaipur,205000,190000,210000.0,Sold,2024-04-02,2024-04-18,8,20000.0
+UC00230,Toyota,Innova Crysta,2023,Diesel,Manual,39153,2nd Owner,Ahmedabad,1295000,1070000,,In Stock,2024-09-22,,3,
+UC00231,Maruti Suzuki,Swift,2020,Petrol,Automatic,75727,2nd Owner,Mumbai,345000,290000,335000.0,Sold,2026-07-01,2026-07-26,6,45000.0
+UC00232,Hyundai,i20,2020,Petrol,Manual,64654,1st Owner,Aurangabad,260000,220000,260000.0,Sold,2024-09-13,2024-09-30,6,40000.0
+UC00233,Tata,Safari,2022,Diesel,Manual,50819,1st Owner,Nashik,1005000,925000,1025000.0,Sold,2026-10-11,2026-11-13,4,100000.0
+UC00234,Mahindra,XUV700,2025,Diesel,Manual,30306,1st Owner,Nagpur,1105000,995000,,In Stock,2025-08-13,,1,
+UC00235,Toyota,Rumion,2025,CNG,Automatic,21880,2nd Owner,Delhi,1025000,845000,1020000.0,Sold,2024-06-12,2024-07-21,1,175000.0
+UC00236,Maruti Suzuki,Dzire,2023,Petrol,Manual,46608,1st Owner,Pune,355000,295000,,In Stock,2024-03-28,,3,
+UC00237,Hyundai,Creta,2020,Petrol,Automatic,85179,1st Owner,Nashik,455000,375000,460000.0,Sold,2024-11-19,2024-12-30,6,85000.0
+UC00238,Tata,Nexon,2025,CNG,Automatic,11152,1st Owner,Nashik,855000,730000,850000.0,Sold,2025-05-25,2025-06-08,1,120000.0
+UC00239,Mahindra,XUV700,2024,Diesel,Manual,8915,1st Owner,Mumbai,1265000,1075000,,In Stock,2024-07-08,,2,
+UC00240,Toyota,Rumion,2024,CNG,Manual,27172,1st Owner,Mumbai,710000,605000,735000.0,Sold,2024-05-08,2024-05-18,2,130000.0
+UC00241,Maruti Suzuki,Swift,2022,CNG,Manual,33650,2nd Owner,Bengaluru,310000,270000,,In Stock,2026-05-24,,4,
+UC00242,Hyundai,Venue,2022,Diesel,Manual,37486,1st Owner,Bengaluru,495000,445000,,In Stock,2026-02-03,,4,
+UC00243,Tata,Safari,2024,Diesel,Manual,26679,1st Owner,Bengaluru,1065000,940000,,In Stock,2026-06-15,,2,
+UC00244,Mahindra,XUV 3XO,2024,Diesel,Manual,31627,2nd Owner,Jaipur,580000,505000,,In Stock,2026-08-22,,2,
+UC00245,Toyota,Urban Cruiser Hyryder,2025,Petrol,Manual,24847,1st Owner,Nashik,1115000,950000,1075000.0,Sold,2025-04-30,2025-05-03,1,125000.0
+UC00246,Maruti Suzuki,Swift,2024,CNG,Manual,45464,1st Owner,Jaipur,415000,345000,390000.0,Sold,2026-06-09,2026-06-24,2,45000.0
+UC00247,Hyundai,Verna,2019,Diesel,Automatic,91927,1st Owner,Ahmedabad,490000,420000,,In Stock,2025-09-13,,7,
+UC00248,Tata,Nexon,2025,Diesel,Manual,19324,1st Owner,Pune,955000,865000,,In Stock,2025-02-13,,1,
+UC00249,Mahindra,XUV 3XO,2024,Petrol,Manual,32925,1st Owner,Bengaluru,940000,870000,925000.0,Sold,2026-09-05,2026-10-17,2,55000.0
+UC00250,Toyota,Glanza,2021,Petrol,Manual,73634,1st Owner,Ahmedabad,285000,240000,290000.0,Sold,2026-09-05,2026-09-13,5,50000.0
+UC00251,Maruti Suzuki,Fronx,2025,CNG,Automatic,25792,1st Owner,Nashik,1015000,915000,1015000.0,Sold,2026-03-06,2026-04-17,1,100000.0
+UC00252,Hyundai,Verna,2019,Diesel,Manual,68716,1st Owner,Delhi,605000,505000,580000.0,Sold,2026-03-04,2026-03-20,7,75000.0
+UC00253,Tata,Harrier,2024,Diesel,Manual,27301,1st Owner,Bengaluru,1235000,1100000,,In Stock,2024-10-26,,2,
+UC00254,Mahindra,Bolero,2024,Diesel,Manual,36971,1st Owner,Delhi,460000,405000,,In Stock,2024-12-13,,2,
+UC00255,Toyota,Fortuner,2021,Petrol,Automatic,46823,2nd Owner,Aurangabad,1570000,1345000,,In Stock,2025-09-15,,5,
+UC00256,Maruti Suzuki,Swift,2023,Petrol,Manual,39333,1st Owner,Aurangabad,375000,325000,390000.0,Sold,2026-10-31,2026-11-12,3,65000.0
+UC00257,Hyundai,Exter,2023,Petrol,Manual,51762,2nd Owner,Ahmedabad,570000,475000,,Under Inspection,2024-07-15,,3,
+UC00258,Tata,Harrier,2020,Diesel,Automatic,72267,1st Owner,Mumbai,700000,590000,715000.0,Sold,2024-07-26,2024-07-29,6,125000.0
+UC00259,Mahindra,Bolero,2023,Diesel,Automatic,49305,1st Owner,Ahmedabad,635000,585000,,In Stock,2024-02-25,,3,
+UC00260,Toyota,Rumion,2024,CNG,Manual,25756,1st Owner,Pune,985000,825000,,In Stock,2026-11-10,,2,
+UC00261,Maruti Suzuki,Baleno,2019,CNG,Manual,96563,2nd Owner,Aurangabad,240000,220000,,In Stock,2024-09-24,,7,
+UC00262,Hyundai,Verna,2022,Diesel,Automatic,54511,1st Owner,Mumbai,610000,555000,595000.0,Sold,2026-10-02,2026-11-08,4,40000.0
+UC00263,Tata,Harrier,2021,Diesel,Manual,71055,1st Owner,Bengaluru,790000,680000,820000.0,Sold,2025-10-08,2025-10-24,5,140000.0
+UC00264,Mahindra,XUV 3XO,2024,Petrol,Manual,41861,3rd Owner,Nagpur,625000,560000,590000.0,Sold,2024-09-25,2024-10-17,2,30000.0
+UC00265,Toyota,Rumion,2023,CNG,Automatic,53568,1st Owner,Delhi,765000,660000,720000.0,Sold,2025-04-26,2025-05-26,3,60000.0
+UC00266,Maruti Suzuki,Swift,2025,CNG,Automatic,22175,2nd Owner,Bengaluru,550000,490000,,In Stock,2026-09-02,,1,
+UC00267,Hyundai,Creta,2019,Diesel,Automatic,81968,1st Owner,Hyderabad,340000,295000,330000.0,Sold,2024-07-23,2024-08-02,7,35000.0
+UC00268,Tata,Harrier,2019,Diesel,Automatic,86324,1st Owner,Nagpur,515000,440000,530000.0,Sold,2025-01-23,2025-02-11,7,90000.0
+UC00269,Mahindra,XUV 3XO,2025,Petrol,Manual,25562,1st Owner,Nagpur,1080000,890000,,In Stock,2026-04-23,,1,
+UC00270,Toyota,Innova Crysta,2024,Petrol,Automatic,15548,2nd Owner,Bengaluru,1565000,1330000,1550000.0,Sold,2025-06-01,2025-06-19,2,220000.0
+UC00271,Maruti Suzuki,Fronx,2024,CNG,Automatic,34910,3rd Owner,Aurangabad,830000,735000,,In Stock,2024-08-27,,2,
+UC00272,Hyundai,Venue,2021,Diesel,Manual,67458,1st Owner,Nashik,600000,535000,595000.0,Sold,2024-09-10,2024-10-02,5,60000.0
+UC00273,Tata,Safari,2020,Diesel,Manual,86537,1st Owner,Ahmedabad,745000,680000,,In Stock,2026-03-08,,6,
+UC00274,Mahindra,Scorpio,2023,Diesel,Manual,44939,2nd Owner,Mumbai,725000,660000,,In Stock,2026-11-08,,3,
+UC00275,Toyota,Rumion,2023,Petrol,Manual,23819,1st Owner,Aurangabad,755000,650000,730000.0,Sold,2026-06-01,2026-06-27,3,80000.0
+UC00276,Maruti Suzuki,Fronx,2024,CNG,Manual,39358,1st Owner,Aurangabad,755000,650000,,In Stock,2025-10-06,,2,
+UC00277,Hyundai,Venue,2022,Diesel,Automatic,61338,1st Owner,Ahmedabad,655000,600000,,In Stock,2025-11-29,,4,
+UC00278,Tata,Punch,2024,CNG,Manual,45428,1st Owner,Nagpur,710000,610000,,Under Inspection,2025-06-20,,2,
+UC00279,Mahindra,XUV700,2025,Diesel,Manual,27533,1st Owner,Ahmedabad,1795000,1610000,1785000.0,Sold,2026-02-06,2026-03-15,1,175000.0
+UC00280,Toyota,Glanza,2023,CNG,Manual,55747,1st Owner,Ahmedabad,515000,475000,495000.0,Sold,2026-05-18,2026-05-26,3,20000.0
+UC00281,Maruti Suzuki,Swift,2024,Petrol,Automatic,23645,1st Owner,Bengaluru,540000,475000,550000.0,Sold,2025-12-01,2025-12-21,2,75000.0
+UC00282,Hyundai,i20,2019,Diesel,Manual,70426,1st Owner,Hyderabad,415000,340000,400000.0,Sold,2024-02-05,2024-02-21,7,60000.0
+UC00283,Tata,Harrier,2020,Diesel,Manual,78109,1st Owner,Nashik,700000,580000,715000.0,Sold,2026-01-12,2026-01-23,6,135000.0
+UC00284,Mahindra,Bolero,2024,Diesel,Manual,24943,1st Owner,Aurangabad,560000,460000,,In Stock,2025-07-13,,2,
+UC00285,Toyota,Rumion,2023,Petrol,Automatic,41398,2nd Owner,Bengaluru,765000,670000,,Under Inspection,2026-01-03,,3,
+UC00286,Maruti Suzuki,Dzire,2018,Petrol,Automatic,83935,1st Owner,Mumbai,310000,285000,320000.0,Sold,2024-11-10,2024-12-17,8,35000.0
+UC00287,Hyundai,Venue,2025,Petrol,Manual,27712,1st Owner,Hyderabad,790000,670000,755000.0,Sold,2026-04-06,2026-04-12,1,85000.0
+UC00288,Tata,Nexon,2023,Petrol,Automatic,54254,1st Owner,Nashik,705000,650000,,In Stock,2026-01-15,,3,
+UC00289,Mahindra,Thar,2022,Diesel,Automatic,40131,1st Owner,Bengaluru,765000,685000,,Under Inspection,2025-10-20,,4,
+UC00290,Toyota,Fortuner,2021,Diesel,Manual,54897,1st Owner,Bengaluru,1350000,1215000,1295000.0,Sold,2024-01-23,2024-01-26,5,80000.0
+UC00291,Maruti Suzuki,Baleno,2024,Petrol,Manual,21505,1st Owner,Mumbai,520000,460000,,Under Inspection,2026-03-01,,2,
+UC00292,Hyundai,Venue,2023,Diesel,Automatic,50283,3rd Owner,Jaipur,525000,445000,,In Stock,2026-02-15,,3,
+UC00293,Tata,Nexon,2019,Diesel,Automatic,91844,1st Owner,Nagpur,490000,435000,475000.0,Sold,2025-10-03,2025-10-07,7,40000.0
+UC00294,Mahindra,Thar,2024,Diesel,Manual,35922,1st Owner,Nagpur,1095000,925000,,In Stock,2026-01-24,,2,
+UC00295,Toyota,Innova Crysta,2022,Diesel,Automatic,47021,1st Owner,Bengaluru,1395000,1245000,,In Stock,2026-03-06,,4,
+UC00296,Maruti Suzuki,Swift,2021,CNG,Manual,68323,1st Owner,Bengaluru,325000,270000,320000.0,Sold,2024-11-10,2024-12-22,5,50000.0
+UC00297,Hyundai,Venue,2019,Diesel,Manual,100398,1st Owner,Nagpur,290000,245000,280000.0,Sold,2024-12-12,2025-01-06,7,35000.0
+UC00298,Tata,Harrier,2019,Diesel,Manual,78915,1st Owner,Aurangabad,690000,585000,,Under Inspection,2024-12-11,,7,
+UC00299,Mahindra,Scorpio,2018,Diesel,Manual,94587,3rd Owner,Bengaluru,480000,445000,,Under Inspection,2025-10-10,,8,
+UC00300,Toyota,Glanza,2020,CNG,Manual,64040,2nd Owner,Nagpur,250000,230000,,In Stock,2024-11-10,,6,
+UC00301,Maruti Suzuki,Fronx,2024,Petrol,Manual,38452,1st Owner,Ahmedabad,790000,705000,780000.0,Sold,2024-06-05,2024-07-13,2,75000.0
+UC00302,Hyundai,Venue,2020,Diesel,Automatic,75812,3rd Owner,Bengaluru,275000,245000,,In Stock,2024-01-08,,6,
+UC00303,Tata,Punch,2024,Petrol,Automatic,24057,1st Owner,Aurangabad,510000,450000,,In Stock,2026-04-06,,2,
+UC00304,Mahindra,XUV700,2024,Petrol,Manual,21300,1st Owner,Pune,1120000,1020000,,In Stock,2026-11-01,,2,
+UC00305,Toyota,Glanza,2019,Petrol,Automatic,91147,2nd Owner,Jaipur,335000,280000,345000.0,Sold,2024-06-10,2024-06-20,7,65000.0
+UC00306,Maruti Suzuki,Baleno,2023,Petrol,Manual,41106,2nd Owner,Pune,620000,515000,620000.0,Sold,2026-04-17,2026-05-29,3,105000.0
+UC00307,Hyundai,i20,2020,Petrol,Manual,68175,1st Owner,Nashik,360000,300000,370000.0,Sold,2025-05-07,2025-05-26,6,70000.0
+UC00308,Tata,Altroz,2020,Diesel,Automatic,68892,2nd Owner,Pune,245000,205000,245000.0,Sold,2025-10-06,2025-11-09,6,40000.0
+UC00309,Mahindra,Scorpio,2021,Diesel,Manual,56141,1st Owner,Mumbai,780000,710000,755000.0,Sold,2026-06-29,2026-07-25,5,45000.0
+UC00310,Toyota,Fortuner,2021,Diesel,Automatic,60039,1st Owner,Nashik,1875000,1660000,,In Stock,2024-03-14,,5,
+UC00311,Maruti Suzuki,Swift,2021,CNG,Manual,55868,1st Owner,Hyderabad,310000,285000,,In Stock,2026-02-27,,5,
+UC00312,Hyundai,i20,2020,Diesel,Manual,80397,1st Owner,Jaipur,255000,220000,260000.0,Sold,2024-04-28,2024-05-25,6,40000.0
+UC00313,Tata,Nexon,2020,Diesel,Automatic,74581,1st Owner,Nashik,415000,375000,395000.0,Sold,2025-02-05,2025-02-17,6,20000.0
+UC00314,Mahindra,Thar,2025,Diesel,Manual,14524,1st Owner,Delhi,1290000,1110000,,In Stock,2025-04-12,,1,
+UC00315,Toyota,Glanza,2021,CNG,Manual,50226,1st Owner,Delhi,335000,305000,,In Stock,2026-08-22,,5,
+UC00316,Maruti Suzuki,Swift,2024,CNG,Manual,18947,1st Owner,Nagpur,435000,370000,435000.0,Sold,2024-05-25,2024-06-06,2,65000.0
+UC00317,Hyundai,Creta,2025,Petrol,Manual,43707,1st Owner,Nagpur,1175000,1020000,,Under Inspection,2024-03-13,,1,
+UC00318,Tata,Altroz,2022,CNG,Automatic,37795,1st Owner,Mumbai,445000,380000,430000.0,Sold,2025-10-03,2025-10-15,4,50000.0
+UC00319,Mahindra,Bolero,2020,Diesel,Manual,74627,1st Owner,Hyderabad,310000,275000,,In Stock,2024-06-27,,6,
+UC00320,Toyota,Rumion,2023,CNG,Manual,30358,1st Owner,Nashik,740000,630000,,Under Inspection,2024-03-28,,3,
+UC00321,Maruti Suzuki,Baleno,2019,CNG,Manual,76010,1st Owner,Hyderabad,305000,270000,,Under Inspection,2024-10-22,,7,
+UC00322,Hyundai,Venue,2023,Petrol,Manual,34068,1st Owner,Nagpur,500000,445000,485000.0,Sold,2025-10-26,2025-11-25,3,40000.0
+UC00323,Tata,Nexon,2025,Petrol,Manual,29445,1st Owner,Delhi,895000,745000,,Under Inspection,2024-07-21,,1,
+UC00324,Mahindra,Thar,2022,Diesel,Manual,47992,2nd Owner,Mumbai,910000,830000,,In Stock,2024-02-10,,4,
+UC00325,Toyota,Innova Crysta,2018,Diesel,Automatic,98634,1st Owner,Nashik,800000,720000,,In Stock,2026-05-18,,8,
+UC00326,Maruti Suzuki,Baleno,2019,Petrol,Manual,83915,1st Owner,Bengaluru,270000,230000,255000.0,Sold,2026-04-01,2026-05-13,7,25000.0
+UC00327,Hyundai,i20,2020,Petrol,Manual,62463,1st Owner,Jaipur,355000,320000,335000.0,Sold,2025-07-21,2025-07-26,6,15000.0
+UC00328,Tata,Altroz,2023,Diesel,Automatic,54620,3rd Owner,Delhi,425000,350000,435000.0,Sold,2026-01-02,2026-01-04,3,85000.0
+UC00329,Mahindra,Thar,2023,Diesel,Manual,49204,1st Owner,Nashik,655000,545000,,In Stock,2024-05-31,,3,
+UC00330,Toyota,Fortuner,2022,Diesel,Manual,46165,1st Owner,Nagpur,1945000,1680000,1935000.0,Sold,2026-01-04,2026-01-30,4,255000.0
+UC00331,Maruti Suzuki,Swift,2022,CNG,Automatic,52094,2nd Owner,Hyderabad,480000,415000,450000.0,Sold,2025-11-12,2025-11-23,4,35000.0
+UC00332,Hyundai,Creta,2025,Petrol,Automatic,33024,2nd Owner,Jaipur,710000,640000,695000.0,Sold,2025-09-11,2025-10-18,1,55000.0
+UC00333,Tata,Punch,2021,Petrol,Automatic,66537,2nd Owner,Nashik,305000,275000,305000.0,Sold,2025-12-31,2026-01-14,5,30000.0
+UC00334,Mahindra,Bolero,2020,Diesel,Manual,66123,1st Owner,Nagpur,235000,195000,,Under Inspection,2024-09-10,,6,
+UC00335,Toyota,Innova Crysta,2019,Diesel,Automatic,77873,1st Owner,Hyderabad,665000,555000,660000.0,Sold,2026-08-23,2026-09-06,7,105000.0
+UC00336,Maruti Suzuki,Fronx,2024,CNG,Automatic,38879,1st Owner,Nagpur,770000,635000,785000.0,Sold,2024-10-11,2024-11-17,2,150000.0
+UC00337,Hyundai,Venue,2020,Diesel,Manual,80055,1st Owner,Nashik,400000,345000,385000.0,Sold,2024-03-16,2024-04-30,6,40000.0
+UC00338,Tata,Safari,2021,Diesel,Automatic,61899,1st Owner,Jaipur,940000,845000,,In Stock,2024-07-07,,5,
+UC00339,Mahindra,XUV700,2023,Diesel,Manual,52492,1st Owner,Nagpur,985000,820000,,In Stock,2024-02-05,,3,
+UC00340,Toyota,Fortuner,2023,Diesel,Manual,48689,1st Owner,Mumbai,2240000,1980000,2215000.0,Sold,2024-01-11,2024-02-24,3,235000.0
+UC00341,Maruti Suzuki,Baleno,2024,CNG,Manual,15715,2nd Owner,Nagpur,505000,430000,,In Stock,2024-12-18,,2,
+UC00342,Hyundai,Creta,2025,Petrol,Manual,16735,1st Owner,Pune,1420000,1250000,1420000.0,Sold,2026-09-07,2026-09-30,1,170000.0
+UC00343,Tata,Nexon,2019,CNG,Manual,94579,1st Owner,Aurangabad,410000,370000,,In Stock,2024-01-14,,7,
+UC00344,Mahindra,Scorpio,2024,Diesel,Automatic,33265,1st Owner,Bengaluru,1220000,1035000,1150000.0,Sold,2024-08-22,2024-09-12,2,115000.0
+UC00345,Toyota,Innova Crysta,2019,Diesel,Automatic,80794,1st Owner,Jaipur,680000,620000,650000.0,Sold,2025-06-30,2025-08-01,7,30000.0
+UC00346,Maruti Suzuki,Brezza,2022,CNG,Manual,44724,2nd Owner,Aurangabad,395000,330000,375000.0,Sold,2025-02-16,2025-02-26,4,45000.0
+UC00347,Hyundai,i20,2020,Petrol,Manual,69702,1st Owner,Pune,285000,245000,,In Stock,2025-12-01,,6,
+UC00348,Tata,Nexon,2020,Diesel,Manual,69641,1st Owner,Delhi,445000,410000,,In Stock,2024-01-13,,6,
+UC00349,Mahindra,Thar,2022,Diesel,Manual,48306,2nd Owner,Bengaluru,1005000,855000,,Under Inspection,2025-04-22,,4,
+UC00350,Toyota,Urban Cruiser Hyryder,2024,CNG,Manual,38188,2nd Owner,Delhi,1005000,855000,,In Stock,2024-09-09,,2,
+UC00351,Maruti Suzuki,Fronx,2024,Petrol,Automatic,25135,1st Owner,Hyderabad,880000,785000,,In Stock,2024-04-25,,2,
+UC00352,Hyundai,i20,2022,Petrol,Automatic,58059,1st Owner,Ahmedabad,350000,305000,,In Stock,2026-11-13,,4,
+UC00353,Tata,Nexon,2022,Diesel,Manual,50155,1st Owner,Nagpur,765000,630000,,In Stock,2025-10-13,,4,
+UC00354,Mahindra,XUV700,2022,Petrol,Manual,50292,1st Owner,Nagpur,770000,705000,,In Stock,2026-02-02,,4,
+UC00355,Toyota,Glanza,2020,CNG,Manual,47813,1st Owner,Pune,310000,265000,,In Stock,2025-08-13,,6,
+UC00356,Maruti Suzuki,Baleno,2020,Petrol,Manual,64680,2nd Owner,Mumbai,295000,265000,300000.0,Sold,2026-09-12,2026-10-20,6,35000.0
+UC00357,Hyundai,Creta,2023,Diesel,Manual,36453,3rd Owner,Mumbai,900000,830000,925000.0,Sold,2024-03-23,2024-04-28,3,95000.0
+UC00358,Tata,Punch,2023,Petrol,Manual,35645,2nd Owner,Mumbai,580000,515000,565000.0,Sold,2026-04-13,2026-05-27,3,50000.0
+UC00359,Mahindra,XUV 3XO,2024,Diesel,Manual,21552,1st Owner,Bengaluru,835000,760000,,Under Inspection,2024-11-04,,2,
+UC00360,Toyota,Glanza,2020,Petrol,Automatic,83492,1st Owner,Bengaluru,360000,320000,365000.0,Sold,2026-01-04,2026-02-02,6,45000.0
+UC00361,Maruti Suzuki,Brezza,2021,CNG,Automatic,62616,1st Owner,Aurangabad,615000,555000,625000.0,Sold,2024-05-15,2024-06-04,5,70000.0
+UC00362,Hyundai,Exter,2025,Petrol,Manual,32669,1st Owner,Jaipur,685000,600000,,In Stock,2026-01-24,,1,
+UC00363,Tata,Harrier,2020,Diesel,Automatic,91332,3rd Owner,Nashik,700000,630000,700000.0,Sold,2026-10-16,2026-10-21,6,70000.0
+UC00364,Mahindra,XUV700,2025,Diesel,Automatic,18301,1st Owner,Bengaluru,1490000,1295000,1415000.0,Sold,2025-02-03,2025-02-21,1,120000.0
+UC00365,Toyota,Rumion,2025,Petrol,Manual,15886,1st Owner,Mumbai,1040000,945000,,In Stock,2024-06-21,,1,
+UC00366,Maruti Suzuki,Fronx,2023,Petrol,Manual,33039,2nd Owner,Ahmedabad,580000,495000,,In Stock,2026-10-20,,3,
+UC00367,Hyundai,Creta,2018,Petrol,Manual,76488,1st Owner,Ahmedabad,555000,475000,565000.0,Sold,2025-07-16,2025-08-27,8,90000.0
+UC00368,Tata,Harrier,2023,Diesel,Automatic,39883,1st Owner,Mumbai,850000,790000,,In Stock,2026-08-07,,3,
+UC00369,Mahindra,Thar,2022,Petrol,Automatic,59462,1st Owner,Aurangabad,705000,615000,685000.0,Sold,2024-05-27,2024-07-04,4,70000.0
+UC00370,Toyota,Glanza,2020,Petrol,Automatic,83033,2nd Owner,Mumbai,280000,250000,,In Stock,2026-11-07,,6,
+UC00371,Maruti Suzuki,Baleno,2018,Petrol,Manual,92778,2nd Owner,Mumbai,355000,295000,,Under Inspection,2024-12-10,,8,
+UC00372,Hyundai,i20,2024,Petrol,Manual,30280,1st Owner,Jaipur,410000,360000,,Under Inspection,2026-03-21,,2,
+UC00373,Tata,Nexon,2022,Petrol,Manual,37436,1st Owner,Aurangabad,555000,495000,,In Stock,2025-11-19,,4,
+UC00374,Mahindra,XUV700,2024,Petrol,Manual,43916,3rd Owner,Pune,1205000,1025000,,In Stock,2025-02-26,,2,
+UC00375,Toyota,Urban Cruiser Hyryder,2023,CNG,Manual,40536,1st Owner,Pune,770000,715000,770000.0,Sold,2024-07-18,2024-08-09,3,55000.0
+UC00376,Maruti Suzuki,Brezza,2021,Petrol,Manual,72821,2nd Owner,Bengaluru,400000,330000,410000.0,Sold,2025-07-15,2025-08-05,5,80000.0
+UC00377,Hyundai,Creta,2023,Diesel,Manual,30067,1st Owner,Nagpur,735000,620000,715000.0,Sold,2026-06-21,2026-07-26,3,95000.0
+UC00378,Tata,Punch,2025,Petrol,Manual,24450,2nd Owner,Bengaluru,520000,480000,,In Stock,2024-03-01,,1,
+UC00379,Mahindra,Scorpio,2019,Diesel,Manual,90127,1st Owner,Jaipur,545000,470000,545000.0,Sold,2025-02-02,2025-02-05,7,75000.0
+UC00380,Toyota,Innova Crysta,2025,Petrol,Manual,20528,1st Owner,Nashik,1030000,930000,985000.0,Sold,2024-10-19,2024-11-22,1,55000.0
+UC00381,Maruti Suzuki,Brezza,2019,Petrol,Manual,93198,3rd Owner,Delhi,335000,275000,335000.0,Sold,2025-10-07,2025-11-12,7,60000.0
+UC00382,Hyundai,i20,2019,Diesel,Manual,90128,1st Owner,Nagpur,295000,270000,,In Stock,2024-01-27,,7,
+UC00383,Tata,Altroz,2023,Petrol,Manual,35337,1st Owner,Pune,445000,400000,,In Stock,2026-10-02,,3,
+UC00384,Mahindra,XUV 3XO,2025,Diesel,Automatic,12202,2nd Owner,Nagpur,1150000,1005000,1155000.0,Sold,2026-04-21,2026-05-22,1,150000.0
+UC00385,Toyota,Rumion,2023,Petrol,Automatic,54695,3rd Owner,Delhi,695000,630000,,Under Inspection,2024-09-18,,3,
+UC00386,Maruti Suzuki,Brezza,2023,CNG,Automatic,55519,1st Owner,Pune,735000,665000,725000.0,Sold,2025-05-01,2025-05-11,3,60000.0
+UC00387,Hyundai,Creta,2024,Petrol,Automatic,29287,1st Owner,Mumbai,1225000,1045000,1175000.0,Sold,2026-02-20,2026-03-16,2,130000.0
+UC00388,Tata,Safari,2022,Diesel,Manual,52590,1st Owner,Nagpur,850000,785000,,Under Inspection,2024-10-01,,4,
+UC00389,Mahindra,XUV700,2022,Petrol,Manual,71248,2nd Owner,Nashik,935000,800000,,In Stock,2025-11-19,,4,
+UC00390,Toyota,Rumion,2024,CNG,Automatic,34043,2nd Owner,Aurangabad,860000,715000,,Under Inspection,2025-05-30,,2,
+UC00391,Maruti Suzuki,Dzire,2018,Petrol,Manual,106686,1st Owner,Jaipur,340000,315000,325000.0,Sold,2025-10-13,2025-11-14,8,10000.0
+UC00392,Hyundai,Creta,2019,Petrol,Manual,88962,1st Owner,Mumbai,590000,525000,600000.0,Sold,2024-01-17,2024-01-31,7,75000.0
+UC00393,Tata,Nexon,2018,Petrol,Manual,87072,1st Owner,Aurangabad,320000,285000,,Under Inspection,2024-09-25,,8,
+UC00394,Mahindra,Bolero,2025,Diesel,Manual,20042,1st Owner,Bengaluru,590000,510000,580000.0,Sold,2024-06-01,2024-07-03,1,70000.0
+UC00395,Toyota,Rumion,2025,Petrol,Manual,17439,1st Owner,Delhi,1045000,920000,1010000.0,Sold,2026-04-23,2026-06-05,1,90000.0
+UC00396,Maruti Suzuki,Dzire,2022,Petrol,Manual,58502,1st Owner,Delhi,330000,285000,335000.0,Sold,2026-03-09,2026-04-14,4,50000.0
+UC00397,Hyundai,i20,2020,Diesel,Manual,80698,1st Owner,Delhi,420000,370000,,In Stock,2025-06-25,,6,
+UC00398,Tata,Punch,2021,Petrol,Manual,70214,1st Owner,Ahmedabad,420000,355000,430000.0,Sold,2025-02-14,2025-03-17,5,75000.0
+UC00399,Mahindra,Bolero,2021,Diesel,Manual,50232,1st Owner,Mumbai,345000,320000,,In Stock,2024-01-06,,5,
+UC00400,Toyota,Innova Crysta,2019,Petrol,Manual,87563,1st Owner,Pune,550000,510000,540000.0,Sold,2024-04-27,2024-05-05,7,30000.0
+UC00401,Maruti Suzuki,Fronx,2023,Petrol,Automatic,37469,2nd Owner,Nagpur,655000,605000,,Under Inspection,2026-01-18,,3,
+UC00402,Hyundai,Creta,2024,Petrol,Manual,39472,1st Owner,Nashik,940000,825000,,In Stock,2026-02-18,,2,
+UC00403,Tata,Punch,2021,Petrol,Manual,62060,1st Owner,Hyderabad,450000,395000,,In Stock,2026-04-30,,5,
+UC00404,Mahindra,Thar,2024,Diesel,Automatic,30903,1st Owner,Bengaluru,1030000,945000,1010000.0,Sold,2024-07-05,2024-07-20,2,65000.0
+UC00405,Toyota,Glanza,2022,Petrol,Manual,60615,1st Owner,Delhi,515000,440000,530000.0,Sold,2024-11-26,2024-12-22,4,90000.0
+UC00406,Maruti Suzuki,Baleno,2022,Petrol,Automatic,57992,1st Owner,Pune,470000,410000,445000.0,Sold,2024-03-13,2024-03-26,4,35000.0
+UC00407,Hyundai,i20,2020,Petrol,Manual,72607,1st Owner,Nagpur,250000,210000,250000.0,Sold,2024-08-11,2024-09-20,6,40000.0
+UC00408,Tata,Punch,2022,CNG,Manual,41582,1st Owner,Ahmedabad,595000,550000,600000.0,Sold,2024-02-18,2024-03-17,4,50000.0
+UC00409,Mahindra,Scorpio,2025,Diesel,Manual,24965,1st Owner,Aurangabad,750000,670000,725000.0,Sold,2024-11-27,2024-12-13,1,55000.0
+UC00410,Toyota,Fortuner,2021,Diesel,Manual,59163,1st Owner,Delhi,1135000,995000,1090000.0,Sold,2026-09-28,2026-10-27,5,95000.0
+UC00411,Maruti Suzuki,Baleno,2025,Petrol,Manual,21533,1st Owner,Aurangabad,625000,550000,600000.0,Sold,2024-04-01,2024-04-12,1,50000.0
+UC00412,Hyundai,Creta,2021,Petrol,Automatic,47814,3rd Owner,Ahmedabad,550000,455000,535000.0,Sold,2026-10-25,2026-11-06,5,80000.0
+UC00413,Tata,Nexon,2023,Petrol,Manual,65240,1st Owner,Delhi,585000,535000,565000.0,Sold,2026-01-21,2026-02-16,3,30000.0
+UC00414,Mahindra,Thar,2020,Petrol,Manual,71180,1st Owner,Nashik,485000,445000,,In Stock,2024-10-03,,6,
+UC00415,Toyota,Innova Crysta,2022,Petrol,Manual,52618,2nd Owner,Nagpur,795000,670000,,Under Inspection,2026-02-08,,4,
+UC00416,Maruti Suzuki,Dzire,2020,CNG,Manual,77266,1st Owner,Delhi,285000,245000,285000.0,Sold,2026-08-08,2026-09-14,6,40000.0
+UC00417,Hyundai,Creta,2018,Petrol,Automatic,101178,1st Owner,Mumbai,495000,445000,,Under Inspection,2026-05-12,,8,
+UC00418,Tata,Safari,2022,Diesel,Manual,51871,1st Owner,Aurangabad,1125000,1040000,1135000.0,Sold,2025-01-20,2025-02-12,4,95000.0
+UC00419,Mahindra,XUV700,2024,Diesel,Manual,44232,3rd Owner,Pune,1325000,1225000,1340000.0,Sold,2025-02-18,2025-03-11,2,115000.0
+UC00420,Toyota,Glanza,2020,Petrol,Manual,75584,1st Owner,Ahmedabad,260000,225000,260000.0,Sold,2026-08-13,2026-09-27,6,35000.0
+UC00421,Maruti Suzuki,Swift,2018,Petrol,Manual,92071,1st Owner,Mumbai,275000,235000,,In Stock,2024-06-13,,8,
+UC00422,Hyundai,Creta,2020,Diesel,Manual,76192,1st Owner,Jaipur,375000,315000,,In Stock,2025-08-26,,6,
+UC00423,Tata,Altroz,2022,Petrol,Manual,54905,1st Owner,Pune,445000,410000,,In Stock,2025-10-14,,4,
+UC00424,Mahindra,XUV700,2023,Petrol,Manual,53079,1st Owner,Jaipur,1310000,1205000,1300000.0,Sold,2025-10-10,2025-11-17,3,95000.0
+UC00425,Toyota,Rumion,2025,Petrol,Manual,21049,1st Owner,Hyderabad,1095000,935000,,Under Inspection,2025-07-29,,1,
+UC00426,Maruti Suzuki,Dzire,2022,CNG,Automatic,54365,1st Owner,Mumbai,380000,345000,,In Stock,2025-06-28,,4,
+UC00427,Hyundai,Verna,2023,Petrol,Manual,35414,1st Owner,Bengaluru,660000,605000,,In Stock,2025-10-28,,3,
+UC00428,Tata,Punch,2021,CNG,Manual,61318,1st Owner,Nagpur,305000,275000,300000.0,Sold,2024-09-24,2024-11-08,5,25000.0
+UC00429,Mahindra,Scorpio,2021,Diesel,Manual,71225,1st Owner,Bengaluru,395000,365000,375000.0,Sold,2024-08-30,2024-09-10,5,10000.0
+UC00430,Toyota,Urban Cruiser Hyryder,2024,CNG,Manual,35445,1st Owner,Ahmedabad,950000,780000,930000.0,Sold,2025-11-02,2025-11-24,2,150000.0
+UC00431,Maruti Suzuki,Fronx,2025,Petrol,Manual,13166,2nd Owner,Jaipur,870000,770000,,In Stock,2025-12-14,,1,
+UC00432,Hyundai,Exter,2023,CNG,Automatic,41812,1st Owner,Nagpur,620000,515000,590000.0,Sold,2026-08-22,2026-10-04,3,75000.0
+UC00433,Tata,Harrier,2020,Diesel,Manual,56736,2nd Owner,Mumbai,580000,510000,,In Stock,2025-12-07,,6,
+UC00434,Mahindra,Thar,2025,Petrol,Automatic,17659,1st Owner,Mumbai,1365000,1230000,1310000.0,Sold,2025-10-07,2025-11-01,1,80000.0
+UC00435,Toyota,Glanza,2024,Petrol,Manual,23818,1st Owner,Nashik,585000,490000,590000.0,Sold,2024-04-29,2024-05-09,2,100000.0
+UC00436,Maruti Suzuki,Fronx,2023,CNG,Manual,49095,1st Owner,Nagpur,595000,545000,595000.0,Sold,2024-06-09,2024-07-23,3,50000.0
+UC00437,Hyundai,i20,2021,Petrol,Manual,52998,2nd Owner,Aurangabad,250000,210000,,In Stock,2026-03-22,,5,
+UC00438,Tata,Harrier,2022,Diesel,Automatic,55208,2nd Owner,Pune,855000,770000,,In Stock,2025-05-15,,4,
+UC00439,Mahindra,Scorpio,2018,Diesel,Automatic,108317,1st Owner,Nashik,390000,345000,400000.0,Sold,2024-06-06,2024-07-15,8,55000.0
+UC00440,Toyota,Fortuner,2022,Diesel,Manual,39884,3rd Owner,Hyderabad,1315000,1195000,1325000.0,Sold,2026-07-21,2026-08-06,4,130000.0
+UC00441,Maruti Suzuki,Brezza,2022,CNG,Automatic,58267,3rd Owner,Nagpur,600000,550000,575000.0,Sold,2025-05-17,2025-06-10,4,25000.0
+UC00442,Hyundai,i20,2025,Diesel,Automatic,13536,1st Owner,Jaipur,680000,565000,700000.0,Sold,2025-01-08,2025-02-18,1,135000.0
+UC00443,Tata,Altroz,2025,Petrol,Manual,41155,1st Owner,Nashik,405000,360000,415000.0,Sold,2024-03-09,2024-03-20,1,55000.0
+UC00444,Mahindra,XUV700,2021,Diesel,Automatic,66023,1st Owner,Nashik,1170000,1005000,1100000.0,Sold,2026-01-19,2026-02-07,5,95000.0
+UC00445,Toyota,Glanza,2020,Petrol,Manual,70236,1st Owner,Ahmedabad,280000,255000,,In Stock,2026-04-17,,6,
+UC00446,Maruti Suzuki,Brezza,2025,Petrol,Manual,25535,2nd Owner,Ahmedabad,805000,715000,760000.0,Sold,2026-07-23,2026-08-18,1,45000.0
+UC00447,Hyundai,Venue,2019,Petrol,Automatic,102526,1st Owner,Ahmedabad,500000,415000,,In Stock,2025-12-13,,7,
+UC00448,Tata,Nexon,2020,Petrol,Manual,75648,2nd Owner,Ahmedabad,300000,265000,,In Stock,2024-05-13,,6,
+UC00449,Mahindra,Scorpio,2025,Diesel,Automatic,23110,1st Owner,Nagpur,795000,660000,800000.0,Sold,2026-05-23,2026-06-15,1,140000.0
+UC00450,Toyota,Rumion,2023,CNG,Manual,34489,1st Owner,Delhi,685000,605000,,Under Inspection,2026-02-17,,3,
+UC00451,Maruti Suzuki,Fronx,2025,Petrol,Manual,12438,1st Owner,Nagpur,870000,740000,830000.0,Sold,2024-03-28,2024-04-06,1,90000.0
+UC00452,Hyundai,Exter,2024,Petrol,Manual,35248,2nd Owner,Hyderabad,450000,395000,435000.0,Sold,2024-08-15,2024-09-06,2,40000.0
+UC00453,Tata,Nexon,2024,Diesel,Manual,39079,2nd Owner,Aurangabad,775000,655000,785000.0,Sold,2024-09-17,2024-10-17,2,130000.0
+UC00454,Mahindra,Thar,2022,Diesel,Automatic,44275,1st Owner,Pune,985000,895000,1000000.0,Sold,2025-09-18,2025-10-02,4,105000.0
+UC00455,Toyota,Urban Cruiser Hyryder,2023,CNG,Manual,35137,2nd Owner,Jaipur,765000,660000,,In Stock,2024-08-25,,3,
+UC00456,Maruti Suzuki,Swift,2023,Petrol,Manual,42412,1st Owner,Delhi,400000,335000,400000.0,Sold,2025-06-20,2025-07-07,3,65000.0
+UC00457,Hyundai,i20,2020,Petrol,Manual,59291,1st Owner,Nashik,290000,265000,295000.0,Sold,2024-02-01,2024-03-06,6,30000.0
+UC00458,Tata,Harrier,2019,Diesel,Manual,98521,1st Owner,Bengaluru,560000,460000,,In Stock,2025-12-10,,7,
+UC00459,Mahindra,XUV 3XO,2025,Petrol,Manual,31656,1st Owner,Nashik,655000,600000,,In Stock,2025-08-05,,1,
+UC00460,Toyota,Rumion,2024,Petrol,Manual,29603,1st Owner,Aurangabad,690000,630000,680000.0,Sold,2025-01-11,2025-01-27,2,50000.0
+UC00461,Maruti Suzuki,Baleno,2025,CNG,Manual,24348,1st Owner,Pune,830000,700000,855000.0,Sold,2024-01-21,2024-02-20,1,155000.0
+UC00462,Hyundai,Creta,2018,Petrol,Manual,79730,1st Owner,Delhi,675000,625000,,In Stock,2026-07-01,,8,
+UC00463,Tata,Safari,2023,Diesel,Manual,60475,2nd Owner,Nashik,765000,650000,760000.0,Sold,2026-06-29,2026-08-07,3,110000.0
+UC00464,Mahindra,Scorpio,2025,Diesel,Manual,36171,1st Owner,Jaipur,995000,910000,1010000.0,Sold,2025-05-17,2025-06-17,1,100000.0
+UC00465,Toyota,Glanza,2024,CNG,Manual,19467,1st Owner,Hyderabad,470000,425000,,In Stock,2025-03-08,,2,
+UC00466,Maruti Suzuki,Dzire,2022,CNG,Manual,51972,1st Owner,Pune,370000,315000,375000.0,Sold,2026-02-09,2026-02-14,4,60000.0
+UC00467,Hyundai,i20,2021,Diesel,Automatic,66487,1st Owner,Ahmedabad,435000,390000,420000.0,Sold,2025-12-09,2026-01-13,5,30000.0
+UC00468,Tata,Safari,2021,Diesel,Manual,61206,1st Owner,Pune,955000,875000,910000.0,Sold,2024-04-04,2024-05-16,5,35000.0
+UC00469,Mahindra,Thar,2021,Petrol,Manual,70771,1st Owner,Bengaluru,915000,775000,925000.0,Sold,2024-10-15,2024-10-26,5,150000.0
+UC00470,Toyota,Fortuner,2021,Petrol,Manual,63183,1st Owner,Pune,1795000,1615000,,In Stock,2026-02-22,,5,
+UC00471,Maruti Suzuki,Dzire,2025,Petrol,Automatic,15092,1st Owner,Nashik,615000,555000,580000.0,Sold,2026-08-25,2026-09-21,1,25000.0
+UC00472,Hyundai,i20,2020,Diesel,Manual,73385,2nd Owner,Pune,235000,215000,225000.0,Sold,2025-09-11,2025-09-16,6,10000.0
+UC00473,Tata,Safari,2023,Diesel,Automatic,44448,3rd Owner,Delhi,1135000,995000,,In Stock,2025-12-06,,3,
+UC00474,Mahindra,Thar,2025,Diesel,Automatic,14910,1st Owner,Nagpur,965000,895000,950000.0,Sold,2026-08-19,2026-09-04,1,55000.0
+UC00475,Toyota,Fortuner,2021,Diesel,Automatic,49956,1st Owner,Jaipur,1780000,1525000,1825000.0,Sold,2026-01-23,2026-01-29,5,300000.0
+UC00476,Maruti Suzuki,Swift,2025,Petrol,Manual,36214,1st Owner,Aurangabad,495000,420000,470000.0,Sold,2025-08-07,2025-08-28,1,50000.0
+UC00477,Hyundai,Verna,2022,Diesel,Manual,61568,2nd Owner,Jaipur,360000,320000,370000.0,Sold,2025-05-15,2025-05-25,4,50000.0
+UC00478,Tata,Nexon,2020,Petrol,Manual,74211,1st Owner,Nagpur,515000,425000,,In Stock,2024-06-29,,6,
+UC00479,Mahindra,Thar,2025,Petrol,Manual,6760,1st Owner,Nagpur,1030000,955000,1065000.0,Sold,2024-02-10,2024-03-16,1,110000.0
+UC00480,Toyota,Innova Crysta,2024,Diesel,Automatic,22315,1st Owner,Delhi,1295000,1185000,1330000.0,Sold,2024-05-10,2024-06-24,2,145000.0
+UC00481,Maruti Suzuki,Brezza,2022,Petrol,Automatic,45959,1st Owner,Pune,625000,540000,640000.0,Sold,2024-03-28,2024-04-16,4,100000.0
+UC00482,Hyundai,Exter,2025,Petrol,Manual,27119,1st Owner,Ahmedabad,720000,600000,685000.0,Sold,2024-10-22,2024-11-23,1,85000.0
+UC00483,Tata,Nexon,2024,CNG,Manual,22966,2nd Owner,Aurangabad,1060000,910000,1025000.0,Sold,2026-02-13,2026-03-05,2,115000.0
+UC00484,Mahindra,XUV 3XO,2025,Diesel,Manual,12468,2nd Owner,Hyderabad,855000,765000,840000.0,Sold,2026-06-16,2026-06-28,1,75000.0
+UC00485,Toyota,Glanza,2025,CNG,Manual,25805,1st Owner,Ahmedabad,485000,415000,460000.0,Sold,2025-01-27,2025-02-17,1,45000.0
+UC00486,Maruti Suzuki,Swift,2018,Petrol,Manual,97953,1st Owner,Nagpur,290000,245000,,In Stock,2026-08-04,,8,
+UC00487,Hyundai,Creta,2022,Petrol,Manual,51986,1st Owner,Nagpur,805000,665000,,In Stock,2024-09-19,,4,
+UC00488,Tata,Punch,2021,CNG,Manual,58984,2nd Owner,Pune,330000,305000,,In Stock,2024-12-26,,5,
+UC00489,Mahindra,Thar,2020,Petrol,Manual,73101,1st Owner,Delhi,720000,615000,680000.0,Sold,2025-07-05,2025-07-26,6,65000.0
+UC00490,Toyota,Glanza,2023,CNG,Manual,27131,1st Owner,Pune,470000,410000,485000.0,Sold,2025-05-13,2025-06-02,3,75000.0
+UC00491,Maruti Suzuki,Dzire,2025,CNG,Manual,15171,1st Owner,Jaipur,705000,615000,695000.0,Sold,2025-07-18,2025-08-17,1,80000.0
+UC00492,Hyundai,Creta,2022,Diesel,Manual,61922,1st Owner,Hyderabad,455000,395000,430000.0,Sold,2025-05-28,2025-06-17,4,35000.0
+UC00493,Tata,Harrier,2019,Diesel,Manual,80593,1st Owner,Delhi,825000,730000,,In Stock,2026-11-13,,7,
+UC00494,Mahindra,Thar,2021,Petrol,Manual,38672,1st Owner,Delhi,645000,595000,,In Stock,2026-11-15,,5,
+UC00495,Toyota,Glanza,2022,CNG,Manual,67834,1st Owner,Hyderabad,310000,270000,,In Stock,2024-03-24,,4,
+UC00496,Maruti Suzuki,Brezza,2024,CNG,Manual,42018,1st Owner,Nashik,735000,680000,720000.0,Sold,2025-12-16,2025-12-27,2,40000.0
+UC00497,Hyundai,Venue,2024,Diesel,Manual,39032,1st Owner,Nagpur,775000,695000,760000.0,Sold,2024-10-15,2024-11-22,2,65000.0
+UC00498,Tata,Nexon,2025,Diesel,Automatic,25051,1st Owner,Mumbai,1000000,900000,,In Stock,2024-11-10,,1,
+UC00499,Mahindra,XUV 3XO,2024,Diesel,Manual,32970,2nd Owner,Pune,760000,645000,745000.0,Sold,2024-01-07,2024-01-22,2,100000.0
+UC00500,Toyota,Glanza,2019,Petrol,Automatic,80897,1st Owner,Pune,360000,325000,345000.0,Sold,2024-05-16,2024-06-28,7,20000.0
+UC00501,Maruti Suzuki,Brezza,2022,CNG,Manual,52046,1st Owner,Mumbai,730000,620000,,In Stock,2026-08-14,,4,
+UC00502,Hyundai,Creta,2022,Petrol,Manual,35889,1st Owner,Aurangabad,625000,560000,625000.0,Sold,2025-03-31,2025-04-14,4,65000.0
+UC00503,Tata,Harrier,2024,Diesel,Manual,26309,1st Owner,Nashik,940000,835000,940000.0,Sold,2026-01-06,2026-02-14,2,105000.0
+UC00504,Mahindra,Thar,2025,Petrol,Manual,6767,3rd Owner,Delhi,865000,735000,850000.0,Sold,2025-12-13,2026-01-14,1,115000.0
+UC00505,Toyota,Innova Crysta,2021,Petrol,Automatic,50593,2nd Owner,Bengaluru,885000,755000,,In Stock,2024-05-29,,5,
+UC00506,Maruti Suzuki,Dzire,2025,CNG,Manual,21113,1st Owner,Nagpur,420000,365000,,Under Inspection,2024-08-15,,1,
+UC00507,Hyundai,Exter,2023,Petrol,Manual,45327,2nd Owner,Hyderabad,485000,420000,465000.0,Sold,2025-08-23,2025-10-02,3,45000.0
+UC00508,Tata,Safari,2022,Diesel,Manual,48111,1st Owner,Aurangabad,865000,780000,,In Stock,2026-01-22,,4,
+UC00509,Mahindra,Scorpio,2020,Diesel,Manual,73122,1st Owner,Ahmedabad,595000,500000,610000.0,Sold,2026-01-30,2026-02-11,6,110000.0
+UC00510,Toyota,Glanza,2023,CNG,Automatic,36434,1st Owner,Nagpur,545000,490000,,In Stock,2026-04-02,,3,
+UC00511,Maruti Suzuki,Dzire,2019,CNG,Manual,73668,2nd Owner,Nashik,225000,195000,230000.0,Sold,2026-01-06,2026-01-14,7,35000.0
+UC00512,Hyundai,Creta,2021,Petrol,Manual,48407,1st Owner,Nashik,580000,480000,,In Stock,2026-04-29,,5,
+UC00513,Tata,Nexon,2019,Petrol,Manual,103352,1st Owner,Mumbai,330000,300000,,Under Inspection,2025-05-03,,7,
+UC00514,Mahindra,Bolero,2019,Diesel,Manual,89655,1st Owner,Pune,340000,285000,350000.0,Sold,2024-12-15,2025-01-05,7,65000.0
+UC00515,Toyota,Fortuner,2020,Petrol,Manual,75213,1st Owner,Aurangabad,980000,855000,,In Stock,2024-08-22,,6,
+UC00516,Maruti Suzuki,Baleno,2019,Petrol,Manual,78857,1st Owner,Hyderabad,320000,290000,,In Stock,2026-05-04,,7,
+UC00517,Hyundai,i20,2019,Petrol,Manual,89314,2nd Owner,Hyderabad,245000,215000,,In Stock,2024-07-25,,7,
+UC00518,Tata,Altroz,2022,Diesel,Automatic,48266,1st Owner,Ahmedabad,440000,390000,435000.0,Sold,2026-02-05,2026-03-05,4,45000.0
+UC00519,Mahindra,XUV700,2021,Diesel,Manual,62098,1st Owner,Ahmedabad,965000,810000,995000.0,Sold,2025-08-12,2025-09-21,5,185000.0
+UC00520,Toyota,Rumion,2025,Petrol,Manual,30241,1st Owner,Pune,830000,770000,,In Stock,2026-10-12,,1,
+UC00521,Maruti Suzuki,Swift,2023,CNG,Manual,52037,1st Owner,Hyderabad,530000,450000,525000.0,Sold,2024-05-06,2024-06-20,3,75000.0
+UC00522,Hyundai,Verna,2022,Petrol,Manual,43441,1st Owner,Nagpur,785000,690000,785000.0,Sold,2024-06-01,2024-06-20,4,95000.0
+UC00523,Tata,Punch,2022,CNG,Manual,60519,1st Owner,Jaipur,570000,480000,565000.0,Sold,2025-06-15,2025-06-21,4,85000.0
+UC00524,Mahindra,Scorpio,2025,Diesel,Manual,12411,1st Owner,Hyderabad,715000,660000,,In Stock,2026-11-02,,1,
+UC00525,Toyota,Glanza,2024,CNG,Manual,28340,2nd Owner,Ahmedabad,485000,450000,,In Stock,2024-12-26,,2,
+UC00526,Maruti Suzuki,Fronx,2024,CNG,Manual,36835,1st Owner,Ahmedabad,595000,530000,610000.0,Sold,2026-06-20,2026-06-29,2,80000.0
+UC00527,Hyundai,Exter,2023,CNG,Manual,44618,1st Owner,Ahmedabad,605000,560000,,Under Inspection,2024-07-08,,3,
+UC00528,Tata,Safari,2024,Diesel,Manual,38916,1st Owner,Hyderabad,1090000,945000,1085000.0,Sold,2025-09-04,2025-09-07,2,140000.0
+UC00529,Mahindra,Bolero,2021,Diesel,Automatic,47310,3rd Owner,Pune,260000,220000,,In Stock,2024-11-10,,5,
+UC00530,Toyota,Rumion,2024,Petrol,Manual,34839,2nd Owner,Mumbai,835000,735000,,Under Inspection,2024-09-28,,2,
+UC00531,Maruti Suzuki,Baleno,2020,CNG,Manual,69450,2nd Owner,Hyderabad,350000,290000,345000.0,Sold,2024-10-17,2024-10-23,6,55000.0
+UC00532,Hyundai,Creta,2020,Petrol,Manual,83132,1st Owner,Mumbai,735000,680000,700000.0,Sold,2024-11-12,2024-12-10,6,20000.0
+UC00533,Tata,Safari,2021,Diesel,Automatic,42792,1st Owner,Hyderabad,810000,730000,,In Stock,2026-09-17,,5,
+UC00534,Mahindra,Thar,2024,Petrol,Manual,41903,1st Owner,Mumbai,1040000,930000,1020000.0,Sold,2025-06-13,2025-06-25,2,90000.0
+UC00535,Toyota,Urban Cruiser Hyryder,2023,Petrol,Manual,32724,1st Owner,Nagpur,1070000,950000,1080000.0,Sold,2026-07-28,2026-08-06,3,130000.0
+UC00536,Maruti Suzuki,Dzire,2018,CNG,Manual,112680,1st Owner,Hyderabad,275000,235000,265000.0,Sold,2026-03-01,2026-03-16,8,30000.0
+UC00537,Hyundai,i20,2020,Petrol,Manual,74447,2nd Owner,Pune,210000,185000,,Under Inspection,2024-03-17,,6,
+UC00538,Tata,Safari,2025,Diesel,Manual,25558,1st Owner,Delhi,1215000,1015000,,In Stock,2024-02-09,,1,
+UC00539,Mahindra,XUV 3XO,2024,Petrol,Manual,23161,1st Owner,Nagpur,605000,510000,,In Stock,2024-01-20,,2,
+UC00540,Toyota,Rumion,2023,Petrol,Automatic,40214,1st Owner,Hyderabad,635000,550000,635000.0,Sold,2024-07-12,2024-08-25,3,85000.0
+UC00541,Maruti Suzuki,Baleno,2018,Petrol,Manual,96126,1st Owner,Mumbai,260000,215000,265000.0,Sold,2025-06-18,2025-07-18,8,50000.0
+UC00542,Hyundai,Creta,2021,Petrol,Automatic,54102,2nd Owner,Jaipur,585000,505000,,In Stock,2025-09-24,,5,
+UC00543,Tata,Punch,2023,CNG,Manual,46454,1st Owner,Ahmedabad,475000,435000,490000.0,Sold,2025-05-12,2025-06-25,3,55000.0
+UC00544,Mahindra,Bolero,2025,Diesel,Automatic,8611,1st Owner,Jaipur,670000,600000,,In Stock,2026-03-05,,1,
+UC00545,Toyota,Urban Cruiser Hyryder,2025,CNG,Manual,15070,1st Owner,Jaipur,980000,890000,975000.0,Sold,2025-06-12,2025-07-10,1,85000.0
+UC00546,Maruti Suzuki,Dzire,2020,CNG,Manual,83155,2nd Owner,Ahmedabad,275000,255000,265000.0,Sold,2026-05-25,2026-05-31,6,10000.0
+UC00547,Hyundai,Verna,2022,Diesel,Manual,35962,1st Owner,Hyderabad,660000,615000,640000.0,Sold,2026-10-02,2026-10-16,4,25000.0
+UC00548,Tata,Punch,2023,Petrol,Manual,41985,1st Owner,Delhi,400000,370000,390000.0,Sold,2025-06-03,2025-06-08,3,20000.0
+UC00549,Mahindra,Bolero,2023,Diesel,Manual,30868,1st Owner,Bengaluru,540000,500000,530000.0,Sold,2024-06-02,2024-06-29,3,30000.0
+UC00550,Toyota,Urban Cruiser Hyryder,2023,CNG,Manual,32495,1st Owner,Nashik,1145000,1025000,1170000.0,Sold,2026-03-25,2026-05-04,3,145000.0
+UC00551,Maruti Suzuki,Baleno,2023,Petrol,Manual,53366,1st Owner,Aurangabad,570000,515000,575000.0,Sold,2024-03-13,2024-04-04,3,60000.0
+UC00552,Hyundai,Exter,2024,CNG,Manual,28884,2nd Owner,Nashik,605000,525000,,In Stock,2026-09-01,,2,
+UC00553,Tata,Harrier,2023,Diesel,Manual,33615,2nd Owner,Nagpur,1255000,1090000,,In Stock,2026-07-17,,3,
+UC00554,Mahindra,Thar,2021,Petrol,Manual,64335,1st Owner,Jaipur,780000,700000,,In Stock,2024-06-18,,5,
+UC00555,Toyota,Innova Crysta,2022,Petrol,Automatic,59959,2nd Owner,Jaipur,790000,715000,750000.0,Sold,2024-07-17,2024-08-05,4,35000.0
+UC00556,Maruti Suzuki,Brezza,2021,CNG,Manual,53645,3rd Owner,Mumbai,435000,375000,420000.0,Sold,2025-05-01,2025-05-19,5,45000.0
+UC00557,Hyundai,Verna,2018,Petrol,Manual,88219,1st Owner,Hyderabad,425000,385000,415000.0,Sold,2024-06-02,2024-07-07,8,30000.0
+UC00558,Tata,Punch,2023,CNG,Automatic,44835,1st Owner,Bengaluru,585000,510000,,Under Inspection,2024-07-17,,3,
+UC00559,Mahindra,XUV700,2021,Diesel,Manual,86060,2nd Owner,Aurangabad,550000,505000,,Under Inspection,2024-11-07,,5,
+UC00560,Toyota,Rumion,2024,CNG,Manual,42819,1st Owner,Ahmedabad,800000,720000,,In Stock,2025-11-21,,2,
+UC00561,Maruti Suzuki,Brezza,2020,CNG,Manual,78173,2nd Owner,Pune,490000,440000,510000.0,Sold,2024-09-12,2024-10-20,6,70000.0
+UC00562,Hyundai,i20,2020,Diesel,Manual,67278,1st Owner,Nagpur,385000,325000,400000.0,Sold,2024-07-04,2024-07-13,6,75000.0
+UC00563,Tata,Nexon,2023,Petrol,Automatic,44885,1st Owner,Mumbai,480000,435000,,In Stock,2024-05-30,,3,
+UC00564,Mahindra,Bolero,2021,Diesel,Manual,64151,1st Owner,Pune,260000,240000,,In Stock,2024-02-29,,5,
+UC00565,Toyota,Fortuner,2025,Diesel,Manual,23813,3rd Owner,Hyderabad,1370000,1175000,,In Stock,2024-01-28,,1,
+UC00566,Maruti Suzuki,Baleno,2025,CNG,Manual,19728,2nd Owner,Pune,545000,485000,525000.0,Sold,2025-04-28,2025-06-06,1,40000.0
+UC00567,Hyundai,Venue,2020,Petrol,Manual,90428,1st Owner,Aurangabad,310000,270000,,In Stock,2024-12-23,,6,
+UC00568,Tata,Altroz,2022,Diesel,Manual,49492,2nd Owner,Pune,285000,250000,280000.0,Sold,2025-09-13,2025-09-30,4,30000.0
+UC00569,Mahindra,Thar,2021,Diesel,Manual,60491,1st Owner,Delhi,690000,585000,,In Stock,2025-08-21,,5,
+UC00570,Toyota,Fortuner,2020,Petrol,Manual,79397,3rd Owner,Aurangabad,1350000,1160000,1385000.0,Sold,2026-05-29,2026-06-15,6,225000.0
+UC00571,Maruti Suzuki,Brezza,2024,Petrol,Manual,31547,1st Owner,Nashik,515000,475000,,In Stock,2025-04-01,,2,
+UC00572,Hyundai,i20,2018,Diesel,Automatic,103308,1st Owner,Hyderabad,290000,245000,275000.0,Sold,2025-12-05,2026-01-03,8,30000.0
+UC00573,Tata,Nexon,2019,Diesel,Manual,83618,1st Owner,Aurangabad,320000,295000,310000.0,Sold,2025-12-04,2025-12-17,7,15000.0
+UC00574,Mahindra,Thar,2025,Diesel,Manual,30678,1st Owner,Hyderabad,1420000,1190000,1335000.0,Sold,2024-07-22,2024-08-08,1,145000.0
+UC00575,Toyota,Rumion,2025,Petrol,Automatic,20496,1st Owner,Nashik,1050000,940000,1025000.0,Sold,2026-06-12,2026-07-25,1,85000.0
+UC00576,Maruti Suzuki,Dzire,2023,CNG,Manual,32218,1st Owner,Bengaluru,480000,415000,,In Stock,2025-05-29,,3,
+UC00577,Hyundai,i20,2018,Petrol,Automatic,84400,1st Owner,Delhi,330000,290000,330000.0,Sold,2024-10-31,2024-12-11,8,40000.0
+UC00578,Tata,Harrier,2025,Diesel,Manual,25499,1st Owner,Nagpur,1235000,1110000,,In Stock,2025-09-19,,1,
+UC00579,Mahindra,Bolero,2020,Diesel,Manual,68439,1st Owner,Pune,405000,360000,385000.0,Sold,2025-04-07,2025-04-21,6,25000.0
+UC00580,Toyota,Innova Crysta,2022,Petrol,Manual,30131,1st Owner,Aurangabad,1320000,1090000,1280000.0,Sold,2026-02-10,2026-03-15,4,190000.0
+UC00581,Maruti Suzuki,Swift,2025,Petrol,Manual,3000,1st Owner,Bengaluru,675000,555000,670000.0,Sold,2024-10-02,2024-10-09,1,115000.0
+UC00582,Hyundai,Verna,2023,Diesel,Manual,42117,1st Owner,Hyderabad,430000,375000,,In Stock,2025-09-01,,3,
+UC00583,Tata,Nexon,2021,Petrol,Manual,70714,1st Owner,Aurangabad,700000,635000,,In Stock,2026-02-17,,5,
+UC00584,Mahindra,XUV700,2023,Petrol,Manual,39837,1st Owner,Jaipur,1005000,925000,,In Stock,2025-12-31,,3,
+UC00585,Toyota,Rumion,2024,CNG,Manual,10505,1st Owner,Aurangabad,1045000,875000,,In Stock,2025-02-07,,2,
+UC00586,Maruti Suzuki,Baleno,2024,CNG,Manual,40879,1st Owner,Ahmedabad,405000,335000,,In Stock,2025-03-17,,2,
+UC00587,Hyundai,Creta,2025,Petrol,Manual,23339,2nd Owner,Pune,1175000,1000000,,Under Inspection,2025-12-01,,1,
+UC00588,Tata,Altroz,2023,Petrol,Manual,46836,1st Owner,Jaipur,460000,400000,,In Stock,2026-03-07,,3,
+UC00589,Mahindra,Bolero,2018,Diesel,Automatic,105185,1st Owner,Aurangabad,340000,285000,,In Stock,2026-10-29,,8,
+UC00590,Toyota,Innova Crysta,2025,Petrol,Automatic,10978,1st Owner,Pune,1065000,975000,,In Stock,2026-03-19,,1,
+UC00591,Maruti Suzuki,Dzire,2025,Petrol,Manual,24734,1st Owner,Bengaluru,610000,560000,,Under Inspection,2026-07-19,,1,
+UC00592,Hyundai,Exter,2024,Petrol,Manual,37511,1st Owner,Jaipur,640000,580000,,In Stock,2025-06-16,,2,
+UC00593,Tata,Nexon,2018,Petrol,Automatic,88010,3rd Owner,Nashik,350000,315000,355000.0,Sold,2024-02-08,2024-02-24,8,40000.0
+UC00594,Mahindra,Bolero,2019,Diesel,Manual,90294,1st Owner,Pune,215000,200000,,Under Inspection,2026-05-12,,7,
+UC00595,Toyota,Glanza,2023,Petrol,Manual,60222,1st Owner,Ahmedabad,550000,505000,530000.0,Sold,2026-02-22,2026-03-10,3,25000.0
+UC00596,Maruti Suzuki,Baleno,2020,Petrol,Manual,79055,2nd Owner,Ahmedabad,405000,375000,,In Stock,2024-04-02,,6,
+UC00597,Hyundai,i20,2019,Diesel,Automatic,68866,2nd Owner,Ahmedabad,300000,275000,305000.0,Sold,2024-06-27,2024-07-04,7,30000.0
+UC00598,Tata,Altroz,2024,Diesel,Automatic,31570,1st Owner,Bengaluru,480000,415000,,In Stock,2026-02-11,,2,
+UC00599,Mahindra,XUV700,2024,Diesel,Automatic,25355,2nd Owner,Aurangabad,1465000,1285000,,In Stock,2024-03-06,,2,
+UC00600,Toyota,Glanza,2024,CNG,Manual,35137,1st Owner,Hyderabad,500000,435000,,In Stock,2025-05-18,,2,
+UC00601,Maruti Suzuki,Dzire,2018,Petrol,Manual,107525,1st Owner,Hyderabad,270000,245000,270000.0,Sold,2024-09-17,2024-10-25,8,25000.0
+UC00602,Hyundai,Venue,2021,Diesel,Manual,59228,2nd Owner,Ahmedabad,450000,380000,440000.0,Sold,2025-06-22,2025-07-20,5,60000.0
+UC00603,Tata,Punch,2024,CNG,Automatic,35591,2nd Owner,Ahmedabad,435000,395000,,In Stock,2024-08-18,,2,
+UC00604,Mahindra,Thar,2020,Petrol,Automatic,73424,1st Owner,Mumbai,615000,540000,,In Stock,2025-08-21,,6,
+UC00605,Toyota,Fortuner,2020,Petrol,Manual,57250,1st Owner,Aurangabad,1550000,1295000,,In Stock,2026-05-17,,6,
+UC00606,Maruti Suzuki,Brezza,2021,Petrol,Manual,45344,1st Owner,Pune,570000,480000,575000.0,Sold,2024-08-02,2024-08-17,5,95000.0
+UC00607,Hyundai,Venue,2020,Diesel,Manual,81750,1st Owner,Jaipur,340000,285000,350000.0,Sold,2024-05-03,2024-06-16,6,65000.0
+UC00608,Tata,Altroz,2023,Diesel,Manual,44266,2nd Owner,Ahmedabad,325000,295000,325000.0,Sold,2024-08-04,2024-09-11,3,30000.0
+UC00609,Mahindra,XUV700,2021,Diesel,Manual,64258,2nd Owner,Hyderabad,915000,815000,885000.0,Sold,2026-01-25,2026-03-10,5,70000.0
+UC00610,Toyota,Glanza,2019,CNG,Manual,87015,1st Owner,Nashik,365000,330000,375000.0,Sold,2025-07-13,2025-08-04,7,45000.0
+UC00611,Maruti Suzuki,Dzire,2018,CNG,Manual,111306,1st Owner,Aurangabad,320000,290000,330000.0,Sold,2024-04-29,2024-06-13,8,40000.0
+UC00612,Hyundai,Verna,2019,Diesel,Manual,87724,1st Owner,Nashik,325000,280000,,In Stock,2024-08-27,,7,
+UC00613,Tata,Safari,2023,Diesel,Automatic,39046,1st Owner,Bengaluru,965000,795000,970000.0,Sold,2026-03-20,2026-04-19,3,175000.0
+UC00614,Mahindra,XUV 3XO,2024,Diesel,Manual,39892,1st Owner,Nagpur,905000,795000,,In Stock,2024-11-25,,2,
+UC00615,Toyota,Innova Crysta,2024,Diesel,Manual,29559,1st Owner,Jaipur,1105000,1000000,,In Stock,2025-12-30,,2,
+UC00616,Maruti Suzuki,Dzire,2024,Petrol,Manual,33422,3rd Owner,Mumbai,555000,470000,565000.0,Sold,2026-05-26,2026-06-04,2,95000.0
+UC00617,Hyundai,Creta,2023,Petrol,Automatic,41892,1st Owner,Bengaluru,950000,815000,895000.0,Sold,2025-07-15,2025-08-27,3,80000.0
+UC00618,Tata,Altroz,2022,Diesel,Automatic,58661,2nd Owner,Delhi,390000,335000,,In Stock,2024-03-07,,4,
+UC00619,Mahindra,XUV 3XO,2024,Diesel,Manual,21648,1st Owner,Bengaluru,640000,560000,,In Stock,2024-06-13,,2,
+UC00620,Toyota,Innova Crysta,2024,Diesel,Automatic,50669,1st Owner,Hyderabad,1395000,1160000,1320000.0,Sold,2025-04-12,2025-05-20,2,160000.0
+UC00621,Maruti Suzuki,Brezza,2024,Petrol,Automatic,42503,1st Owner,Jaipur,905000,825000,930000.0,Sold,2026-02-01,2026-02-08,2,105000.0
+UC00622,Hyundai,i20,2025,Petrol,Manual,18769,1st Owner,Aurangabad,410000,380000,,Under Inspection,2024-06-30,,1,
+UC00623,Tata,Punch,2024,Petrol,Manual,35620,1st Owner,Hyderabad,745000,655000,730000.0,Sold,2026-03-29,2026-04-25,2,75000.0
+UC00624,Mahindra,Thar,2021,Petrol,Manual,63499,1st Owner,Mumbai,585000,480000,550000.0,Sold,2026-06-10,2026-07-11,5,70000.0
+UC00625,Toyota,Glanza,2020,CNG,Manual,74053,1st Owner,Nashik,305000,260000,315000.0,Sold,2024-06-11,2024-07-17,6,55000.0
+UC00626,Maruti Suzuki,Baleno,2018,Petrol,Automatic,93518,1st Owner,Nagpur,260000,235000,,In Stock,2024-01-14,,8,
+UC00627,Hyundai,Verna,2020,Petrol,Manual,62467,1st Owner,Ahmedabad,465000,385000,,In Stock,2025-06-30,,6,
+UC00628,Tata,Harrier,2019,Diesel,Automatic,66678,1st Owner,Nashik,540000,480000,,Under Inspection,2026-02-01,,7,
+UC00629,Mahindra,Scorpio,2021,Diesel,Manual,67054,1st Owner,Mumbai,650000,545000,,In Stock,2026-01-29,,5,
+UC00630,Toyota,Glanza,2025,CNG,Manual,36151,1st Owner,Jaipur,455000,390000,,Under Inspection,2025-09-22,,1,
+UC00631,Maruti Suzuki,Brezza,2021,Petrol,Manual,64674,2nd Owner,Aurangabad,325000,270000,,In Stock,2024-07-04,,5,
+UC00632,Hyundai,Venue,2025,Petrol,Manual,35234,1st Owner,Jaipur,570000,485000,,In Stock,2025-07-15,,1,
+UC00633,Tata,Punch,2022,CNG,Automatic,47789,1st Owner,Nashik,390000,340000,375000.0,Sold,2026-03-31,2026-04-06,4,35000.0
+UC00634,Mahindra,XUV700,2024,Diesel,Automatic,18363,1st Owner,Delhi,1725000,1555000,,In Stock,2024-07-28,,2,
+UC00635,Toyota,Innova Crysta,2025,Diesel,Manual,24904,1st Owner,Bengaluru,965000,890000,,In Stock,2024-02-15,,1,
+UC00636,Maruti Suzuki,Fronx,2024,Petrol,Manual,41612,1st Owner,Ahmedabad,755000,650000,,Under Inspection,2025-02-19,,2,
+UC00637,Hyundai,i20,2022,Petrol,Manual,46384,3rd Owner,Bengaluru,345000,295000,340000.0,Sold,2026-01-12,2026-02-25,4,45000.0
+UC00638,Tata,Harrier,2021,Diesel,Manual,68166,2nd Owner,Ahmedabad,830000,705000,,In Stock,2024-02-20,,5,
+UC00639,Mahindra,XUV 3XO,2024,Petrol,Manual,39829,1st Owner,Pune,980000,820000,,Under Inspection,2025-03-12,,2,
+UC00640,Toyota,Fortuner,2022,Diesel,Manual,58622,1st Owner,Pune,1450000,1195000,1485000.0,Sold,2025-05-29,2025-07-02,4,290000.0
+UC00641,Maruti Suzuki,Baleno,2021,CNG,Manual,67740,1st Owner,Nashik,435000,365000,430000.0,Sold,2026-08-17,2026-08-28,5,65000.0
+UC00642,Hyundai,Venue,2022,Diesel,Manual,55255,1st Owner,Bengaluru,485000,420000,,Under Inspection,2026-10-04,,4,
+UC00643,Tata,Harrier,2025,Diesel,Manual,10538,1st Owner,Ahmedabad,1270000,1135000,,In Stock,2026-10-10,,1,
+UC00644,Mahindra,Bolero,2018,Diesel,Automatic,91317,1st Owner,Pune,215000,200000,,In Stock,2024-09-07,,8,
+UC00645,Toyota,Innova Crysta,2019,Petrol,Manual,77269,1st Owner,Nashik,1005000,895000,955000.0,Sold,2026-08-16,2026-09-18,7,60000.0
+UC00646,Maruti Suzuki,Baleno,2018,CNG,Manual,92464,1st Owner,Hyderabad,385000,320000,395000.0,Sold,2025-04-20,2025-04-29,8,75000.0
+UC00647,Hyundai,Creta,2024,Petrol,Manual,41016,1st Owner,Mumbai,1085000,915000,,In Stock,2024-02-07,,2,
+UC00648,Tata,Harrier,2019,Diesel,Manual,81997,1st Owner,Nagpur,795000,700000,,Under Inspection,2024-03-31,,7,
+UC00649,Mahindra,Scorpio,2020,Diesel,Automatic,72203,2nd Owner,Ahmedabad,690000,575000,,In Stock,2026-08-11,,6,
+UC00650,Toyota,Rumion,2024,Petrol,Manual,25063,1st Owner,Jaipur,870000,730000,880000.0,Sold,2024-03-21,2024-04-22,2,150000.0
+UC00651,Maruti Suzuki,Brezza,2024,Petrol,Manual,51390,2nd Owner,Hyderabad,865000,725000,875000.0,Sold,2024-03-10,2024-04-04,2,150000.0
+UC00652,Hyundai,Venue,2023,Diesel,Manual,47196,1st Owner,Delhi,775000,645000,775000.0,Sold,2026-06-11,2026-07-20,3,130000.0
+UC00653,Tata,Safari,2023,Diesel,Manual,44320,1st Owner,Mumbai,1125000,980000,1140000.0,Sold,2026-10-02,2026-10-15,3,160000.0
+UC00654,Mahindra,XUV700,2023,Petrol,Automatic,38379,2nd Owner,Jaipur,1385000,1205000,,In Stock,2026-08-08,,3,
+UC00655,Toyota,Rumion,2025,CNG,Automatic,8399,2nd Owner,Nagpur,1080000,975000,1060000.0,Sold,2026-07-16,2026-08-08,1,85000.0
+UC00656,Maruti Suzuki,Baleno,2020,Petrol,Manual,66387,1st Owner,Bengaluru,375000,330000,,In Stock,2026-08-05,,6,
+UC00657,Hyundai,Venue,2023,Petrol,Manual,51747,1st Owner,Nagpur,435000,405000,440000.0,Sold,2026-07-14,2026-08-13,3,35000.0
+UC00658,Tata,Punch,2022,Petrol,Manual,52420,1st Owner,Bengaluru,555000,495000,565000.0,Sold,2026-01-11,2026-01-21,4,70000.0
+UC00659,Mahindra,XUV 3XO,2025,Petrol,Automatic,20714,1st Owner,Nagpur,1020000,870000,,In Stock,2024-05-23,,1,
+UC00660,Toyota,Fortuner,2024,Diesel,Manual,29242,2nd Owner,Pune,1585000,1335000,1490000.0,Sold,2024-06-08,2024-06-18,2,155000.0
+UC00661,Maruti Suzuki,Swift,2023,Petrol,Manual,53926,1st Owner,Nashik,310000,280000,,Under Inspection,2025-06-30,,3,
+UC00662,Hyundai,i20,2025,Petrol,Manual,29802,2nd Owner,Delhi,505000,445000,,In Stock,2025-12-26,,1,
+UC00663,Tata,Punch,2021,Petrol,Manual,63489,1st Owner,Pune,325000,280000,320000.0,Sold,2025-09-15,2025-10-27,5,40000.0
+UC00664,Mahindra,XUV700,2023,Petrol,Manual,40834,2nd Owner,Bengaluru,1160000,1015000,,In Stock,2026-04-21,,3,
+UC00665,Toyota,Rumion,2025,Petrol,Automatic,23677,1st Owner,Mumbai,1045000,890000,1010000.0,Sold,2025-12-18,2026-01-08,1,120000.0
+UC00666,Maruti Suzuki,Baleno,2020,CNG,Manual,62620,2nd Owner,Ahmedabad,370000,315000,,In Stock,2025-06-19,,6,
+UC00667,Hyundai,Verna,2020,Petrol,Manual,63244,2nd Owner,Ahmedabad,560000,515000,,In Stock,2026-03-14,,6,
+UC00668,Tata,Altroz,2023,Diesel,Manual,53603,2nd Owner,Nashik,350000,300000,355000.0,Sold,2025-03-20,2025-05-04,3,55000.0
+UC00669,Mahindra,XUV 3XO,2025,Diesel,Automatic,7968,1st Owner,Mumbai,695000,645000,,In Stock,2025-11-23,,1,
+UC00670,Toyota,Innova Crysta,2024,Diesel,Manual,33776,1st Owner,Ahmedabad,1310000,1130000,,Under Inspection,2024-03-12,,2,
+UC00671,Maruti Suzuki,Baleno,2020,CNG,Automatic,73787,1st Owner,Ahmedabad,250000,220000,,In Stock,2026-09-16,,6,
+UC00672,Hyundai,Creta,2019,Petrol,Manual,90093,1st Owner,Hyderabad,620000,555000,595000.0,Sold,2024-03-09,2024-04-22,7,40000.0
+UC00673,Tata,Punch,2023,CNG,Manual,52895,3rd Owner,Nashik,400000,330000,395000.0,Sold,2024-11-01,2024-11-15,3,65000.0
+UC00674,Mahindra,XUV700,2025,Diesel,Manual,11459,1st Owner,Mumbai,1155000,1020000,,In Stock,2024-10-13,,1,
+UC00675,Toyota,Rumion,2023,Petrol,Manual,48507,1st Owner,Mumbai,600000,530000,605000.0,Sold,2026-06-07,2026-06-21,3,75000.0
+UC00676,Maruti Suzuki,Fronx,2024,Petrol,Manual,17201,1st Owner,Pune,960000,800000,985000.0,Sold,2025-02-04,2025-02-11,2,185000.0
+UC00677,Hyundai,i20,2021,Petrol,Automatic,50962,1st Owner,Jaipur,410000,360000,,In Stock,2025-12-25,,5,
+UC00678,Tata,Punch,2024,CNG,Manual,27367,1st Owner,Delhi,640000,555000,,Under Inspection,2024-01-15,,2,
+UC00679,Mahindra,XUV 3XO,2024,Diesel,Automatic,21865,1st Owner,Aurangabad,740000,605000,,In Stock,2025-05-17,,2,
+UC00680,Toyota,Innova Crysta,2022,Petrol,Manual,52034,2nd Owner,Delhi,1340000,1150000,1290000.0,Sold,2025-02-27,2025-03-05,4,140000.0
+UC00681,Maruti Suzuki,Swift,2021,CNG,Manual,61073,1st Owner,Pune,400000,335000,410000.0,Sold,2025-07-26,2025-08-01,5,75000.0
+UC00682,Hyundai,Venue,2019,Petrol,Manual,95772,1st Owner,Nashik,515000,430000,,In Stock,2026-09-14,,7,
+UC00683,Tata,Punch,2021,Petrol,Manual,59942,1st Owner,Mumbai,300000,275000,,In Stock,2025-03-25,,5,
+UC00684,Mahindra,Scorpio,2019,Diesel,Manual,93214,1st Owner,Delhi,540000,490000,520000.0,Sold,2026-07-13,2026-08-24,7,30000.0
+UC00685,Toyota,Urban Cruiser Hyryder,2023,CNG,Manual,44367,2nd Owner,Bengaluru,845000,750000,805000.0,Sold,2024-08-04,2024-08-19,3,55000.0
+UC00686,Maruti Suzuki,Swift,2025,CNG,Manual,14713,3rd Owner,Delhi,515000,450000,,In Stock,2025-12-03,,1,
+UC00687,Hyundai,Verna,2025,Petrol,Manual,30599,2nd Owner,Nagpur,530000,485000,,In Stock,2026-04-09,,1,
+UC00688,Tata,Altroz,2025,Diesel,Automatic,32885,1st Owner,Nashik,560000,485000,565000.0,Sold,2024-12-02,2024-12-19,1,80000.0
+UC00689,Mahindra,XUV700,2025,Diesel,Manual,14806,1st Owner,Pune,1585000,1445000,1525000.0,Sold,2026-07-21,2026-07-24,1,80000.0
+UC00690,Toyota,Rumion,2025,CNG,Manual,31120,1st Owner,Hyderabad,1080000,985000,1065000.0,Sold,2024-03-02,2024-04-04,1,80000.0
+UC00691,Maruti Suzuki,Baleno,2021,Petrol,Manual,60240,1st Owner,Nashik,510000,425000,505000.0,Sold,2025-10-16,2025-11-06,5,80000.0
+UC00692,Hyundai,Creta,2021,Diesel,Manual,48195,1st Owner,Delhi,575000,510000,,In Stock,2026-06-18,,5,
+UC00693,Tata,Safari,2024,Diesel,Manual,22409,1st Owner,Ahmedabad,1195000,1035000,1140000.0,Sold,2025-02-17,2025-02-20,2,105000.0
+UC00694,Mahindra,Scorpio,2020,Diesel,Automatic,71925,1st Owner,Mumbai,665000,585000,,In Stock,2025-04-30,,6,
+UC00695,Toyota,Fortuner,2022,Petrol,Manual,48971,2nd Owner,Aurangabad,1760000,1515000,1665000.0,Sold,2024-12-14,2025-01-27,4,150000.0
+UC00696,Maruti Suzuki,Swift,2020,Petrol,Manual,58271,1st Owner,Pune,220000,185000,,Under Inspection,2025-12-27,,6,
+UC00697,Hyundai,i20,2021,Petrol,Automatic,65709,1st Owner,Hyderabad,305000,250000,,Under Inspection,2026-10-04,,5,
+UC00698,Tata,Safari,2023,Diesel,Automatic,40636,1st Owner,Aurangabad,1355000,1170000,,In Stock,2026-07-26,,3,
+UC00699,Mahindra,XUV700,2025,Diesel,Manual,19616,1st Owner,Mumbai,1345000,1210000,1315000.0,Sold,2025-07-29,2025-08-25,1,105000.0
+UC00700,Toyota,Urban Cruiser Hyryder,2023,Petrol,Manual,42774,1st Owner,Delhi,1155000,1055000,1130000.0,Sold,2026-01-25,2026-01-30,3,75000.0
+UC00701,Maruti Suzuki,Dzire,2023,CNG,Manual,40912,2nd Owner,Jaipur,430000,360000,,In Stock,2024-07-18,,3,
+UC00702,Hyundai,Venue,2022,Petrol,Automatic,53237,1st Owner,Ahmedabad,720000,625000,735000.0,Sold,2025-10-26,2025-11-09,4,110000.0
+UC00703,Tata,Nexon,2020,CNG,Manual,67865,1st Owner,Bengaluru,350000,290000,,In Stock,2026-10-28,,6,
+UC00704,Mahindra,XUV 3XO,2024,Petrol,Manual,35518,1st Owner,Hyderabad,1025000,910000,1040000.0,Sold,2024-01-16,2024-02-12,2,130000.0
+UC00705,Toyota,Urban Cruiser Hyryder,2022,Petrol,Manual,45670,1st Owner,Nashik,970000,900000,,In Stock,2024-02-28,,4,
+UC00706,Maruti Suzuki,Brezza,2025,Petrol,Manual,5360,1st Owner,Aurangabad,715000,620000,,Under Inspection,2024-12-30,,1,
+UC00707,Hyundai,Exter,2025,Petrol,Manual,7850,1st Owner,Mumbai,620000,530000,595000.0,Sold,2024-12-19,2025-01-04,1,65000.0
+UC00708,Tata,Punch,2025,CNG,Manual,9296,1st Owner,Aurangabad,685000,565000,,In Stock,2025-01-07,,1,
+UC00709,Mahindra,XUV700,2024,Petrol,Manual,47982,1st Owner,Nagpur,1270000,1045000,,In Stock,2026-10-16,,2,
+UC00710,Toyota,Fortuner,2025,Diesel,Manual,17153,2nd Owner,Hyderabad,3105000,2690000,,In Stock,2026-09-11,,1,
+UC00711,Maruti Suzuki,Brezza,2023,Petrol,Manual,56402,1st Owner,Aurangabad,505000,420000,520000.0,Sold,2026-06-26,2026-07-24,3,100000.0
+UC00712,Hyundai,i20,2025,Diesel,Automatic,29722,1st Owner,Bengaluru,595000,540000,,In Stock,2026-04-28,,1,
+UC00713,Tata,Altroz,2023,Diesel,Manual,28999,1st Owner,Nagpur,545000,500000,,In Stock,2026-02-15,,3,
+UC00714,Mahindra,Thar,2021,Diesel,Automatic,69276,1st Owner,Hyderabad,705000,605000,675000.0,Sold,2025-06-25,2025-08-06,5,70000.0
+UC00715,Toyota,Fortuner,2020,Petrol,Automatic,62013,1st Owner,Nashik,1515000,1350000,,Under Inspection,2026-07-15,,6,
+UC00716,Maruti Suzuki,Brezza,2023,Petrol,Automatic,41547,1st Owner,Bengaluru,710000,610000,,In Stock,2025-07-29,,3,
+UC00717,Hyundai,Exter,2025,CNG,Manual,13683,3rd Owner,Ahmedabad,500000,445000,505000.0,Sold,2024-10-05,2024-10-19,1,60000.0
+UC00718,Tata,Altroz,2022,Petrol,Manual,35759,1st Owner,Jaipur,440000,380000,,In Stock,2024-08-27,,4,
+UC00719,Mahindra,XUV700,2025,Petrol,Manual,39248,2nd Owner,Ahmedabad,1120000,1035000,1115000.0,Sold,2025-01-14,2025-02-16,1,80000.0
+UC00720,Toyota,Rumion,2025,Petrol,Automatic,16701,3rd Owner,Mumbai,755000,685000,,In Stock,2026-10-10,,1,
+UC00721,Maruti Suzuki,Swift,2022,Petrol,Manual,54851,1st Owner,Mumbai,340000,315000,,In Stock,2024-06-09,,4,
+UC00722,Hyundai,Exter,2025,CNG,Automatic,23594,2nd Owner,Aurangabad,755000,670000,,In Stock,2026-02-19,,1,
+UC00723,Tata,Safari,2022,Diesel,Manual,41686,1st Owner,Bengaluru,745000,690000,,In Stock,2025-07-08,,4,
+UC00724,Mahindra,Bolero,2019,Diesel,Manual,91056,1st Owner,Bengaluru,320000,295000,330000.0,Sold,2024-01-29,2024-03-11,7,35000.0
+UC00725,Toyota,Glanza,2023,Petrol,Manual,39130,1st Owner,Delhi,610000,500000,585000.0,Sold,2025-10-04,2025-10-26,3,85000.0
+UC00726,Maruti Suzuki,Swift,2022,Petrol,Manual,52396,2nd Owner,Nashik,475000,425000,455000.0,Sold,2026-07-20,2026-08-11,4,30000.0
+UC00727,Hyundai,Venue,2019,Diesel,Manual,94327,1st Owner,Nagpur,335000,310000,320000.0,Sold,2025-06-19,2025-08-03,7,10000.0
+UC00728,Tata,Harrier,2019,Diesel,Automatic,85151,1st Owner,Pune,690000,595000,660000.0,Sold,2024-03-14,2024-03-28,7,65000.0
+UC00729,Mahindra,Thar,2020,Petrol,Automatic,73154,2nd Owner,Ahmedabad,545000,490000,550000.0,Sold,2025-10-04,2025-10-19,6,60000.0
+UC00730,Toyota,Innova Crysta,2022,Diesel,Manual,41065,3rd Owner,Nagpur,685000,635000,,In Stock,2025-02-17,,4,
+UC00731,Maruti Suzuki,Dzire,2025,Petrol,Automatic,21372,2nd Owner,Nashik,415000,355000,,In Stock,2024-10-12,,1,
+UC00732,Hyundai,i20,2024,Diesel,Manual,29249,1st Owner,Delhi,490000,415000,460000.0,Sold,2026-04-28,2026-05-11,2,45000.0
+UC00733,Tata,Altroz,2023,CNG,Manual,29187,1st Owner,Nashik,490000,420000,,Under Inspection,2025-08-14,,3,
+UC00734,Mahindra,XUV700,2024,Diesel,Automatic,24604,2nd Owner,Bengaluru,1415000,1195000,1420000.0,Sold,2025-02-05,2025-03-07,2,225000.0
+UC00735,Toyota,Fortuner,2020,Petrol,Manual,92077,3rd Owner,Ahmedabad,1035000,945000,1005000.0,Sold,2024-11-28,2024-12-18,6,60000.0
+UC00736,Maruti Suzuki,Dzire,2025,Petrol,Manual,17790,1st Owner,Bengaluru,465000,420000,445000.0,Sold,2024-05-22,2024-06-07,1,25000.0
+UC00737,Hyundai,Verna,2019,Diesel,Automatic,97721,2nd Owner,Pune,455000,410000,455000.0,Sold,2024-12-22,2024-12-27,7,45000.0
+UC00738,Tata,Safari,2019,Diesel,Automatic,89324,2nd Owner,Jaipur,810000,750000,,In Stock,2026-11-07,,7,
+UC00739,Mahindra,Scorpio,2021,Diesel,Automatic,66833,2nd Owner,Mumbai,680000,570000,675000.0,Sold,2025-03-14,2025-03-23,5,105000.0
+UC00740,Toyota,Glanza,2020,CNG,Manual,83783,1st Owner,Pune,245000,225000,255000.0,Sold,2024-01-07,2024-01-28,6,30000.0
+UC00741,Maruti Suzuki,Baleno,2024,Petrol,Manual,38216,1st Owner,Mumbai,490000,420000,,In Stock,2025-02-26,,2,
+UC00742,Hyundai,Venue,2022,Diesel,Manual,53942,2nd Owner,Bengaluru,680000,565000,,In Stock,2026-04-02,,4,
+UC00743,Tata,Safari,2019,Diesel,Manual,69739,3rd Owner,Aurangabad,690000,595000,685000.0,Sold,2026-07-30,2026-08-08,7,90000.0
+UC00744,Mahindra,Scorpio,2022,Diesel,Automatic,53245,1st Owner,Jaipur,890000,735000,,In Stock,2025-09-23,,4,
+UC00745,Toyota,Rumion,2023,Petrol,Manual,52927,1st Owner,Nashik,625000,560000,595000.0,Sold,2024-09-05,2024-09-21,3,35000.0
+UC00746,Maruti Suzuki,Fronx,2023,CNG,Manual,58728,1st Owner,Aurangabad,630000,560000,640000.0,Sold,2025-07-09,2025-08-07,3,80000.0
+UC00747,Hyundai,Exter,2024,CNG,Manual,24959,1st Owner,Bengaluru,710000,620000,,In Stock,2024-01-09,,2,
+UC00748,Tata,Nexon,2024,CNG,Manual,40630,1st Owner,Nashik,840000,740000,795000.0,Sold,2026-06-15,2026-07-04,2,55000.0
+UC00749,Mahindra,XUV 3XO,2025,Diesel,Automatic,30871,2nd Owner,Jaipur,620000,545000,585000.0,Sold,2025-07-28,2025-08-13,1,40000.0
+UC00750,Toyota,Urban Cruiser Hyryder,2023,CNG,Automatic,25993,2nd Owner,Aurangabad,825000,740000,840000.0,Sold,2024-01-23,2024-02-09,3,100000.0
+UC00751,Maruti Suzuki,Dzire,2022,CNG,Automatic,39870,1st Owner,Hyderabad,305000,280000,,In Stock,2024-06-15,,4,
+UC00752,Hyundai,Exter,2023,CNG,Manual,32671,1st Owner,Pune,640000,535000,,Under Inspection,2025-11-04,,3,
+UC00753,Tata,Safari,2019,Diesel,Manual,89769,1st Owner,Mumbai,775000,710000,765000.0,Sold,2026-04-21,2026-05-12,7,55000.0
+UC00754,Mahindra,Thar,2020,Diesel,Manual,68387,1st Owner,Pune,530000,460000,530000.0,Sold,2025-09-04,2025-09-13,6,70000.0
+UC00755,Toyota,Rumion,2025,Petrol,Manual,24999,1st Owner,Nagpur,755000,650000,,In Stock,2025-07-24,,1,
+UC00756,Maruti Suzuki,Baleno,2019,CNG,Manual,88131,1st Owner,Bengaluru,400000,345000,400000.0,Sold,2024-08-10,2024-09-21,7,55000.0
+UC00757,Hyundai,Exter,2023,CNG,Manual,30113,2nd Owner,Pune,475000,435000,450000.0,Sold,2025-07-28,2025-08-30,3,15000.0
+UC00758,Tata,Harrier,2019,Diesel,Manual,101011,1st Owner,Aurangabad,465000,390000,,In Stock,2024-05-02,,7,
+UC00759,Mahindra,XUV700,2025,Petrol,Manual,26881,1st Owner,Aurangabad,1440000,1305000,,In Stock,2025-11-19,,1,
+UC00760,Toyota,Glanza,2020,CNG,Automatic,80246,2nd Owner,Pune,370000,315000,380000.0,Sold,2024-03-15,2024-04-22,6,65000.0
+UC00761,Maruti Suzuki,Baleno,2022,Petrol,Automatic,50712,1st Owner,Mumbai,415000,355000,,Under Inspection,2024-08-04,,4,
+UC00762,Hyundai,Creta,2022,Petrol,Manual,59765,1st Owner,Nagpur,580000,490000,545000.0,Sold,2024-02-06,2024-02-18,4,55000.0
+UC00763,Tata,Safari,2025,Diesel,Manual,17471,1st Owner,Ahmedabad,1865000,1685000,1855000.0,Sold,2024-06-25,2024-07-11,1,170000.0
+UC00764,Mahindra,Bolero,2022,Diesel,Manual,45022,3rd Owner,Hyderabad,410000,345000,,In Stock,2025-08-27,,4,
+UC00765,Toyota,Urban Cruiser Hyryder,2022,CNG,Automatic,46061,1st Owner,Delhi,1095000,955000,1040000.0,Sold,2025-07-09,2025-07-19,4,85000.0
+UC00766,Maruti Suzuki,Swift,2020,Petrol,Manual,51253,3rd Owner,Hyderabad,220000,195000,,In Stock,2025-08-26,,6,
+UC00767,Hyundai,Verna,2023,Diesel,Manual,41038,1st Owner,Jaipur,575000,485000,,In Stock,2024-04-03,,3,
+UC00768,Tata,Safari,2024,Diesel,Manual,42247,1st Owner,Hyderabad,1340000,1155000,1325000.0,Sold,2025-11-17,2025-12-12,2,170000.0
+UC00769,Mahindra,Scorpio,2023,Diesel,Manual,47380,3rd Owner,Aurangabad,730000,655000,745000.0,Sold,2025-01-07,2025-02-06,3,90000.0
+UC00770,Toyota,Glanza,2022,CNG,Automatic,63449,3rd Owner,Mumbai,260000,220000,,In Stock,2024-10-15,,4,
+UC00771,Maruti Suzuki,Brezza,2021,Petrol,Manual,72986,1st Owner,Aurangabad,505000,440000,490000.0,Sold,2025-02-10,2025-02-28,5,50000.0
+UC00772,Hyundai,Exter,2024,CNG,Automatic,32177,1st Owner,Mumbai,545000,450000,520000.0,Sold,2026-04-09,2026-04-19,2,70000.0
+UC00773,Tata,Altroz,2022,CNG,Manual,53870,2nd Owner,Delhi,340000,300000,340000.0,Sold,2026-02-19,2026-02-24,4,40000.0
+UC00774,Mahindra,XUV700,2023,Diesel,Manual,40386,1st Owner,Delhi,1525000,1395000,,In Stock,2026-02-11,,3,
+UC00775,Toyota,Fortuner,2022,Diesel,Automatic,58893,1st Owner,Mumbai,1720000,1575000,1730000.0,Sold,2025-10-15,2025-10-17,4,155000.0
+UC00776,Maruti Suzuki,Fronx,2023,Petrol,Manual,58118,1st Owner,Nagpur,585000,530000,595000.0,Sold,2026-08-03,2026-08-12,3,65000.0
+UC00777,Hyundai,Verna,2018,Petrol,Manual,106724,1st Owner,Aurangabad,545000,475000,555000.0,Sold,2024-07-30,2024-08-12,8,80000.0
+UC00778,Tata,Harrier,2025,Diesel,Manual,22401,3rd Owner,Nagpur,1000000,880000,945000.0,Sold,2025-08-01,2025-09-01,1,65000.0
+UC00779,Mahindra,Thar,2021,Diesel,Manual,58813,1st Owner,Delhi,915000,780000,,In Stock,2025-12-18,,5,
+UC00780,Toyota,Innova Crysta,2025,Diesel,Manual,14104,1st Owner,Nashik,1305000,1195000,,In Stock,2024-05-19,,1,
+UC00781,Maruti Suzuki,Fronx,2024,CNG,Automatic,29964,1st Owner,Nashik,600000,555000,620000.0,Sold,2025-01-12,2025-02-14,2,65000.0
+UC00782,Hyundai,Creta,2024,Petrol,Manual,31639,2nd Owner,Nagpur,810000,675000,,In Stock,2025-08-05,,2,
+UC00783,Tata,Punch,2023,CNG,Automatic,68642,2nd Owner,Jaipur,490000,450000,,In Stock,2025-06-23,,3,
+UC00784,Mahindra,XUV700,2023,Diesel,Automatic,25372,1st Owner,Nagpur,1530000,1420000,1555000.0,Sold,2025-08-25,2025-09-13,3,135000.0
+UC00785,Toyota,Innova Crysta,2024,Petrol,Automatic,33463,1st Owner,Aurangabad,1245000,1130000,,In Stock,2025-03-12,,2,
+UC00786,Maruti Suzuki,Swift,2023,CNG,Automatic,49151,1st Owner,Aurangabad,350000,305000,,Under Inspection,2025-07-17,,3,
+UC00787,Hyundai,Exter,2025,Petrol,Manual,10420,1st Owner,Jaipur,725000,605000,680000.0,Sold,2026-07-20,2026-08-25,1,75000.0
+UC00788,Tata,Altroz,2022,Diesel,Manual,37772,2nd Owner,Mumbai,440000,395000,425000.0,Sold,2024-12-09,2024-12-26,4,30000.0
+UC00789,Mahindra,Scorpio,2025,Diesel,Automatic,13408,1st Owner,Aurangabad,1075000,885000,,In Stock,2024-07-30,,1,
+UC00790,Toyota,Urban Cruiser Hyryder,2025,CNG,Manual,24575,1st Owner,Pune,1360000,1255000,,In Stock,2026-11-07,,1,
+UC00791,Maruti Suzuki,Dzire,2021,Petrol,Manual,61811,3rd Owner,Nashik,375000,325000,370000.0,Sold,2024-07-01,2024-07-14,5,45000.0
+UC00792,Hyundai,Venue,2022,Diesel,Automatic,50557,3rd Owner,Delhi,470000,430000,,In Stock,2025-12-04,,4,
+UC00793,Tata,Safari,2022,Diesel,Manual,61393,1st Owner,Mumbai,920000,795000,885000.0,Sold,2024-02-03,2024-02-18,4,90000.0
+UC00794,Mahindra,XUV700,2022,Petrol,Manual,45155,1st Owner,Jaipur,1075000,945000,1080000.0,Sold,2024-06-17,2024-07-22,4,135000.0
+UC00795,Toyota,Glanza,2020,Petrol,Manual,59222,1st Owner,Mumbai,390000,340000,375000.0,Sold,2025-04-01,2025-05-06,6,35000.0
+UC00796,Maruti Suzuki,Swift,2018,CNG,Automatic,110828,1st Owner,Nagpur,340000,280000,,In Stock,2024-07-24,,8,
+UC00797,Hyundai,Exter,2024,Petrol,Manual,19127,1st Owner,Nashik,675000,585000,655000.0,Sold,2024-03-15,2024-04-22,2,70000.0
+UC00798,Tata,Harrier,2021,Diesel,Manual,70197,1st Owner,Mumbai,780000,680000,,Under Inspection,2025-04-07,,5,
+UC00799,Mahindra,Scorpio,2024,Diesel,Manual,46038,1st Owner,Mumbai,1100000,1005000,,Under Inspection,2024-10-29,,2,
+UC00800,Toyota,Glanza,2024,Petrol,Manual,25310,1st Owner,Jaipur,515000,455000,,Under Inspection,2026-02-24,,2,
+UC00801,Maruti Suzuki,Baleno,2023,Petrol,Manual,41028,2nd Owner,Pune,625000,560000,590000.0,Sold,2025-01-31,2025-03-08,3,30000.0
+UC00802,Hyundai,Creta,2023,Diesel,Manual,48799,1st Owner,Nagpur,645000,580000,655000.0,Sold,2026-07-06,2026-07-26,3,75000.0
+UC00803,Tata,Harrier,2025,Diesel,Automatic,20869,1st Owner,Nashik,1560000,1370000,,In Stock,2024-01-22,,1,
+UC00804,Mahindra,XUV700,2025,Petrol,Manual,28093,2nd Owner,Mumbai,1685000,1450000,1630000.0,Sold,2024-09-12,2024-10-12,1,180000.0
+UC00805,Toyota,Rumion,2025,Petrol,Manual,14552,1st Owner,Bengaluru,900000,830000,850000.0,Sold,2026-03-31,2026-05-09,1,20000.0
+UC00806,Maruti Suzuki,Brezza,2023,CNG,Manual,42042,1st Owner,Mumbai,735000,680000,,In Stock,2025-08-04,,3,
+UC00807,Hyundai,Verna,2022,Petrol,Automatic,61620,1st Owner,Nashik,690000,575000,705000.0,Sold,2024-06-15,2024-07-29,4,130000.0
+UC00808,Tata,Harrier,2023,Diesel,Automatic,46329,1st Owner,Nagpur,885000,795000,900000.0,Sold,2024-12-20,2025-01-31,3,105000.0
+UC00809,Mahindra,XUV 3XO,2024,Petrol,Manual,37515,1st Owner,Mumbai,840000,715000,,In Stock,2024-10-17,,2,
+UC00810,Toyota,Innova Crysta,2022,Diesel,Manual,44237,1st Owner,Bengaluru,1295000,1090000,,In Stock,2024-02-18,,4,
+UC00811,Maruti Suzuki,Dzire,2024,CNG,Manual,25746,1st Owner,Mumbai,490000,405000,,In Stock,2026-02-22,,2,
+UC00812,Hyundai,Verna,2023,Diesel,Manual,39272,1st Owner,Mumbai,675000,565000,,In Stock,2024-02-10,,3,
+UC00813,Tata,Altroz,2022,CNG,Manual,54845,1st Owner,Hyderabad,290000,250000,280000.0,Sold,2026-01-13,2026-01-26,4,30000.0
+UC00814,Mahindra,Bolero,2021,Diesel,Automatic,58146,1st Owner,Delhi,285000,245000,,In Stock,2024-07-10,,5,
+UC00815,Toyota,Fortuner,2024,Petrol,Manual,22903,1st Owner,Hyderabad,2520000,2330000,,In Stock,2026-09-19,,2,
+UC00816,Maruti Suzuki,Fronx,2025,Petrol,Automatic,19993,1st Owner,Aurangabad,845000,775000,,Under Inspection,2026-01-25,,1,
+UC00817,Hyundai,Exter,2024,Petrol,Manual,37665,1st Owner,Delhi,690000,610000,705000.0,Sold,2025-02-17,2025-03-03,2,95000.0
+UC00818,Tata,Nexon,2023,Diesel,Automatic,41756,1st Owner,Mumbai,460000,385000,460000.0,Sold,2025-08-08,2025-08-16,3,75000.0
+UC00819,Mahindra,Scorpio,2024,Diesel,Manual,19165,1st Owner,Nashik,860000,770000,,In Stock,2024-05-21,,2,
+UC00820,Toyota,Innova Crysta,2023,Petrol,Manual,39311,2nd Owner,Jaipur,1220000,1120000,,In Stock,2025-11-19,,3,
+UC00821,Maruti Suzuki,Fronx,2025,Petrol,Manual,34464,2nd Owner,Nashik,660000,560000,,In Stock,2025-05-27,,1,
+UC00822,Hyundai,Creta,2019,Diesel,Automatic,83125,1st Owner,Aurangabad,595000,500000,590000.0,Sold,2024-02-14,2024-02-26,7,90000.0
+UC00823,Tata,Safari,2023,Diesel,Automatic,31398,2nd Owner,Ahmedabad,1045000,905000,,Under Inspection,2025-02-23,,3,
+UC00824,Mahindra,XUV 3XO,2025,Diesel,Automatic,17133,2nd Owner,Ahmedabad,1095000,965000,1135000.0,Sold,2025-11-30,2025-12-16,1,170000.0
+UC00825,Toyota,Rumion,2024,Petrol,Manual,40716,1st Owner,Pune,990000,875000,1020000.0,Sold,2024-08-31,2024-09-19,2,145000.0
+UC00826,Maruti Suzuki,Swift,2024,CNG,Manual,22630,2nd Owner,Nagpur,520000,480000,,In Stock,2026-06-01,,2,
+UC00827,Hyundai,Creta,2020,Diesel,Automatic,73659,1st Owner,Nashik,480000,425000,460000.0,Sold,2024-10-17,2024-11-29,6,35000.0
+UC00828,Tata,Nexon,2021,CNG,Manual,82659,2nd Owner,Nagpur,655000,580000,655000.0,Sold,2024-05-31,2024-06-26,5,75000.0
+UC00829,Mahindra,XUV 3XO,2024,Diesel,Manual,31605,1st Owner,Ahmedabad,635000,580000,610000.0,Sold,2025-09-16,2025-10-24,2,30000.0
+UC00830,Toyota,Rumion,2024,CNG,Automatic,37479,3rd Owner,Nashik,745000,670000,,In Stock,2026-09-26,,2,
+UC00831,Maruti Suzuki,Fronx,2025,CNG,Manual,10536,1st Owner,Aurangabad,1000000,915000,1005000.0,Sold,2024-11-15,2024-11-25,1,90000.0
+UC00832,Hyundai,i20,2023,Diesel,Manual,52095,1st Owner,Nagpur,350000,325000,345000.0,Sold,2025-03-09,2025-04-22,3,20000.0
+UC00833,Tata,Punch,2022,Petrol,Manual,46990,1st Owner,Ahmedabad,590000,550000,,In Stock,2024-09-11,,4,
+UC00834,Mahindra,Scorpio,2018,Diesel,Manual,100404,2nd Owner,Ahmedabad,360000,315000,340000.0,Sold,2026-09-13,2026-10-17,8,25000.0
+UC00835,Toyota,Fortuner,2018,Diesel,Manual,113868,2nd Owner,Nagpur,1155000,1005000,1195000.0,Sold,2024-03-22,2024-04-25,8,190000.0
+UC00836,Maruti Suzuki,Swift,2021,CNG,Automatic,38903,1st Owner,Hyderabad,450000,400000,450000.0,Sold,2024-09-29,2024-10-29,5,50000.0
+UC00837,Hyundai,Venue,2025,Diesel,Manual,42561,2nd Owner,Nashik,630000,545000,640000.0,Sold,2025-09-03,2025-10-16,1,95000.0
+UC00838,Tata,Harrier,2025,Diesel,Automatic,37492,1st Owner,Hyderabad,1195000,1070000,1195000.0,Sold,2026-09-01,2026-10-01,1,125000.0
+UC00839,Mahindra,XUV 3XO,2025,Petrol,Manual,26635,1st Owner,Ahmedabad,965000,795000,980000.0,Sold,2024-06-21,2024-07-05,1,185000.0
+UC00840,Toyota,Innova Crysta,2020,Petrol,Manual,69570,1st Owner,Aurangabad,655000,550000,670000.0,Sold,2025-09-21,2025-10-15,6,120000.0
+UC00841,Maruti Suzuki,Baleno,2022,CNG,Manual,58924,3rd Owner,Ahmedabad,475000,400000,460000.0,Sold,2025-12-16,2026-01-04,4,60000.0
+UC00842,Hyundai,i20,2022,Petrol,Manual,44708,1st Owner,Nashik,500000,465000,480000.0,Sold,2026-05-27,2026-07-10,4,15000.0
+UC00843,Tata,Safari,2023,Diesel,Manual,49258,1st Owner,Jaipur,1190000,1050000,1185000.0,Sold,2026-07-27,2026-09-04,3,135000.0
+UC00844,Mahindra,Scorpio,2025,Diesel,Manual,20144,1st Owner,Hyderabad,1360000,1170000,,In Stock,2025-03-13,,1,
+UC00845,Toyota,Rumion,2023,CNG,Manual,61384,2nd Owner,Ahmedabad,680000,605000,655000.0,Sold,2026-08-07,2026-09-19,3,50000.0
+UC00846,Maruti Suzuki,Baleno,2020,Petrol,Manual,55791,1st Owner,Jaipur,325000,280000,,In Stock,2024-11-11,,6,
+UC00847,Hyundai,Venue,2025,Petrol,Manual,12928,1st Owner,Jaipur,665000,550000,,In Stock,2024-05-10,,1,
+UC00848,Tata,Harrier,2024,Diesel,Automatic,22662,1st Owner,Ahmedabad,1480000,1255000,,In Stock,2024-06-13,,2,
+UC00849,Mahindra,Thar,2020,Diesel,Manual,75437,1st Owner,Delhi,650000,595000,,Under Inspection,2026-08-28,,6,
+UC00850,Toyota,Innova Crysta,2022,Petrol,Manual,59686,3rd Owner,Aurangabad,1210000,1040000,1250000.0,Sold,2025-05-22,2025-05-30,4,210000.0
+UC00851,Maruti Suzuki,Dzire,2018,Petrol,Manual,96543,1st Owner,Mumbai,310000,285000,315000.0,Sold,2025-07-17,2025-08-21,8,30000.0
+UC00852,Hyundai,Verna,2019,Petrol,Manual,85838,1st Owner,Bengaluru,520000,480000,,Under Inspection,2025-10-02,,7,
+UC00853,Tata,Altroz,2025,Petrol,Manual,36494,1st Owner,Aurangabad,715000,645000,690000.0,Sold,2024-06-13,2024-07-22,1,45000.0
+UC00854,Mahindra,XUV700,2025,Diesel,Manual,14037,1st Owner,Mumbai,1400000,1225000,1330000.0,Sold,2025-09-14,2025-09-22,1,105000.0
+UC00855,Toyota,Glanza,2021,CNG,Manual,74542,2nd Owner,Jaipur,335000,275000,340000.0,Sold,2026-09-23,2026-11-01,5,65000.0
+UC00856,Maruti Suzuki,Dzire,2018,Petrol,Manual,94347,1st Owner,Pune,225000,195000,230000.0,Sold,2025-02-16,2025-03-09,8,35000.0
+UC00857,Hyundai,Verna,2021,Diesel,Automatic,39953,2nd Owner,Nashik,305000,260000,295000.0,Sold,2024-11-27,2024-12-14,5,35000.0
+UC00858,Tata,Altroz,2019,CNG,Manual,71152,1st Owner,Mumbai,220000,205000,225000.0,Sold,2025-07-25,2025-09-02,7,20000.0
+UC00859,Mahindra,Bolero,2018,Diesel,Manual,102670,1st Owner,Bengaluru,330000,275000,330000.0,Sold,2024-10-25,2024-11-26,8,55000.0
+UC00860,Toyota,Innova Crysta,2024,Diesel,Automatic,37923,1st Owner,Nagpur,1385000,1240000,,In Stock,2024-08-08,,2,
+UC00861,Maruti Suzuki,Brezza,2021,CNG,Manual,60684,1st Owner,Hyderabad,640000,580000,615000.0,Sold,2026-08-07,2026-09-06,5,35000.0
+UC00862,Hyundai,Verna,2018,Diesel,Automatic,77938,1st Owner,Ahmedabad,555000,485000,540000.0,Sold,2024-06-29,2024-08-09,8,55000.0
+UC00863,Tata,Altroz,2025,Petrol,Manual,20700,1st Owner,Aurangabad,590000,495000,,In Stock,2025-03-19,,1,
+UC00864,Mahindra,XUV700,2023,Petrol,Manual,30240,1st Owner,Ahmedabad,1210000,1070000,1150000.0,Sold,2025-09-16,2025-09-25,3,80000.0
+UC00865,Toyota,Innova Crysta,2021,Diesel,Manual,51472,1st Owner,Bengaluru,1055000,915000,,In Stock,2025-03-15,,5,
+UC00866,Maruti Suzuki,Swift,2018,CNG,Automatic,88504,3rd Owner,Ahmedabad,250000,210000,,In Stock,2026-04-15,,8,
+UC00867,Hyundai,Verna,2025,Petrol,Automatic,33157,2nd Owner,Pune,855000,765000,,In Stock,2025-10-29,,1,
+UC00868,Tata,Punch,2022,Petrol,Automatic,40253,2nd Owner,Pune,350000,300000,,In Stock,2024-12-16,,4,
+UC00869,Mahindra,Bolero,2025,Diesel,Manual,37875,2nd Owner,Bengaluru,740000,655000,695000.0,Sold,2024-09-02,2024-09-23,1,40000.0
+UC00870,Toyota,Rumion,2024,CNG,Automatic,32244,1st Owner,Aurangabad,1005000,845000,1020000.0,Sold,2026-04-18,2026-04-20,2,175000.0
+UC00871,Maruti Suzuki,Baleno,2021,Petrol,Manual,76980,1st Owner,Delhi,295000,270000,305000.0,Sold,2025-12-15,2026-01-28,5,35000.0
+UC00872,Hyundai,Creta,2020,Diesel,Manual,71915,3rd Owner,Nashik,540000,475000,,In Stock,2026-07-26,,6,
+UC00873,Tata,Harrier,2023,Diesel,Manual,27236,1st Owner,Mumbai,1075000,945000,1050000.0,Sold,2025-02-13,2025-02-25,3,105000.0
+UC00874,Mahindra,XUV 3XO,2025,Petrol,Manual,25568,1st Owner,Bengaluru,910000,775000,930000.0,Sold,2026-04-13,2026-05-21,1,155000.0
+UC00875,Toyota,Fortuner,2022,Petrol,Automatic,56330,2nd Owner,Bengaluru,1110000,1010000,1120000.0,Sold,2026-09-16,2026-10-11,4,110000.0
+UC00876,Maruti Suzuki,Fronx,2025,Petrol,Manual,19176,1st Owner,Mumbai,1070000,945000,1005000.0,Sold,2024-06-16,2024-07-25,1,60000.0
+UC00877,Hyundai,Verna,2024,Petrol,Automatic,42064,1st Owner,Nashik,565000,520000,580000.0,Sold,2025-08-20,2025-09-03,2,60000.0
+UC00878,Tata,Harrier,2024,Diesel,Manual,19204,1st Owner,Bengaluru,1495000,1255000,1490000.0,Sold,2025-05-14,2025-06-12,2,235000.0
+UC00879,Mahindra,Scorpio,2020,Diesel,Manual,78521,1st Owner,Mumbai,655000,585000,665000.0,Sold,2026-05-25,2026-06-22,6,80000.0
+UC00880,Toyota,Urban Cruiser Hyryder,2023,Petrol,Automatic,34637,2nd Owner,Delhi,735000,680000,700000.0,Sold,2024-08-30,2024-09-04,3,20000.0
+UC00881,Maruti Suzuki,Swift,2022,Petrol,Automatic,37741,1st Owner,Bengaluru,480000,425000,,In Stock,2025-06-13,,4,
+UC00882,Hyundai,Venue,2023,Petrol,Automatic,44724,2nd Owner,Hyderabad,450000,405000,455000.0,Sold,2026-08-13,2026-09-22,3,50000.0
+UC00883,Tata,Altroz,2021,CNG,Manual,42248,1st Owner,Ahmedabad,340000,310000,,In Stock,2024-07-25,,5,
+UC00884,Mahindra,Bolero,2020,Diesel,Automatic,68096,1st Owner,Delhi,430000,375000,405000.0,Sold,2024-10-21,2024-11-19,6,30000.0
+UC00885,Toyota,Fortuner,2019,Diesel,Manual,92738,1st Owner,Aurangabad,1525000,1310000,1455000.0,Sold,2025-09-13,2025-10-06,7,145000.0
+UC00886,Maruti Suzuki,Fronx,2024,CNG,Automatic,34651,1st Owner,Mumbai,620000,560000,,In Stock,2025-11-22,,2,
+UC00887,Hyundai,i20,2018,Petrol,Manual,90834,1st Owner,Aurangabad,345000,300000,,In Stock,2026-11-03,,8,
+UC00888,Tata,Safari,2020,Diesel,Manual,79503,2nd Owner,Hyderabad,500000,415000,,In Stock,2025-11-05,,6,
+UC00889,Mahindra,Scorpio,2023,Diesel,Automatic,34653,2nd Owner,Pune,615000,550000,600000.0,Sold,2025-09-23,2025-11-01,3,50000.0
+UC00890,Toyota,Innova Crysta,2022,Petrol,Automatic,54708,1st Owner,Aurangabad,680000,605000,645000.0,Sold,2025-06-26,2025-07-26,4,40000.0
+UC00891,Maruti Suzuki,Baleno,2023,Petrol,Manual,35332,1st Owner,Bengaluru,390000,335000,,In Stock,2026-11-05,,3,
+UC00892,Hyundai,Verna,2019,Petrol,Manual,97901,1st Owner,Delhi,555000,460000,540000.0,Sold,2026-09-23,2026-10-01,7,80000.0
+UC00893,Tata,Nexon,2023,Diesel,Manual,32218,1st Owner,Aurangabad,1005000,925000,,In Stock,2024-10-19,,3,
+UC00894,Mahindra,XUV700,2023,Petrol,Automatic,43387,1st Owner,Bengaluru,1060000,985000,1015000.0,Sold,2025-05-10,2025-06-13,3,30000.0
+UC00895,Toyota,Fortuner,2024,Petrol,Automatic,26634,1st Owner,Hyderabad,2410000,2180000,2475000.0,Sold,2026-02-11,2026-02-18,2,295000.0
+UC00896,Maruti Suzuki,Brezza,2024,Petrol,Automatic,32410,1st Owner,Mumbai,665000,545000,,In Stock,2025-09-03,,2,
+UC00897,Hyundai,i20,2019,Petrol,Manual,103513,1st Owner,Nagpur,310000,260000,300000.0,Sold,2024-10-17,2024-10-25,7,40000.0
+UC00898,Tata,Harrier,2023,Diesel,Manual,43992,1st Owner,Pune,1160000,970000,,In Stock,2025-02-09,,3,
+UC00899,Mahindra,Thar,2024,Petrol,Manual,20357,1st Owner,Jaipur,1285000,1125000,,In Stock,2024-02-11,,2,
+UC00900,Toyota,Urban Cruiser Hyryder,2024,CNG,Manual,35340,1st Owner,Jaipur,1025000,865000,1020000.0,Sold,2026-02-20,2026-03-15,2,155000.0
+UC00901,Maruti Suzuki,Fronx,2025,CNG,Manual,26283,2nd Owner,Bengaluru,875000,720000,880000.0,Sold,2026-02-06,2026-03-11,1,160000.0
+UC00902,Hyundai,Exter,2024,CNG,Automatic,34387,2nd Owner,Delhi,585000,525000,,In Stock,2024-08-05,,2,
+UC00903,Tata,Altroz,2021,Petrol,Manual,80321,1st Owner,Pune,270000,240000,255000.0,Sold,2025-02-16,2025-02-24,5,15000.0
+UC00904,Mahindra,Bolero,2024,Diesel,Automatic,26812,3rd Owner,Aurangabad,510000,425000,,Under Inspection,2025-08-06,,2,
+UC00905,Toyota,Urban Cruiser Hyryder,2023,CNG,Manual,32814,1st Owner,Pune,1250000,1060000,1250000.0,Sold,2026-04-17,2026-05-14,3,190000.0
+UC00906,Maruti Suzuki,Fronx,2023,Petrol,Manual,57575,1st Owner,Mumbai,620000,565000,,In Stock,2025-11-23,,3,
+UC00907,Hyundai,Creta,2020,Diesel,Manual,66706,1st Owner,Bengaluru,605000,505000,595000.0,Sold,2026-09-25,2026-10-09,6,90000.0
+UC00908,Tata,Safari,2019,Diesel,Automatic,89131,1st Owner,Hyderabad,835000,770000,,In Stock,2024-01-25,,7,
+UC00909,Mahindra,Scorpio,2025,Diesel,Automatic,38144,2nd Owner,Aurangabad,1180000,1070000,,In Stock,2024-11-24,,1,
+UC00910,Toyota,Fortuner,2021,Petrol,Automatic,59879,2nd Owner,Delhi,1810000,1630000,1875000.0,Sold,2026-01-30,2026-03-14,5,245000.0
+UC00911,Maruti Suzuki,Swift,2018,CNG,Manual,101789,1st Owner,Mumbai,205000,185000,210000.0,Sold,2025-08-24,2025-09-25,8,25000.0
+UC00912,Hyundai,Creta,2019,Petrol,Manual,86140,2nd Owner,Pune,540000,490000,,In Stock,2024-07-03,,7,
+UC00913,Tata,Altroz,2020,Diesel,Manual,70353,1st Owner,Aurangabad,245000,225000,255000.0,Sold,2025-07-28,2025-08-13,6,30000.0
+UC00914,Mahindra,Scorpio,2022,Diesel,Automatic,53822,1st Owner,Nashik,500000,435000,475000.0,Sold,2025-05-08,2025-05-27,4,40000.0
+UC00915,Toyota,Glanza,2023,Petrol,Manual,47745,2nd Owner,Ahmedabad,330000,280000,,In Stock,2025-09-25,,3,
+UC00916,Maruti Suzuki,Swift,2020,Petrol,Automatic,87825,1st Owner,Pune,290000,245000,,In Stock,2024-01-26,,6,
+UC00917,Hyundai,Exter,2025,Petrol,Automatic,22452,2nd Owner,Hyderabad,565000,490000,540000.0,Sold,2025-08-13,2025-08-28,1,50000.0
+UC00918,Tata,Altroz,2021,Petrol,Automatic,54001,2nd Owner,Pune,305000,280000,295000.0,Sold,2024-03-24,2024-04-30,5,15000.0
+UC00919,Mahindra,XUV 3XO,2024,Diesel,Manual,18310,1st Owner,Aurangabad,825000,715000,795000.0,Sold,2026-09-17,2026-09-28,2,80000.0
+UC00920,Toyota,Fortuner,2024,Diesel,Automatic,18718,1st Owner,Nagpur,2030000,1765000,,In Stock,2026-01-29,,2,
+UC00921,Maruti Suzuki,Fronx,2025,Petrol,Manual,6763,1st Owner,Mumbai,1120000,1020000,1160000.0,Sold,2024-05-28,2024-07-06,1,140000.0
+UC00922,Hyundai,Creta,2022,Petrol,Manual,58830,1st Owner,Aurangabad,875000,795000,885000.0,Sold,2024-03-13,2024-04-23,4,90000.0
+UC00923,Tata,Safari,2021,Diesel,Manual,68258,1st Owner,Nagpur,760000,705000,750000.0,Sold,2024-08-14,2024-09-14,5,45000.0
+UC00924,Mahindra,Bolero,2023,Diesel,Manual,41715,1st Owner,Jaipur,565000,500000,550000.0,Sold,2025-01-28,2025-03-12,3,50000.0
+UC00925,Toyota,Glanza,2021,Petrol,Manual,59713,2nd Owner,Ahmedabad,425000,350000,410000.0,Sold,2025-02-13,2025-02-18,5,60000.0
+UC00926,Maruti Suzuki,Swift,2019,CNG,Manual,79197,1st Owner,Ahmedabad,320000,290000,,In Stock,2025-08-21,,7,
+UC00927,Hyundai,i20,2020,Petrol,Manual,62560,2nd Owner,Mumbai,240000,200000,235000.0,Sold,2026-05-13,2026-06-25,6,35000.0
+UC00928,Tata,Nexon,2024,Petrol,Manual,47521,2nd Owner,Jaipur,570000,500000,535000.0,Sold,2026-04-12,2026-05-15,2,35000.0
+UC00929,Mahindra,XUV 3XO,2024,Diesel,Manual,42501,1st Owner,Delhi,920000,845000,,Under Inspection,2024-06-09,,2,
+UC00930,Toyota,Rumion,2023,CNG,Automatic,39497,2nd Owner,Bengaluru,860000,790000,,In Stock,2024-11-14,,3,
+UC00931,Maruti Suzuki,Baleno,2022,Petrol,Manual,51659,1st Owner,Ahmedabad,410000,380000,,In Stock,2024-11-26,,4,
+UC00932,Hyundai,i20,2018,Petrol,Manual,96439,1st Owner,Nashik,220000,185000,,In Stock,2024-02-16,,8,
+UC00933,Tata,Nexon,2020,Diesel,Manual,57823,3rd Owner,Nashik,380000,315000,,Under Inspection,2025-06-24,,6,
+UC00934,Mahindra,Bolero,2020,Diesel,Manual,83976,3rd Owner,Ahmedabad,180000,165000,,Under Inspection,2025-05-31,,6,
+UC00935,Toyota,Glanza,2020,CNG,Manual,91871,1st Owner,Aurangabad,335000,285000,320000.0,Sold,2025-09-17,2025-10-18,6,35000.0
+UC00936,Maruti Suzuki,Dzire,2019,CNG,Manual,103450,2nd Owner,Nagpur,180000,155000,180000.0,Sold,2025-12-23,2026-01-31,7,25000.0
+UC00937,Hyundai,Creta,2025,Petrol,Manual,19848,1st Owner,Bengaluru,1080000,935000,1085000.0,Sold,2026-05-10,2026-05-28,1,150000.0
+UC00938,Tata,Nexon,2025,Petrol,Manual,35945,1st Owner,Pune,890000,825000,865000.0,Sold,2025-02-10,2025-02-19,1,40000.0
+UC00939,Mahindra,XUV700,2022,Diesel,Automatic,59257,1st Owner,Bengaluru,1215000,1045000,1260000.0,Sold,2025-04-16,2025-05-20,4,215000.0
+UC00940,Toyota,Glanza,2024,Petrol,Automatic,36868,1st Owner,Pune,585000,535000,,Under Inspection,2025-08-19,,2,
+UC00941,Maruti Suzuki,Dzire,2024,Petrol,Automatic,19360,1st Owner,Ahmedabad,545000,465000,550000.0,Sold,2024-02-14,2024-03-19,2,85000.0
+UC00942,Hyundai,Creta,2021,Petrol,Automatic,71493,1st Owner,Mumbai,690000,590000,660000.0,Sold,2024-02-03,2024-03-17,5,70000.0
+UC00943,Tata,Safari,2020,Diesel,Manual,64061,1st Owner,Nagpur,730000,630000,695000.0,Sold,2024-09-07,2024-09-25,6,65000.0
+UC00944,Mahindra,Scorpio,2023,Diesel,Manual,52663,2nd Owner,Bengaluru,735000,610000,710000.0,Sold,2024-02-18,2024-03-05,3,100000.0
+UC00945,Toyota,Rumion,2025,CNG,Manual,30065,1st Owner,Bengaluru,970000,810000,930000.0,Sold,2024-10-19,2024-10-28,1,120000.0
+UC00946,Maruti Suzuki,Baleno,2023,Petrol,Automatic,40022,3rd Owner,Pune,450000,395000,460000.0,Sold,2025-04-21,2025-05-11,3,65000.0
+UC00947,Hyundai,Verna,2018,Diesel,Automatic,97565,3rd Owner,Jaipur,415000,370000,,In Stock,2025-10-05,,8,
+UC00948,Tata,Harrier,2019,Diesel,Manual,88381,1st Owner,Nashik,520000,460000,500000.0,Sold,2026-02-14,2026-03-09,7,40000.0
+UC00949,Mahindra,XUV700,2021,Diesel,Manual,52577,1st Owner,Nagpur,1125000,1000000,1105000.0,Sold,2024-09-05,2024-10-09,5,105000.0
+UC00950,Toyota,Fortuner,2025,Petrol,Manual,21961,1st Owner,Pune,2895000,2685000,,In Stock,2026-01-29,,1,
+UC00951,Maruti Suzuki,Swift,2019,CNG,Manual,67997,1st Owner,Aurangabad,365000,340000,,In Stock,2024-02-21,,7,
+UC00952,Hyundai,Venue,2021,Diesel,Manual,57037,2nd Owner,Hyderabad,345000,295000,,In Stock,2024-04-25,,5,
+UC00953,Tata,Safari,2023,Diesel,Manual,45756,1st Owner,Jaipur,940000,810000,940000.0,Sold,2026-09-24,2026-10-12,3,130000.0
+UC00954,Mahindra,Scorpio,2022,Diesel,Manual,38848,1st Owner,Bengaluru,905000,825000,870000.0,Sold,2026-01-10,2026-01-20,4,45000.0
+UC00955,Toyota,Rumion,2023,Petrol,Automatic,50113,1st Owner,Hyderabad,850000,710000,860000.0,Sold,2026-01-10,2026-02-13,3,150000.0
+UC00956,Maruti Suzuki,Fronx,2024,CNG,Manual,50357,2nd Owner,Jaipur,755000,670000,,In Stock,2026-08-25,,2,
+UC00957,Hyundai,Creta,2018,Diesel,Automatic,103221,3rd Owner,Jaipur,440000,370000,435000.0,Sold,2025-09-27,2025-11-06,8,65000.0
+UC00958,Tata,Nexon,2022,Petrol,Manual,48413,2nd Owner,Mumbai,685000,570000,655000.0,Sold,2026-03-14,2026-03-20,4,85000.0
+UC00959,Mahindra,Bolero,2025,Diesel,Manual,24269,2nd Owner,Ahmedabad,470000,415000,440000.0,Sold,2025-01-21,2025-02-15,1,25000.0
+UC00960,Toyota,Rumion,2024,CNG,Manual,18514,1st Owner,Delhi,785000,695000,,Under Inspection,2025-08-11,,2,
+UC00961,Maruti Suzuki,Brezza,2025,CNG,Manual,13138,2nd Owner,Hyderabad,690000,575000,695000.0,Sold,2026-02-23,2026-03-20,1,120000.0
+UC00962,Hyundai,i20,2022,Diesel,Manual,61366,1st Owner,Mumbai,285000,245000,,In Stock,2024-06-19,,4,
+UC00963,Tata,Altroz,2021,Diesel,Manual,67467,1st Owner,Pune,240000,220000,,In Stock,2024-02-26,,5,
+UC00964,Mahindra,Thar,2023,Petrol,Automatic,37648,1st Owner,Ahmedabad,1110000,970000,,In Stock,2024-09-09,,3,
+UC00965,Toyota,Urban Cruiser Hyryder,2022,Petrol,Manual,35474,1st Owner,Hyderabad,800000,695000,800000.0,Sold,2024-03-14,2024-03-17,4,105000.0
+UC00966,Maruti Suzuki,Dzire,2018,Petrol,Automatic,84214,2nd Owner,Mumbai,325000,270000,,Under Inspection,2026-03-20,,8,
+UC00967,Hyundai,i20,2022,Diesel,Manual,63035,1st Owner,Jaipur,325000,285000,320000.0,Sold,2025-05-07,2025-06-18,4,35000.0
+UC00968,Tata,Nexon,2021,CNG,Automatic,61677,1st Owner,Ahmedabad,330000,295000,340000.0,Sold,2024-05-11,2024-05-22,5,45000.0
+UC00969,Mahindra,Thar,2024,Petrol,Automatic,27190,2nd Owner,Bengaluru,1100000,980000,1105000.0,Sold,2025-11-15,2025-12-07,2,125000.0
+UC00970,Toyota,Urban Cruiser Hyryder,2024,CNG,Manual,12828,1st Owner,Nagpur,1280000,1100000,1250000.0,Sold,2025-10-03,2025-11-16,2,150000.0
+UC00971,Maruti Suzuki,Brezza,2025,CNG,Automatic,10947,1st Owner,Nagpur,1115000,920000,,In Stock,2025-03-01,,1,
+UC00972,Hyundai,Venue,2020,Diesel,Manual,69293,1st Owner,Nashik,510000,445000,,In Stock,2025-12-24,,6,
+UC00973,Tata,Safari,2022,Diesel,Manual,53923,1st Owner,Bengaluru,995000,835000,,Under Inspection,2026-03-03,,4,
+UC00974,Mahindra,XUV700,2024,Petrol,Manual,23735,1st Owner,Hyderabad,1370000,1160000,,Under Inspection,2024-12-12,,2,
+UC00975,Toyota,Innova Crysta,2022,Petrol,Manual,59306,1st Owner,Bengaluru,800000,710000,,In Stock,2024-08-02,,4,
+UC00976,Maruti Suzuki,Baleno,2018,Petrol,Automatic,92290,1st Owner,Pune,265000,235000,265000.0,Sold,2025-08-26,2025-09-26,8,30000.0
+UC00977,Hyundai,Exter,2023,CNG,Manual,41398,3rd Owner,Mumbai,485000,440000,,In Stock,2026-09-19,,3,
+UC00978,Tata,Altroz,2022,Diesel,Manual,33222,2nd Owner,Jaipur,430000,375000,,Under Inspection,2024-09-21,,4,
+UC00979,Mahindra,Bolero,2021,Diesel,Automatic,73484,1st Owner,Delhi,275000,230000,,Under Inspection,2024-03-27,,5,
+UC00980,Toyota,Glanza,2020,CNG,Manual,86915,1st Owner,Delhi,325000,290000,325000.0,Sold,2025-04-30,2025-06-02,6,35000.0
+UC00981,Maruti Suzuki,Swift,2018,Petrol,Manual,83858,2nd Owner,Nagpur,220000,205000,225000.0,Sold,2024-11-28,2024-12-13,8,20000.0
+UC00982,Hyundai,Exter,2023,CNG,Manual,36023,1st Owner,Delhi,450000,395000,445000.0,Sold,2025-07-12,2025-08-18,3,50000.0
+UC00983,Tata,Nexon,2020,Petrol,Automatic,80473,1st Owner,Delhi,600000,515000,615000.0,Sold,2024-09-11,2024-10-14,6,100000.0
+UC00984,Mahindra,Scorpio,2018,Diesel,Automatic,115116,1st Owner,Nagpur,540000,460000,,In Stock,2025-07-04,,8,
+UC00985,Toyota,Glanza,2022,CNG,Manual,48024,1st Owner,Jaipur,340000,285000,320000.0,Sold,2024-10-25,2024-11-24,4,35000.0
+UC00986,Maruti Suzuki,Swift,2022,CNG,Manual,46224,1st Owner,Delhi,440000,390000,440000.0,Sold,2025-12-07,2026-01-13,4,50000.0
+UC00987,Hyundai,Venue,2019,Diesel,Manual,85385,1st Owner,Pune,460000,380000,460000.0,Sold,2024-06-15,2024-07-17,7,80000.0
+UC00988,Tata,Harrier,2019,Diesel,Automatic,77705,1st Owner,Jaipur,795000,725000,815000.0,Sold,2024-08-23,2024-09-02,7,90000.0
+UC00989,Mahindra,XUV700,2025,Diesel,Automatic,22718,1st Owner,Pune,1600000,1400000,1580000.0,Sold,2026-08-16,2026-09-22,1,180000.0
+UC00990,Toyota,Innova Crysta,2023,Petrol,Manual,44596,1st Owner,Nashik,1095000,920000,1135000.0,Sold,2025-12-25,2026-01-02,3,215000.0
+UC00991,Maruti Suzuki,Brezza,2023,CNG,Automatic,27379,1st Owner,Ahmedabad,575000,475000,565000.0,Sold,2025-10-26,2025-11-27,3,90000.0
+UC00992,Hyundai,Creta,2019,Diesel,Manual,92398,2nd Owner,Aurangabad,585000,530000,590000.0,Sold,2026-09-24,2026-09-26,7,60000.0
+UC00993,Tata,Punch,2022,CNG,Automatic,56429,3rd Owner,Delhi,360000,320000,,In Stock,2024-08-31,,4,
+UC00994,Mahindra,Bolero,2024,Diesel,Manual,38247,2nd Owner,Pune,655000,545000,670000.0,Sold,2024-06-02,2024-06-26,2,125000.0
+UC00995,Toyota,Glanza,2019,CNG,Manual,72980,2nd Owner,Ahmedabad,245000,220000,,In Stock,2026-04-21,,7,
+UC00996,Maruti Suzuki,Swift,2021,CNG,Manual,55561,1st Owner,Jaipur,415000,350000,425000.0,Sold,2026-06-18,2026-07-22,5,75000.0
+UC00997,Hyundai,Venue,2025,Diesel,Manual,26040,3rd Owner,Ahmedabad,875000,770000,860000.0,Sold,2024-06-19,2024-07-16,1,90000.0
+UC00998,Tata,Punch,2024,Petrol,Manual,37877,1st Owner,Nagpur,725000,620000,690000.0,Sold,2025-05-09,2025-06-17,2,70000.0
+UC00999,Mahindra,Bolero,2024,Diesel,Manual,48963,1st Owner,Mumbai,620000,510000,615000.0,Sold,2024-07-13,2024-08-21,2,105000.0
+UC01000,Toyota,Glanza,2020,Petrol,Manual,70953,1st Owner,Delhi,415000,355000,405000.0,Sold,2024-05-01,2024-05-21,6,50000.0
+UC01001,Maruti Suzuki,Dzire,2022,CNG,Manual,57535,2nd Owner,Bengaluru,440000,400000,415000.0,Sold,2025-02-28,2025-03-12,4,15000.0
+UC01002,Hyundai,Venue,2023,Petrol,Manual,48586,2nd Owner,Ahmedabad,580000,500000,,In Stock,2026-11-03,,3,
+UC01003,Tata,Nexon,2019,Diesel,Automatic,83902,1st Owner,Delhi,405000,375000,390000.0,Sold,2025-10-30,2025-11-26,7,15000.0
+UC01004,Mahindra,Bolero,2018,Diesel,Manual,90172,1st Owner,Nashik,280000,245000,,In Stock,2025-06-19,,8,
+UC01005,Toyota,Fortuner,2024,Petrol,Automatic,37571,1st Owner,Ahmedabad,2895000,2660000,2815000.0,Sold,2026-07-31,2026-08-28,2,155000.0
+UC01006,Maruti Suzuki,Dzire,2021,CNG,Manual,43822,2nd Owner,Mumbai,235000,210000,230000.0,Sold,2024-03-02,2024-03-27,5,20000.0
+UC01007,Hyundai,Exter,2023,Petrol,Manual,35987,1st Owner,Delhi,615000,555000,,In Stock,2024-07-15,,3,
+UC01008,Tata,Nexon,2021,Petrol,Automatic,58576,2nd Owner,Nagpur,520000,465000,500000.0,Sold,2024-07-09,2024-07-13,5,35000.0
+UC01009,Mahindra,Bolero,2021,Diesel,Manual,63052,2nd Owner,Nashik,285000,235000,270000.0,Sold,2025-07-27,2025-08-06,5,35000.0
+UC01010,Toyota,Innova Crysta,2022,Diesel,Manual,50196,1st Owner,Nashik,720000,640000,,In Stock,2024-09-29,,4,
+UC01011,Maruti Suzuki,Baleno,2019,CNG,Manual,91151,1st Owner,Aurangabad,285000,245000,285000.0,Sold,2026-03-17,2026-04-02,7,40000.0
+UC01012,Hyundai,Exter,2024,Petrol,Manual,36007,1st Owner,Mumbai,695000,640000,690000.0,Sold,2026-07-17,2026-07-26,2,50000.0
+UC01013,Tata,Punch,2023,Petrol,Manual,49943,1st Owner,Delhi,600000,505000,,In Stock,2025-06-24,,3,
+UC01014,Mahindra,Thar,2025,Diesel,Manual,19387,2nd Owner,Pune,1430000,1265000,,In Stock,2026-11-11,,1,
+UC01015,Toyota,Glanza,2020,CNG,Manual,76426,1st Owner,Ahmedabad,235000,200000,235000.0,Sold,2026-03-01,2026-03-09,6,35000.0
+UC01016,Maruti Suzuki,Brezza,2019,CNG,Manual,101765,1st Owner,Delhi,410000,345000,405000.0,Sold,2025-03-20,2025-05-01,7,60000.0
+UC01017,Hyundai,Verna,2018,Diesel,Automatic,99519,1st Owner,Mumbai,535000,440000,,In Stock,2024-09-27,,8,
+UC01018,Tata,Punch,2024,Petrol,Automatic,19266,2nd Owner,Bengaluru,530000,450000,,In Stock,2024-07-03,,2,
+UC01019,Mahindra,XUV700,2022,Diesel,Automatic,59233,2nd Owner,Ahmedabad,680000,625000,680000.0,Sold,2024-01-07,2024-01-09,4,55000.0
+UC01020,Toyota,Urban Cruiser Hyryder,2025,CNG,Manual,16036,2nd Owner,Ahmedabad,1330000,1225000,1280000.0,Sold,2025-09-16,2025-10-19,1,55000.0
+UC01021,Maruti Suzuki,Fronx,2024,Petrol,Manual,59038,2nd Owner,Hyderabad,630000,575000,,In Stock,2026-09-07,,2,
+UC01022,Hyundai,Exter,2023,Petrol,Manual,52873,1st Owner,Nashik,435000,400000,420000.0,Sold,2025-03-09,2025-04-04,3,20000.0
+UC01023,Tata,Harrier,2024,Diesel,Automatic,54398,1st Owner,Mumbai,805000,730000,800000.0,Sold,2026-04-18,2026-05-19,2,70000.0
+UC01024,Mahindra,XUV700,2023,Petrol,Manual,47634,1st Owner,Ahmedabad,995000,900000,,Under Inspection,2026-04-24,,3,
+UC01025,Toyota,Innova Crysta,2022,Petrol,Manual,40765,1st Owner,Hyderabad,885000,785000,880000.0,Sold,2026-05-09,2026-06-05,4,95000.0
+UC01026,Maruti Suzuki,Fronx,2024,CNG,Automatic,12034,1st Owner,Pune,675000,585000,655000.0,Sold,2026-02-20,2026-03-28,2,70000.0
+UC01027,Hyundai,i20,2022,Petrol,Manual,40918,1st Owner,Mumbai,485000,405000,,In Stock,2025-01-27,,4,
+UC01028,Tata,Safari,2019,Diesel,Manual,94701,1st Owner,Jaipur,785000,715000,745000.0,Sold,2024-04-26,2024-05-16,7,30000.0
+UC01029,Mahindra,Scorpio,2023,Diesel,Manual,56431,1st Owner,Mumbai,1060000,965000,1085000.0,Sold,2025-08-09,2025-08-25,3,120000.0
+UC01030,Toyota,Innova Crysta,2020,Petrol,Manual,83304,1st Owner,Aurangabad,735000,630000,705000.0,Sold,2025-01-09,2025-02-01,6,75000.0
+UC01031,Maruti Suzuki,Swift,2023,CNG,Manual,52739,1st Owner,Nashik,350000,300000,365000.0,Sold,2025-07-29,2025-08-14,3,65000.0
+UC01032,Hyundai,i20,2023,Petrol,Manual,40841,2nd Owner,Mumbai,330000,295000,335000.0,Sold,2025-07-10,2025-08-12,3,40000.0
+UC01033,Tata,Safari,2020,Diesel,Manual,77699,3rd Owner,Bengaluru,485000,445000,,In Stock,2024-08-13,,6,
+UC01034,Mahindra,Scorpio,2023,Diesel,Automatic,30166,2nd Owner,Jaipur,1085000,1000000,,In Stock,2024-04-26,,3,
+UC01035,Toyota,Urban Cruiser Hyryder,2024,CNG,Manual,40001,1st Owner,Mumbai,1210000,1035000,,In Stock,2024-12-10,,2,
+UC01036,Maruti Suzuki,Brezza,2025,CNG,Manual,26724,1st Owner,Aurangabad,780000,710000,745000.0,Sold,2025-12-25,2026-02-04,1,35000.0
+UC01037,Hyundai,Venue,2024,Diesel,Automatic,18714,1st Owner,Jaipur,525000,465000,540000.0,Sold,2026-05-03,2026-05-16,2,75000.0
+UC01038,Tata,Altroz,2020,Petrol,Manual,67305,2nd Owner,Nagpur,340000,285000,345000.0,Sold,2024-11-22,2024-12-18,6,60000.0
+UC01039,Mahindra,Thar,2020,Diesel,Manual,86006,1st Owner,Delhi,760000,680000,,In Stock,2024-05-18,,6,
+UC01040,Toyota,Rumion,2025,Petrol,Manual,17710,1st Owner,Nagpur,815000,725000,,In Stock,2026-02-28,,1,
+UC01041,Maruti Suzuki,Swift,2024,CNG,Manual,32614,3rd Owner,Hyderabad,565000,515000,570000.0,Sold,2026-03-20,2026-04-24,2,55000.0
+UC01042,Hyundai,Venue,2020,Diesel,Manual,56468,1st Owner,Nagpur,385000,350000,360000.0,Sold,2024-11-08,2024-12-08,6,10000.0
+UC01043,Tata,Altroz,2019,Diesel,Manual,69151,1st Owner,Bengaluru,225000,190000,215000.0,Sold,2024-08-23,2024-09-06,7,25000.0
+UC01044,Mahindra,Thar,2020,Diesel,Manual,92133,2nd Owner,Hyderabad,540000,495000,540000.0,Sold,2024-04-21,2024-05-06,6,45000.0
+UC01045,Toyota,Urban Cruiser Hyryder,2023,CNG,Manual,68290,1st Owner,Aurangabad,835000,695000,,Under Inspection,2026-05-16,,3,
+UC01046,Maruti Suzuki,Dzire,2018,Petrol,Manual,98711,1st Owner,Nagpur,335000,275000,325000.0,Sold,2024-04-05,2024-04-21,8,50000.0
+UC01047,Hyundai,Venue,2022,Petrol,Automatic,57909,1st Owner,Aurangabad,570000,490000,565000.0,Sold,2026-04-08,2026-05-21,4,75000.0
+UC01048,Tata,Altroz,2025,CNG,Manual,25415,1st Owner,Ahmedabad,505000,465000,485000.0,Sold,2026-02-10,2026-03-14,1,20000.0
+UC01049,Mahindra,XUV700,2021,Petrol,Manual,53288,2nd Owner,Nashik,925000,780000,875000.0,Sold,2026-02-22,2026-02-27,5,95000.0
+UC01050,Toyota,Urban Cruiser Hyryder,2024,Petrol,Manual,41206,2nd Owner,Nashik,800000,685000,790000.0,Sold,2025-01-07,2025-02-18,2,105000.0
+UC01051,Maruti Suzuki,Baleno,2018,CNG,Automatic,104711,1st Owner,Delhi,365000,315000,,In Stock,2024-04-19,,8,
+UC01052,Hyundai,i20,2018,Diesel,Manual,74172,1st Owner,Hyderabad,305000,250000,,In Stock,2024-01-10,,8,
+UC01053,Tata,Punch,2023,CNG,Manual,32788,1st Owner,Mumbai,625000,560000,,In Stock,2026-02-21,,3,
+UC01054,Mahindra,Bolero,2021,Diesel,Manual,57978,1st Owner,Hyderabad,345000,305000,350000.0,Sold,2026-01-18,2026-02-01,5,45000.0
+UC01055,Toyota,Rumion,2025,CNG,Manual,29541,1st Owner,Aurangabad,735000,620000,715000.0,Sold,2025-08-13,2025-09-18,1,95000.0
+UC01056,Maruti Suzuki,Fronx,2023,CNG,Automatic,40164,2nd Owner,Mumbai,825000,760000,,In Stock,2024-07-02,,3,
+UC01057,Hyundai,Venue,2019,Diesel,Manual,87970,2nd Owner,Bengaluru,490000,405000,475000.0,Sold,2026-05-28,2026-07-03,7,70000.0
+UC01058,Tata,Harrier,2019,Diesel,Automatic,89695,1st Owner,Nagpur,725000,660000,725000.0,Sold,2025-04-06,2025-04-16,7,65000.0
+UC01059,Mahindra,Scorpio,2019,Diesel,Manual,95900,1st Owner,Ahmedabad,570000,520000,,Under Inspection,2026-10-30,,7,
+UC01060,Toyota,Urban Cruiser Hyryder,2022,Petrol,Automatic,57441,1st Owner,Ahmedabad,675000,575000,,In Stock,2026-06-25,,4,
+UC01061,Maruti Suzuki,Baleno,2024,Petrol,Automatic,35227,1st Owner,Nashik,740000,625000,,In Stock,2025-09-04,,2,
+UC01062,Hyundai,Exter,2024,Petrol,Manual,24316,1st Owner,Delhi,680000,565000,640000.0,Sold,2025-10-17,2025-11-13,2,75000.0
+UC01063,Tata,Harrier,2025,Diesel,Automatic,37433,1st Owner,Pune,1595000,1380000,1630000.0,Sold,2025-06-18,2025-07-28,1,250000.0
+UC01064,Mahindra,Scorpio,2024,Diesel,Manual,44612,1st Owner,Bengaluru,700000,605000,720000.0,Sold,2024-03-01,2024-04-09,2,115000.0
+UC01065,Toyota,Urban Cruiser Hyryder,2024,Petrol,Automatic,32248,1st Owner,Pune,1415000,1210000,,In Stock,2025-05-11,,2,
+UC01066,Maruti Suzuki,Fronx,2025,Petrol,Manual,3000,2nd Owner,Nagpur,890000,765000,910000.0,Sold,2025-07-25,2025-08-12,1,145000.0
+UC01067,Hyundai,i20,2020,Diesel,Manual,66707,1st Owner,Hyderabad,365000,325000,,In Stock,2025-05-24,,6,
+UC01068,Tata,Harrier,2022,Diesel,Manual,44882,1st Owner,Hyderabad,1085000,940000,,Under Inspection,2024-08-17,,4,
+UC01069,Mahindra,Bolero,2019,Diesel,Manual,83212,1st Owner,Nashik,375000,330000,360000.0,Sold,2026-02-01,2026-02-27,7,30000.0
+UC01070,Toyota,Fortuner,2021,Petrol,Manual,70904,2nd Owner,Nagpur,1195000,1065000,1195000.0,Sold,2026-03-12,2026-04-24,5,130000.0
+UC01071,Maruti Suzuki,Swift,2022,CNG,Manual,62190,1st Owner,Delhi,380000,315000,,Under Inspection,2025-11-10,,4,
+UC01072,Hyundai,Verna,2024,Diesel,Manual,22910,1st Owner,Pune,570000,480000,,In Stock,2026-11-15,,2,
+UC01073,Tata,Safari,2022,Diesel,Manual,52873,1st Owner,Nashik,1000000,855000,1035000.0,Sold,2025-12-05,2025-12-10,4,180000.0
+UC01074,Mahindra,XUV 3XO,2024,Diesel,Manual,27045,1st Owner,Pune,735000,655000,725000.0,Sold,2025-09-28,2025-11-03,2,70000.0
+UC01075,Toyota,Glanza,2021,Petrol,Manual,51592,1st Owner,Mumbai,385000,330000,400000.0,Sold,2024-09-04,2024-10-16,5,70000.0
+UC01076,Maruti Suzuki,Brezza,2025,Petrol,Manual,29272,3rd Owner,Aurangabad,770000,680000,,In Stock,2026-08-22,,1,
+UC01077,Hyundai,Creta,2019,Petrol,Manual,81659,2nd Owner,Aurangabad,395000,340000,400000.0,Sold,2026-04-09,2026-04-28,7,60000.0
+UC01078,Tata,Nexon,2025,Diesel,Automatic,21192,1st Owner,Pune,1025000,870000,1050000.0,Sold,2024-01-18,2024-03-01,1,180000.0
+UC01079,Mahindra,Thar,2021,Petrol,Manual,63255,1st Owner,Mumbai,865000,745000,820000.0,Sold,2026-03-16,2026-04-06,5,75000.0
+UC01080,Toyota,Glanza,2024,Petrol,Automatic,33355,1st Owner,Aurangabad,595000,505000,595000.0,Sold,2026-04-15,2026-04-28,2,90000.0
+UC01081,Maruti Suzuki,Swift,2020,CNG,Manual,73790,1st Owner,Nashik,290000,265000,300000.0,Sold,2026-09-24,2026-10-06,6,35000.0
+UC01082,Hyundai,Verna,2024,Diesel,Manual,29935,1st Owner,Jaipur,805000,730000,,In Stock,2024-06-28,,2,
+UC01083,Tata,Altroz,2019,Diesel,Manual,81444,2nd Owner,Hyderabad,220000,190000,225000.0,Sold,2026-01-03,2026-01-07,7,35000.0
+UC01084,Mahindra,Scorpio,2023,Diesel,Automatic,55038,2nd Owner,Delhi,490000,430000,505000.0,Sold,2026-02-25,2026-03-30,3,75000.0
+UC01085,Toyota,Rumion,2025,CNG,Manual,33323,1st Owner,Jaipur,860000,775000,820000.0,Sold,2024-03-09,2024-03-18,1,45000.0
+UC01086,Maruti Suzuki,Dzire,2019,CNG,Automatic,85664,2nd Owner,Nashik,205000,185000,,In Stock,2025-05-12,,7,
+UC01087,Hyundai,Venue,2023,Petrol,Manual,36325,2nd Owner,Bengaluru,490000,450000,,In Stock,2025-08-31,,3,
+UC01088,Tata,Altroz,2020,Diesel,Automatic,84206,2nd Owner,Nagpur,275000,250000,,In Stock,2024-12-19,,6,
+UC01089,Mahindra,Scorpio,2021,Diesel,Automatic,70899,1st Owner,Nashik,650000,570000,640000.0,Sold,2026-09-08,2026-10-08,5,70000.0
+UC01090,Toyota,Rumion,2024,CNG,Manual,29073,1st Owner,Hyderabad,955000,825000,945000.0,Sold,2024-04-01,2024-04-10,2,120000.0
+UC01091,Maruti Suzuki,Brezza,2020,CNG,Automatic,88625,1st Owner,Jaipur,305000,275000,305000.0,Sold,2025-08-25,2025-09-12,6,30000.0
+UC01092,Hyundai,Exter,2023,Petrol,Manual,25647,1st Owner,Nashik,625000,565000,,In Stock,2026-07-31,,3,
+UC01093,Tata,Altroz,2022,Diesel,Automatic,67916,2nd Owner,Aurangabad,425000,360000,,In Stock,2024-04-30,,4,
+UC01094,Mahindra,Thar,2023,Diesel,Manual,41847,1st Owner,Nagpur,1095000,955000,,Under Inspection,2026-10-04,,3,
+UC01095,Toyota,Glanza,2023,Petrol,Manual,50656,1st Owner,Delhi,580000,515000,555000.0,Sold,2026-04-05,2026-05-20,3,40000.0
+UC01096,Maruti Suzuki,Baleno,2023,Petrol,Automatic,43539,2nd Owner,Mumbai,495000,425000,,In Stock,2026-07-09,,3,
+UC01097,Hyundai,Verna,2022,Diesel,Manual,53153,1st Owner,Bengaluru,460000,390000,465000.0,Sold,2026-05-07,2026-05-18,4,75000.0
+UC01098,Tata,Altroz,2022,Petrol,Manual,62279,1st Owner,Pune,380000,330000,,In Stock,2026-03-08,,4,
+UC01099,Mahindra,XUV700,2025,Petrol,Manual,17899,1st Owner,Nashik,1050000,880000,1000000.0,Sold,2025-12-11,2026-01-17,1,120000.0
+UC01100,Toyota,Rumion,2023,Petrol,Manual,43083,1st Owner,Jaipur,830000,690000,815000.0,Sold,2025-04-26,2025-06-03,3,125000.0
+UC01101,Maruti Suzuki,Brezza,2024,CNG,Manual,25496,2nd Owner,Delhi,885000,770000,,In Stock,2025-09-06,,2,
+UC01102,Hyundai,i20,2018,Petrol,Automatic,101774,1st Owner,Nagpur,325000,300000,,In Stock,2025-05-08,,8,
+UC01103,Tata,Safari,2021,Diesel,Manual,60710,1st Owner,Mumbai,1125000,990000,,In Stock,2025-08-12,,5,
+UC01104,Mahindra,Thar,2024,Petrol,Manual,35923,1st Owner,Nagpur,900000,790000,915000.0,Sold,2025-02-09,2025-03-07,2,125000.0
+UC01105,Toyota,Fortuner,2019,Petrol,Manual,86934,3rd Owner,Mumbai,1465000,1315000,,In Stock,2024-05-10,,7,
+UC01106,Maruti Suzuki,Fronx,2024,CNG,Automatic,24015,3rd Owner,Bengaluru,685000,590000,,In Stock,2024-09-27,,2,
+UC01107,Hyundai,Verna,2021,Diesel,Manual,52006,2nd Owner,Hyderabad,585000,515000,,In Stock,2026-03-26,,5,
+UC01108,Tata,Harrier,2021,Diesel,Manual,56913,1st Owner,Pune,655000,585000,,In Stock,2026-01-26,,5,
+UC01109,Mahindra,XUV700,2024,Diesel,Manual,36197,1st Owner,Aurangabad,1575000,1400000,1525000.0,Sold,2024-08-13,2024-09-06,2,125000.0
+UC01110,Toyota,Glanza,2023,CNG,Manual,54819,1st Owner,Pune,500000,420000,,In Stock,2025-03-19,,3,
+UC01111,Maruti Suzuki,Swift,2021,Petrol,Manual,73648,1st Owner,Nagpur,290000,245000,,In Stock,2026-01-20,,5,
+UC01112,Hyundai,Verna,2018,Petrol,Manual,90671,2nd Owner,Nashik,390000,360000,370000.0,Sold,2026-05-07,2026-06-12,8,10000.0
+UC01113,Tata,Nexon,2019,Petrol,Automatic,74108,1st Owner,Ahmedabad,495000,410000,,In Stock,2024-09-19,,7,
+UC01114,Mahindra,Thar,2021,Diesel,Automatic,54215,1st Owner,Nashik,770000,655000,780000.0,Sold,2025-10-19,2025-10-24,5,125000.0
+UC01115,Toyota,Urban Cruiser Hyryder,2024,Petrol,Manual,26185,3rd Owner,Nashik,760000,640000,745000.0,Sold,2024-07-28,2024-08-27,2,105000.0
+UC01116,Maruti Suzuki,Dzire,2023,CNG,Manual,37676,2nd Owner,Delhi,300000,255000,305000.0,Sold,2024-03-29,2024-04-03,3,50000.0
+UC01117,Hyundai,Exter,2024,CNG,Automatic,37933,2nd Owner,Pune,600000,510000,610000.0,Sold,2025-09-29,2025-11-09,2,100000.0
+UC01118,Tata,Safari,2023,Diesel,Automatic,34453,1st Owner,Nashik,1090000,965000,,In Stock,2025-04-20,,3,
+UC01119,Mahindra,Scorpio,2020,Diesel,Automatic,72562,1st Owner,Pune,500000,450000,485000.0,Sold,2025-06-01,2025-06-20,6,35000.0
+UC01120,Toyota,Glanza,2023,Petrol,Manual,46806,1st Owner,Hyderabad,475000,395000,,In Stock,2026-10-18,,3,
+UC01121,Maruti Suzuki,Fronx,2023,CNG,Manual,28072,1st Owner,Pune,585000,535000,,In Stock,2026-03-29,,3,
+UC01122,Hyundai,Venue,2025,Petrol,Automatic,7150,1st Owner,Bengaluru,580000,495000,,In Stock,2024-03-26,,1,
+UC01123,Tata,Harrier,2020,Diesel,Manual,85413,2nd Owner,Delhi,450000,375000,430000.0,Sold,2025-12-22,2026-01-10,6,55000.0
+UC01124,Mahindra,Scorpio,2021,Diesel,Manual,40950,1st Owner,Delhi,815000,750000,,In Stock,2024-01-25,,5,
+UC01125,Toyota,Innova Crysta,2023,Petrol,Automatic,44871,1st Owner,Jaipur,1285000,1165000,1210000.0,Sold,2026-06-10,2026-07-10,3,45000.0
+UC01126,Maruti Suzuki,Swift,2023,CNG,Manual,52488,1st Owner,Nashik,560000,515000,545000.0,Sold,2025-11-21,2025-12-27,3,30000.0
+UC01127,Hyundai,Verna,2023,Diesel,Manual,41303,2nd Owner,Aurangabad,670000,575000,,In Stock,2024-10-06,,3,
+UC01128,Tata,Altroz,2025,Diesel,Automatic,16610,3rd Owner,Delhi,605000,525000,,In Stock,2026-10-05,,1,
+UC01129,Mahindra,XUV 3XO,2025,Petrol,Automatic,22106,3rd Owner,Mumbai,850000,745000,885000.0,Sold,2026-09-22,2026-11-04,1,140000.0
+UC01130,Toyota,Fortuner,2025,Petrol,Manual,14589,1st Owner,Bengaluru,3300000,2925000,3235000.0,Sold,2025-06-22,2025-07-05,1,310000.0
+UC01131,Maruti Suzuki,Fronx,2025,CNG,Manual,25356,1st Owner,Hyderabad,750000,660000,750000.0,Sold,2025-04-18,2025-05-28,1,90000.0
+UC01132,Hyundai,Venue,2021,Petrol,Automatic,61838,1st Owner,Aurangabad,645000,545000,,In Stock,2024-05-03,,5,
+UC01133,Tata,Safari,2024,Diesel,Manual,22206,2nd Owner,Mumbai,1100000,995000,,Under Inspection,2026-05-19,,2,
+UC01134,Mahindra,Thar,2024,Diesel,Automatic,28299,2nd Owner,Ahmedabad,750000,680000,755000.0,Sold,2024-02-09,2024-03-20,2,75000.0
+UC01135,Toyota,Urban Cruiser Hyryder,2024,CNG,Manual,47273,3rd Owner,Delhi,985000,865000,965000.0,Sold,2026-06-10,2026-07-12,2,100000.0
+UC01136,Maruti Suzuki,Brezza,2022,CNG,Automatic,57763,1st Owner,Jaipur,660000,545000,675000.0,Sold,2024-05-09,2024-06-21,4,130000.0
+UC01137,Hyundai,Venue,2021,Diesel,Manual,64557,2nd Owner,Jaipur,575000,505000,565000.0,Sold,2025-02-27,2025-04-07,5,60000.0
+UC01138,Tata,Harrier,2025,Diesel,Automatic,30712,1st Owner,Jaipur,1495000,1370000,1470000.0,Sold,2025-10-03,2025-11-05,1,100000.0
+UC01139,Mahindra,Scorpio,2023,Diesel,Automatic,59692,1st Owner,Pune,685000,615000,660000.0,Sold,2025-11-20,2026-01-02,3,45000.0
+UC01140,Toyota,Glanza,2019,Petrol,Manual,78649,1st Owner,Bengaluru,265000,225000,275000.0,Sold,2024-10-29,2024-11-18,7,50000.0
+UC01141,Maruti Suzuki,Dzire,2021,Petrol,Automatic,83506,1st Owner,Pune,410000,350000,390000.0,Sold,2024-01-22,2024-02-03,5,40000.0
+UC01142,Hyundai,Verna,2024,Diesel,Manual,38209,1st Owner,Delhi,610000,565000,,In Stock,2025-06-20,,2,
+UC01143,Tata,Altroz,2022,Diesel,Manual,48445,1st Owner,Jaipur,290000,265000,,In Stock,2025-01-28,,4,
+UC01144,Mahindra,XUV700,2021,Diesel,Manual,60771,1st Owner,Ahmedabad,970000,890000,,In Stock,2024-09-09,,5,
+UC01145,Toyota,Glanza,2024,Petrol,Manual,54272,1st Owner,Delhi,500000,445000,495000.0,Sold,2024-04-22,2024-06-04,2,50000.0
+UC01146,Maruti Suzuki,Baleno,2018,Petrol,Automatic,96449,1st Owner,Aurangabad,240000,220000,235000.0,Sold,2025-12-11,2025-12-13,8,15000.0
+UC01147,Hyundai,Venue,2020,Petrol,Manual,68512,1st Owner,Bengaluru,550000,500000,,In Stock,2024-07-09,,6,
+UC01148,Tata,Harrier,2025,Diesel,Manual,9816,1st Owner,Pune,1500000,1235000,,In Stock,2024-11-03,,1,
+UC01149,Mahindra,XUV700,2021,Petrol,Automatic,56562,1st Owner,Pune,710000,600000,720000.0,Sold,2024-01-15,2024-01-18,5,120000.0
+UC01150,Toyota,Rumion,2025,CNG,Manual,21119,1st Owner,Pune,1035000,875000,,In Stock,2026-06-02,,1,
+UC01151,Maruti Suzuki,Brezza,2024,Petrol,Automatic,29931,2nd Owner,Delhi,800000,725000,,In Stock,2024-03-16,,2,
+UC01152,Hyundai,Venue,2022,Diesel,Automatic,64097,1st Owner,Hyderabad,440000,360000,,In Stock,2025-07-02,,4,
+UC01153,Tata,Nexon,2020,Diesel,Manual,69577,1st Owner,Bengaluru,430000,360000,,In Stock,2025-01-06,,6,
+UC01154,Mahindra,Scorpio,2023,Diesel,Manual,25401,1st Owner,Nagpur,610000,550000,,In Stock,2024-06-22,,3,
+UC01155,Toyota,Rumion,2023,Petrol,Manual,28559,1st Owner,Pune,880000,735000,,In Stock,2026-02-03,,3,
+UC01156,Maruti Suzuki,Baleno,2020,Petrol,Manual,67409,2nd Owner,Jaipur,325000,295000,,In Stock,2025-01-30,,6,
+UC01157,Hyundai,Exter,2023,Petrol,Manual,57450,1st Owner,Mumbai,575000,515000,585000.0,Sold,2024-11-24,2025-01-08,3,70000.0
+UC01158,Tata,Harrier,2019,Diesel,Automatic,98254,1st Owner,Jaipur,730000,660000,,In Stock,2025-04-05,,7,
+UC01159,Mahindra,XUV 3XO,2024,Petrol,Automatic,31374,1st Owner,Delhi,715000,625000,690000.0,Sold,2025-08-26,2025-09-17,2,65000.0
+UC01160,Toyota,Fortuner,2024,Petrol,Manual,48216,1st Owner,Pune,1715000,1475000,1695000.0,Sold,2026-01-22,2026-02-17,2,220000.0
+UC01161,Maruti Suzuki,Dzire,2025,Petrol,Manual,14994,1st Owner,Nashik,580000,520000,550000.0,Sold,2024-12-04,2024-12-20,1,30000.0
+UC01162,Hyundai,Verna,2020,Petrol,Manual,82805,1st Owner,Nashik,290000,240000,285000.0,Sold,2026-03-03,2026-03-09,6,45000.0
+UC01163,Tata,Punch,2024,CNG,Automatic,31752,1st Owner,Mumbai,740000,685000,730000.0,Sold,2024-11-04,2024-12-12,2,45000.0
+UC01164,Mahindra,Scorpio,2020,Diesel,Manual,79026,1st Owner,Bengaluru,620000,570000,,In Stock,2026-06-11,,6,
+UC01165,Toyota,Innova Crysta,2022,Petrol,Automatic,42440,2nd Owner,Jaipur,1070000,910000,1100000.0,Sold,2024-07-11,2024-07-23,4,190000.0
+UC01166,Maruti Suzuki,Fronx,2024,CNG,Manual,18174,1st Owner,Bengaluru,700000,600000,,In Stock,2026-05-05,,2,
+UC01167,Hyundai,Venue,2023,Petrol,Manual,31784,2nd Owner,Delhi,545000,490000,,In Stock,2024-06-05,,3,
+UC01168,Tata,Altroz,2025,CNG,Manual,31134,1st Owner,Jaipur,425000,350000,410000.0,Sold,2025-06-20,2025-07-14,1,60000.0
+UC01169,Mahindra,XUV 3XO,2024,Petrol,Manual,41823,1st Owner,Pune,925000,810000,940000.0,Sold,2025-08-19,2025-09-08,2,130000.0
+UC01170,Toyota,Innova Crysta,2025,Petrol,Manual,16656,1st Owner,Nagpur,1475000,1235000,,Under Inspection,2024-12-11,,1,
+UC01171,Maruti Suzuki,Baleno,2024,Petrol,Manual,45868,2nd Owner,Pune,565000,520000,,In Stock,2024-11-17,,2,
+UC01172,Hyundai,i20,2023,Petrol,Manual,49475,1st Owner,Pune,640000,530000,,In Stock,2024-05-12,,3,
+UC01173,Tata,Punch,2021,CNG,Manual,58212,1st Owner,Nagpur,415000,355000,400000.0,Sold,2025-04-26,2025-05-28,5,45000.0
+UC01174,Mahindra,Bolero,2023,Diesel,Manual,46442,1st Owner,Pune,555000,480000,,In Stock,2026-08-13,,3,
+UC01175,Toyota,Rumion,2023,CNG,Automatic,39315,2nd Owner,Jaipur,615000,515000,615000.0,Sold,2025-08-24,2025-09-12,3,100000.0
+UC01176,Maruti Suzuki,Dzire,2022,Petrol,Manual,53479,1st Owner,Pune,460000,405000,,In Stock,2024-03-20,,4,
+UC01177,Hyundai,Verna,2024,Diesel,Automatic,32749,2nd Owner,Ahmedabad,465000,415000,445000.0,Sold,2025-01-11,2025-02-12,2,30000.0
+UC01178,Tata,Punch,2025,Petrol,Automatic,18682,1st Owner,Mumbai,500000,450000,510000.0,Sold,2025-12-02,2025-12-27,1,60000.0
+UC01179,Mahindra,XUV700,2022,Petrol,Automatic,45390,1st Owner,Hyderabad,905000,770000,855000.0,Sold,2025-06-03,2025-06-06,4,85000.0
+UC01180,Toyota,Glanza,2024,Petrol,Manual,30608,2nd Owner,Delhi,660000,570000,,In Stock,2025-01-06,,2,
+UC01181,Maruti Suzuki,Swift,2024,Petrol,Automatic,27311,1st Owner,Pune,495000,440000,,In Stock,2025-06-01,,2,
+UC01182,Hyundai,Creta,2023,Diesel,Automatic,37922,2nd Owner,Aurangabad,740000,635000,700000.0,Sold,2024-09-26,2024-09-30,3,65000.0
+UC01183,Tata,Punch,2021,CNG,Automatic,69052,2nd Owner,Ahmedabad,400000,355000,,In Stock,2026-01-10,,5,
+UC01184,Mahindra,Scorpio,2024,Diesel,Automatic,43130,1st Owner,Bengaluru,1060000,880000,1000000.0,Sold,2026-10-21,2026-10-30,2,120000.0
+UC01185,Toyota,Glanza,2023,CNG,Automatic,34011,1st Owner,Mumbai,470000,410000,465000.0,Sold,2026-04-15,2026-05-13,3,55000.0
+UC01186,Maruti Suzuki,Fronx,2025,Petrol,Manual,18148,2nd Owner,Nagpur,755000,640000,,In Stock,2024-06-26,,1,
+UC01187,Hyundai,Creta,2025,Petrol,Automatic,13321,1st Owner,Nagpur,1135000,980000,,In Stock,2024-08-29,,1,
+UC01188,Tata,Safari,2019,Diesel,Automatic,81863,1st Owner,Nashik,840000,745000,840000.0,Sold,2026-01-29,2026-02-09,7,95000.0
+UC01189,Mahindra,Thar,2024,Diesel,Manual,16166,1st Owner,Aurangabad,1290000,1170000,1320000.0,Sold,2024-06-21,2024-07-07,2,150000.0
+UC01190,Toyota,Glanza,2023,CNG,Automatic,58091,1st Owner,Delhi,410000,365000,,In Stock,2024-12-30,,3,
+UC01191,Maruti Suzuki,Brezza,2023,CNG,Manual,31384,1st Owner,Hyderabad,885000,795000,,In Stock,2026-05-17,,3,
+UC01192,Hyundai,i20,2018,Petrol,Manual,96642,1st Owner,Hyderabad,355000,310000,,In Stock,2025-04-23,,8,
+UC01193,Tata,Nexon,2025,Petrol,Automatic,9176,1st Owner,Jaipur,785000,665000,790000.0,Sold,2024-10-03,2024-10-26,1,125000.0
+UC01194,Mahindra,XUV 3XO,2025,Diesel,Automatic,8291,3rd Owner,Aurangabad,990000,835000,940000.0,Sold,2026-04-04,2026-04-24,1,105000.0
+UC01195,Toyota,Innova Crysta,2019,Petrol,Manual,85920,1st Owner,Delhi,695000,605000,705000.0,Sold,2024-06-18,2024-07-27,7,100000.0
+UC01196,Maruti Suzuki,Fronx,2023,CNG,Manual,39960,1st Owner,Jaipur,755000,650000,715000.0,Sold,2025-11-22,2025-11-27,3,65000.0
+UC01197,Hyundai,Venue,2022,Diesel,Automatic,56021,1st Owner,Hyderabad,490000,410000,475000.0,Sold,2026-07-29,2026-09-03,4,65000.0
+UC01198,Tata,Harrier,2021,Diesel,Manual,52030,2nd Owner,Pune,640000,595000,,In Stock,2024-11-12,,5,
+UC01199,Mahindra,XUV700,2024,Petrol,Manual,32421,1st Owner,Nashik,1330000,1205000,,Under Inspection,2024-10-24,,2,
+UC01200,Toyota,Rumion,2024,CNG,Manual,41786,1st Owner,Pune,720000,635000,700000.0,Sold,2025-09-11,2025-09-30,2,65000.0
+UC01201,Maruti Suzuki,Fronx,2024,Petrol,Manual,35776,1st Owner,Hyderabad,820000,705000,825000.0,Sold,2024-08-11,2024-08-30,2,120000.0
+UC01202,Hyundai,Exter,2025,CNG,Manual,12684,1st Owner,Pune,745000,670000,765000.0,Sold,2026-01-27,2026-02-22,1,95000.0
+UC01203,Tata,Safari,2022,Diesel,Manual,54159,2nd Owner,Nagpur,640000,540000,,Under Inspection,2024-09-23,,4,
+UC01204,Mahindra,XUV700,2025,Petrol,Manual,24345,2nd Owner,Ahmedabad,1675000,1530000,1610000.0,Sold,2026-10-07,2026-10-22,1,80000.0
+UC01205,Toyota,Glanza,2021,CNG,Automatic,54962,1st Owner,Delhi,340000,310000,345000.0,Sold,2024-10-03,2024-10-22,5,35000.0
+UC01206,Maruti Suzuki,Fronx,2023,CNG,Automatic,45182,1st Owner,Jaipur,565000,490000,560000.0,Sold,2025-06-12,2025-06-29,3,70000.0
+UC01207,Hyundai,i20,2024,Diesel,Manual,9723,1st Owner,Delhi,725000,665000,,In Stock,2025-01-03,,2,
+UC01208,Tata,Nexon,2022,Petrol,Manual,72241,1st Owner,Mumbai,495000,410000,,In Stock,2026-11-14,,4,
+UC01209,Mahindra,XUV700,2024,Petrol,Manual,19875,3rd Owner,Ahmedabad,900000,820000,,In Stock,2024-04-27,,2,
+UC01210,Toyota,Rumion,2025,Petrol,Manual,10554,1st Owner,Ahmedabad,885000,765000,,In Stock,2026-11-08,,1,
+UC01211,Maruti Suzuki,Swift,2022,Petrol,Automatic,53664,1st Owner,Hyderabad,415000,370000,,Under Inspection,2025-10-14,,4,
+UC01212,Hyundai,Venue,2021,Petrol,Manual,66267,1st Owner,Bengaluru,340000,285000,350000.0,Sold,2025-04-08,2025-05-05,5,65000.0
+UC01213,Tata,Nexon,2024,Diesel,Manual,30389,1st Owner,Nashik,690000,615000,665000.0,Sold,2026-07-17,2026-07-19,2,50000.0
+UC01214,Mahindra,Bolero,2020,Diesel,Automatic,80990,1st Owner,Mumbai,335000,300000,335000.0,Sold,2025-07-10,2025-07-12,6,35000.0
+UC01215,Toyota,Urban Cruiser Hyryder,2024,Petrol,Manual,36971,1st Owner,Jaipur,1215000,1020000,,In Stock,2025-10-18,,2,
+UC01216,Maruti Suzuki,Baleno,2021,CNG,Manual,74944,2nd Owner,Pune,340000,305000,,In Stock,2024-11-29,,5,
+UC01217,Hyundai,Verna,2023,Diesel,Manual,42925,2nd Owner,Bengaluru,595000,550000,,In Stock,2026-10-09,,3,
+UC01218,Tata,Safari,2020,Diesel,Manual,78628,1st Owner,Delhi,855000,730000,,In Stock,2024-03-16,,6,
+UC01219,Mahindra,Bolero,2023,Diesel,Manual,29490,1st Owner,Nashik,360000,300000,,In Stock,2024-04-03,,3,
+UC01220,Toyota,Glanza,2022,Petrol,Manual,41290,2nd Owner,Mumbai,305000,280000,,In Stock,2025-10-28,,4,
+UC01221,Maruti Suzuki,Dzire,2022,CNG,Automatic,43124,1st Owner,Nagpur,315000,260000,300000.0,Sold,2024-08-05,2024-08-23,4,40000.0
+UC01222,Hyundai,Verna,2025,Petrol,Manual,5332,1st Owner,Aurangabad,925000,815000,,Under Inspection,2024-01-18,,1,
+UC01223,Tata,Altroz,2025,CNG,Manual,32349,1st Owner,Hyderabad,445000,375000,,In Stock,2026-04-03,,1,
+UC01224,Mahindra,XUV700,2024,Diesel,Manual,30954,2nd Owner,Bengaluru,885000,730000,,In Stock,2026-04-28,,2,
+UC01225,Toyota,Rumion,2024,CNG,Manual,37779,1st Owner,Hyderabad,700000,635000,660000.0,Sold,2026-10-23,2026-10-30,2,25000.0
+UC01226,Maruti Suzuki,Swift,2020,CNG,Manual,77374,1st Owner,Aurangabad,250000,215000,260000.0,Sold,2024-12-25,2025-01-26,6,45000.0
+UC01227,Hyundai,i20,2020,Petrol,Manual,70643,1st Owner,Nashik,395000,340000,,In Stock,2025-10-10,,6,
+UC01228,Tata,Nexon,2024,Petrol,Automatic,39500,2nd Owner,Nashik,900000,805000,935000.0,Sold,2025-11-16,2025-12-20,2,130000.0
+UC01229,Mahindra,XUV 3XO,2025,Diesel,Manual,25617,1st Owner,Hyderabad,875000,790000,,In Stock,2025-03-04,,1,
+UC01230,Toyota,Urban Cruiser Hyryder,2023,CNG,Manual,44499,2nd Owner,Aurangabad,1155000,1075000,,In Stock,2025-11-06,,3,
+UC01231,Maruti Suzuki,Baleno,2022,Petrol,Manual,48750,1st Owner,Nashik,495000,415000,485000.0,Sold,2025-06-15,2025-07-06,4,70000.0
+UC01232,Hyundai,Verna,2024,Petrol,Automatic,48701,2nd Owner,Mumbai,745000,675000,,In Stock,2025-03-29,,2,
+UC01233,Tata,Punch,2021,Petrol,Automatic,64962,1st Owner,Nagpur,315000,285000,305000.0,Sold,2024-09-22,2024-10-02,5,20000.0
+UC01234,Mahindra,Scorpio,2024,Diesel,Automatic,45259,1st Owner,Hyderabad,640000,540000,605000.0,Sold,2026-04-10,2026-04-23,2,65000.0
+UC01235,Toyota,Urban Cruiser Hyryder,2025,Petrol,Manual,18637,1st Owner,Nashik,1020000,870000,970000.0,Sold,2025-10-23,2025-12-05,1,100000.0
+UC01236,Maruti Suzuki,Fronx,2025,CNG,Automatic,17513,1st Owner,Nashik,730000,665000,690000.0,Sold,2025-02-14,2025-03-24,1,25000.0
+UC01237,Hyundai,Venue,2023,Diesel,Manual,44647,3rd Owner,Aurangabad,430000,365000,,Under Inspection,2024-03-27,,3,
+UC01238,Tata,Safari,2019,Diesel,Manual,98375,2nd Owner,Nagpur,470000,405000,,Under Inspection,2024-02-18,,7,
+UC01239,Mahindra,XUV 3XO,2025,Diesel,Manual,37306,1st Owner,Delhi,650000,580000,,Under Inspection,2024-12-04,,1,
+UC01240,Toyota,Innova Crysta,2021,Petrol,Manual,47559,1st Owner,Bengaluru,1130000,945000,,In Stock,2025-05-10,,5,
+UC01241,Maruti Suzuki,Brezza,2021,CNG,Manual,51633,1st Owner,Delhi,665000,550000,,In Stock,2026-04-24,,5,
+UC01242,Hyundai,i20,2022,Diesel,Automatic,51187,1st Owner,Bengaluru,325000,270000,,Under Inspection,2026-03-11,,4,
+UC01243,Tata,Harrier,2020,Diesel,Manual,78527,1st Owner,Aurangabad,520000,470000,,In Stock,2024-05-01,,6,
+UC01244,Mahindra,Scorpio,2019,Diesel,Automatic,87112,1st Owner,Nagpur,575000,515000,550000.0,Sold,2026-05-25,2026-05-28,7,35000.0
+UC01245,Toyota,Fortuner,2022,Petrol,Automatic,39911,1st Owner,Nagpur,1650000,1515000,1695000.0,Sold,2024-01-05,2024-02-05,4,180000.0
+UC01246,Maruti Suzuki,Fronx,2025,Petrol,Manual,23357,1st Owner,Delhi,925000,810000,890000.0,Sold,2024-10-01,2024-10-20,1,80000.0
+UC01247,Hyundai,Venue,2022,Diesel,Manual,54343,2nd Owner,Aurangabad,560000,470000,550000.0,Sold,2025-03-01,2025-03-29,4,80000.0
+UC01248,Tata,Nexon,2022,Petrol,Manual,49860,1st Owner,Delhi,380000,330000,,In Stock,2024-10-29,,4,
+UC01249,Mahindra,Thar,2025,Diesel,Manual,17874,1st Owner,Hyderabad,1060000,915000,1070000.0,Sold,2024-03-16,2024-04-18,1,155000.0
+UC01250,Toyota,Rumion,2024,CNG,Manual,45290,1st Owner,Ahmedabad,950000,835000,910000.0,Sold,2024-03-28,2024-04-02,2,75000.0
+UC01251,Maruti Suzuki,Fronx,2023,CNG,Manual,44219,2nd Owner,Mumbai,745000,640000,,In Stock,2026-05-17,,3,
+UC01252,Hyundai,Creta,2019,Diesel,Manual,85519,2nd Owner,Mumbai,390000,345000,,In Stock,2024-06-21,,7,
+UC01253,Tata,Altroz,2022,Diesel,Manual,68151,2nd Owner,Mumbai,280000,260000,,In Stock,2026-01-21,,4,
+UC01254,Mahindra,XUV 3XO,2024,Petrol,Manual,15899,1st Owner,Mumbai,1145000,975000,1145000.0,Sold,2026-03-18,2026-04-26,2,170000.0
+UC01255,Toyota,Fortuner,2020,Diesel,Manual,69177,1st Owner,Jaipur,1665000,1425000,1630000.0,Sold,2024-04-22,2024-05-29,6,205000.0
+UC01256,Maruti Suzuki,Dzire,2025,CNG,Manual,21965,1st Owner,Delhi,440000,370000,,In Stock,2024-10-30,,1,
+UC01257,Hyundai,Creta,2022,Petrol,Manual,51806,1st Owner,Bengaluru,605000,530000,,In Stock,2024-06-02,,4,
+UC01258,Tata,Punch,2024,Petrol,Manual,32051,1st Owner,Jaipur,565000,485000,550000.0,Sold,2026-01-20,2026-02-26,2,65000.0
+UC01259,Mahindra,XUV700,2021,Diesel,Manual,53776,1st Owner,Ahmedabad,880000,755000,,In Stock,2025-02-12,,5,
+UC01260,Toyota,Urban Cruiser Hyryder,2023,CNG,Automatic,56825,1st Owner,Bengaluru,685000,600000,,In Stock,2024-08-21,,3,
+UC01261,Maruti Suzuki,Swift,2022,CNG,Manual,46341,2nd Owner,Pune,480000,430000,,Under Inspection,2024-04-25,,4,
+UC01262,Hyundai,Verna,2021,Diesel,Manual,90191,2nd Owner,Nashik,455000,400000,460000.0,Sold,2026-06-22,2026-07-22,5,60000.0
+UC01263,Tata,Harrier,2022,Diesel,Automatic,52687,1st Owner,Mumbai,675000,620000,680000.0,Sold,2026-04-07,2026-04-22,4,60000.0
+UC01264,Mahindra,Bolero,2024,Diesel,Manual,38660,1st Owner,Aurangabad,630000,525000,625000.0,Sold,2024-07-31,2024-08-16,2,100000.0
+UC01265,Toyota,Fortuner,2018,Diesel,Manual,82217,1st Owner,Pune,1470000,1275000,,In Stock,2024-05-24,,8,
+UC01266,Maruti Suzuki,Brezza,2022,CNG,Automatic,51275,3rd Owner,Mumbai,440000,390000,420000.0,Sold,2024-06-04,2024-07-09,4,30000.0
+UC01267,Hyundai,Creta,2025,Petrol,Automatic,7201,1st Owner,Delhi,1200000,1070000,,Under Inspection,2026-08-31,,1,
+UC01268,Tata,Nexon,2021,Petrol,Manual,61805,1st Owner,Jaipur,515000,460000,505000.0,Sold,2026-07-11,2026-07-13,5,45000.0
+UC01269,Mahindra,XUV 3XO,2025,Diesel,Automatic,29173,1st Owner,Aurangabad,920000,825000,,In Stock,2024-07-16,,1,
+UC01270,Toyota,Urban Cruiser Hyryder,2024,CNG,Manual,37915,1st Owner,Ahmedabad,845000,725000,830000.0,Sold,2024-07-16,2024-08-12,2,105000.0
+UC01271,Maruti Suzuki,Fronx,2023,CNG,Manual,45477,1st Owner,Bengaluru,765000,655000,725000.0,Sold,2024-05-31,2024-06-06,3,70000.0
+UC01272,Hyundai,Exter,2024,Petrol,Manual,56305,2nd Owner,Delhi,445000,410000,455000.0,Sold,2026-09-19,2026-09-27,2,45000.0
+UC01273,Tata,Harrier,2020,Diesel,Manual,78745,2nd Owner,Ahmedabad,615000,545000,590000.0,Sold,2025-06-12,2025-07-04,6,45000.0
+UC01274,Mahindra,XUV 3XO,2024,Petrol,Automatic,24992,1st Owner,Aurangabad,690000,615000,,In Stock,2025-07-11,,2,
+UC01275,Toyota,Innova Crysta,2025,Diesel,Manual,36428,2nd Owner,Bengaluru,1060000,885000,1000000.0,Sold,2024-09-04,2024-09-14,1,115000.0
+UC01276,Maruti Suzuki,Swift,2018,Petrol,Manual,79264,2nd Owner,Hyderabad,265000,240000,,In Stock,2025-06-11,,8,
+UC01277,Hyundai,Venue,2021,Petrol,Automatic,55626,2nd Owner,Bengaluru,470000,425000,445000.0,Sold,2025-01-09,2025-01-19,5,20000.0
+UC01278,Tata,Punch,2021,Petrol,Manual,82736,1st Owner,Mumbai,415000,360000,,In Stock,2026-04-11,,5,
+UC01279,Mahindra,XUV700,2023,Diesel,Manual,48864,1st Owner,Delhi,1360000,1250000,,In Stock,2026-09-08,,3,
+UC01280,Toyota,Rumion,2024,CNG,Manual,31904,1st Owner,Jaipur,775000,675000,730000.0,Sold,2024-11-05,2024-12-10,2,55000.0
+UC01281,Maruti Suzuki,Swift,2025,CNG,Automatic,18986,1st Owner,Mumbai,700000,585000,,In Stock,2024-09-30,,1,
+UC01282,Hyundai,Creta,2022,Diesel,Manual,30945,1st Owner,Mumbai,985000,875000,970000.0,Sold,2024-05-05,2024-05-28,4,95000.0
+UC01283,Tata,Altroz,2020,Diesel,Automatic,66546,1st Owner,Delhi,265000,240000,,In Stock,2026-01-18,,6,
+UC01284,Mahindra,XUV700,2025,Diesel,Automatic,23235,1st Owner,Mumbai,1335000,1115000,,In Stock,2026-04-28,,1,
+UC01285,Toyota,Urban Cruiser Hyryder,2025,Petrol,Manual,15820,1st Owner,Pune,1450000,1225000,1395000.0,Sold,2025-09-11,2025-10-09,1,170000.0
+UC01286,Maruti Suzuki,Baleno,2023,Petrol,Automatic,44844,1st Owner,Bengaluru,620000,550000,,In Stock,2026-01-20,,3,
+UC01287,Hyundai,i20,2025,Diesel,Manual,26228,2nd Owner,Ahmedabad,370000,315000,,In Stock,2024-08-14,,1,
+UC01288,Tata,Safari,2023,Diesel,Manual,54237,1st Owner,Jaipur,900000,810000,855000.0,Sold,2024-08-30,2024-09-18,3,45000.0
+UC01289,Mahindra,XUV 3XO,2024,Diesel,Automatic,26943,1st Owner,Aurangabad,955000,785000,915000.0,Sold,2026-06-16,2026-06-24,2,130000.0
+UC01290,Toyota,Urban Cruiser Hyryder,2023,CNG,Manual,22518,1st Owner,Nagpur,865000,745000,,Under Inspection,2024-04-18,,3,
+UC01291,Maruti Suzuki,Dzire,2019,Petrol,Automatic,79078,1st Owner,Pune,310000,260000,295000.0,Sold,2024-08-17,2024-09-04,7,35000.0
+UC01292,Hyundai,Creta,2021,Diesel,Manual,60818,1st Owner,Jaipur,820000,730000,795000.0,Sold,2024-01-30,2024-02-04,5,65000.0
+UC01293,Tata,Harrier,2022,Diesel,Automatic,44200,2nd Owner,Nashik,665000,575000,660000.0,Sold,2024-07-28,2024-09-10,4,85000.0
+UC01294,Mahindra,Bolero,2022,Diesel,Manual,44354,1st Owner,Bengaluru,380000,335000,365000.0,Sold,2025-06-06,2025-06-22,4,30000.0
+UC01295,Toyota,Rumion,2025,CNG,Manual,33091,1st Owner,Aurangabad,865000,805000,,In Stock,2026-01-20,,1,
+UC01296,Maruti Suzuki,Fronx,2025,CNG,Manual,37439,1st Owner,Hyderabad,1050000,895000,1035000.0,Sold,2025-03-19,2025-03-31,1,140000.0
+UC01297,Hyundai,Creta,2018,Diesel,Manual,94379,1st Owner,Nagpur,510000,445000,,In Stock,2024-03-03,,8,
+UC01298,Tata,Altroz,2025,CNG,Manual,16910,2nd Owner,Aurangabad,695000,600000,700000.0,Sold,2024-11-24,2024-12-28,1,100000.0
+UC01299,Mahindra,XUV 3XO,2025,Diesel,Manual,32593,2nd Owner,Pune,935000,860000,,In Stock,2025-07-21,,1,
+UC01300,Toyota,Urban Cruiser Hyryder,2025,Petrol,Automatic,21121,1st Owner,Jaipur,1300000,1135000,,Under Inspection,2026-04-14,,1,
+UC01301,Maruti Suzuki,Dzire,2023,Petrol,Manual,44916,2nd Owner,Hyderabad,430000,375000,415000.0,Sold,2024-05-28,2024-07-01,3,40000.0
+UC01302,Hyundai,Verna,2020,Diesel,Manual,60249,1st Owner,Jaipur,500000,410000,510000.0,Sold,2024-01-16,2024-02-08,6,100000.0
+UC01303,Tata,Safari,2022,Diesel,Manual,49914,1st Owner,Nagpur,1240000,1035000,1205000.0,Sold,2025-03-12,2025-04-26,4,170000.0
+UC01304,Mahindra,XUV700,2022,Petrol,Manual,54742,1st Owner,Pune,1010000,850000,,Under Inspection,2024-10-08,,4,
+UC01305,Toyota,Innova Crysta,2019,Petrol,Manual,70651,1st Owner,Aurangabad,620000,540000,,In Stock,2024-08-01,,7,
+UC01306,Maruti Suzuki,Brezza,2021,CNG,Automatic,61056,1st Owner,Nashik,450000,380000,,In Stock,2025-09-29,,5,
+UC01307,Hyundai,Exter,2023,CNG,Manual,35297,1st Owner,Jaipur,465000,385000,,In Stock,2024-01-17,,3,
+UC01308,Tata,Punch,2021,Petrol,Manual,63854,1st Owner,Nashik,355000,310000,,In Stock,2026-09-07,,5,
+UC01309,Mahindra,Scorpio,2024,Diesel,Manual,33443,1st Owner,Nagpur,1055000,945000,,In Stock,2026-01-24,,2,
+UC01310,Toyota,Fortuner,2019,Petrol,Manual,80727,1st Owner,Aurangabad,1020000,910000,1010000.0,Sold,2026-04-28,2026-05-11,7,100000.0
+UC01311,Maruti Suzuki,Swift,2022,Petrol,Manual,42434,1st Owner,Aurangabad,310000,255000,320000.0,Sold,2026-09-08,2026-09-15,4,65000.0
+UC01312,Hyundai,i20,2024,Petrol,Manual,36996,2nd Owner,Nagpur,365000,310000,,In Stock,2026-08-20,,2,
+UC01313,Tata,Altroz,2023,Petrol,Manual,29354,1st Owner,Ahmedabad,375000,315000,,In Stock,2026-07-15,,3,
+UC01314,Mahindra,XUV 3XO,2024,Diesel,Manual,50354,1st Owner,Aurangabad,1015000,845000,1010000.0,Sold,2025-06-07,2025-07-19,2,165000.0
+UC01315,Toyota,Fortuner,2024,Petrol,Manual,57001,1st Owner,Nashik,2550000,2250000,,In Stock,2026-07-16,,2,
+UC01316,Maruti Suzuki,Brezza,2022,Petrol,Manual,59860,1st Owner,Aurangabad,595000,505000,600000.0,Sold,2024-05-21,2024-06-03,4,95000.0
+UC01317,Hyundai,i20,2024,Petrol,Manual,38910,1st Owner,Delhi,390000,350000,390000.0,Sold,2026-03-16,2026-04-30,2,40000.0
+UC01318,Tata,Harrier,2023,Diesel,Automatic,46705,2nd Owner,Aurangabad,835000,745000,795000.0,Sold,2026-10-13,2026-10-15,3,50000.0
+UC01319,Mahindra,XUV 3XO,2024,Diesel,Manual,32045,1st Owner,Ahmedabad,920000,850000,925000.0,Sold,2025-09-27,2025-10-05,2,75000.0
+UC01320,Toyota,Glanza,2023,Petrol,Automatic,58296,2nd Owner,Jaipur,390000,350000,390000.0,Sold,2026-06-29,2026-07-12,3,40000.0
+UC01321,Maruti Suzuki,Fronx,2023,CNG,Automatic,26826,1st Owner,Jaipur,740000,620000,715000.0,Sold,2025-10-28,2025-11-27,3,95000.0
+UC01322,Hyundai,i20,2023,Petrol,Manual,52054,2nd Owner,Ahmedabad,335000,290000,330000.0,Sold,2024-10-28,2024-11-05,3,40000.0
+UC01323,Tata,Altroz,2020,Diesel,Manual,73194,1st Owner,Jaipur,390000,345000,,Under Inspection,2026-02-08,,6,
+UC01324,Mahindra,Scorpio,2022,Diesel,Manual,47153,2nd Owner,Pune,465000,415000,,Under Inspection,2026-11-05,,4,
+UC01325,Toyota,Fortuner,2019,Diesel,Manual,82750,1st Owner,Nashik,1515000,1335000,,In Stock,2024-03-22,,7,
+UC01326,Maruti Suzuki,Fronx,2023,Petrol,Automatic,39191,1st Owner,Delhi,770000,645000,,Under Inspection,2024-07-24,,3,
+UC01327,Hyundai,Creta,2023,Petrol,Manual,45893,1st Owner,Ahmedabad,635000,565000,615000.0,Sold,2026-04-19,2026-05-11,3,50000.0
+UC01328,Tata,Safari,2021,Diesel,Automatic,85421,2nd Owner,Aurangabad,675000,570000,695000.0,Sold,2026-03-10,2026-04-12,5,125000.0
+UC01329,Mahindra,XUV700,2025,Petrol,Manual,19448,1st Owner,Pune,1270000,1125000,1295000.0,Sold,2024-01-28,2024-02-09,1,170000.0
+UC01330,Toyota,Fortuner,2023,Petrol,Manual,47279,2nd Owner,Jaipur,2170000,1945000,2110000.0,Sold,2024-11-23,2024-12-17,3,165000.0
+UC01331,Maruti Suzuki,Baleno,2020,CNG,Manual,65953,2nd Owner,Jaipur,325000,295000,,In Stock,2026-10-10,,6,
+UC01332,Hyundai,i20,2018,Diesel,Manual,87074,2nd Owner,Nagpur,320000,265000,,In Stock,2024-04-12,,8,
+UC01333,Tata,Harrier,2022,Diesel,Manual,58200,2nd Owner,Pune,735000,630000,,In Stock,2026-11-07,,4,
+UC01334,Mahindra,XUV 3XO,2024,Petrol,Manual,27555,2nd Owner,Nagpur,815000,710000,790000.0,Sold,2024-08-14,2024-08-27,2,80000.0
+UC01335,Toyota,Glanza,2024,Petrol,Manual,32693,1st Owner,Pune,685000,585000,660000.0,Sold,2026-05-13,2026-06-26,2,75000.0
+UC01336,Maruti Suzuki,Dzire,2024,CNG,Automatic,29113,2nd Owner,Delhi,465000,420000,465000.0,Sold,2025-01-08,2025-01-12,2,45000.0
+UC01337,Hyundai,Verna,2020,Petrol,Automatic,71919,2nd Owner,Aurangabad,250000,205000,250000.0,Sold,2024-06-17,2024-06-25,6,45000.0
+UC01338,Tata,Nexon,2024,Petrol,Automatic,41242,1st Owner,Mumbai,705000,630000,725000.0,Sold,2024-07-15,2024-08-13,2,95000.0
+UC01339,Mahindra,Bolero,2019,Diesel,Manual,68945,1st Owner,Pune,395000,340000,405000.0,Sold,2024-07-18,2024-08-07,7,65000.0
+UC01340,Toyota,Rumion,2025,CNG,Automatic,22234,2nd Owner,Aurangabad,860000,760000,860000.0,Sold,2025-05-21,2025-06-05,1,100000.0
+UC01341,Maruti Suzuki,Dzire,2022,Petrol,Manual,44631,3rd Owner,Aurangabad,285000,240000,290000.0,Sold,2024-09-30,2024-10-30,4,50000.0
+UC01342,Hyundai,Venue,2021,Petrol,Manual,60328,1st Owner,Bengaluru,360000,300000,350000.0,Sold,2024-04-28,2024-05-08,5,50000.0
+UC01343,Tata,Punch,2025,Petrol,Manual,21621,1st Owner,Jaipur,485000,435000,,In Stock,2024-05-14,,1,
+UC01344,Mahindra,XUV 3XO,2024,Petrol,Manual,15134,1st Owner,Jaipur,1000000,925000,,In Stock,2024-02-09,,2,
+UC01345,Toyota,Urban Cruiser Hyryder,2024,CNG,Manual,22892,2nd Owner,Pune,1005000,855000,970000.0,Sold,2024-06-01,2024-06-11,2,115000.0
+UC01346,Maruti Suzuki,Brezza,2024,Petrol,Manual,28389,2nd Owner,Nashik,920000,790000,,In Stock,2025-09-12,,2,
+UC01347,Hyundai,Verna,2024,Petrol,Manual,28158,1st Owner,Delhi,770000,650000,,In Stock,2024-01-20,,2,
+UC01348,Tata,Harrier,2024,Diesel,Automatic,50613,1st Owner,Hyderabad,1065000,905000,1070000.0,Sold,2024-07-23,2024-08-26,2,165000.0
+UC01349,Mahindra,XUV700,2022,Diesel,Automatic,53212,1st Owner,Ahmedabad,1155000,1010000,1175000.0,Sold,2025-04-27,2025-05-22,4,165000.0
+UC01350,Toyota,Fortuner,2018,Petrol,Manual,87022,1st Owner,Hyderabad,945000,820000,955000.0,Sold,2025-06-11,2025-07-15,8,135000.0
+UC01351,Maruti Suzuki,Brezza,2025,Petrol,Manual,33731,1st Owner,Ahmedabad,605000,500000,575000.0,Sold,2025-06-01,2025-07-09,1,75000.0
+UC01352,Hyundai,i20,2022,Petrol,Manual,59616,1st Owner,Bengaluru,435000,375000,,Under Inspection,2026-11-14,,4,
+UC01353,Tata,Nexon,2024,Diesel,Manual,30409,1st Owner,Bengaluru,980000,840000,970000.0,Sold,2025-11-17,2025-12-15,2,130000.0
+UC01354,Mahindra,XUV 3XO,2024,Petrol,Manual,37754,2nd Owner,Aurangabad,550000,460000,560000.0,Sold,2026-01-05,2026-02-05,2,100000.0
+UC01355,Toyota,Fortuner,2021,Petrol,Manual,67661,1st Owner,Pune,1780000,1535000,,Under Inspection,2026-02-13,,5,
+UC01356,Maruti Suzuki,Brezza,2024,Petrol,Automatic,28713,1st Owner,Nagpur,530000,445000,540000.0,Sold,2024-03-24,2024-04-07,2,95000.0
+UC01357,Hyundai,Creta,2023,Diesel,Manual,34779,1st Owner,Aurangabad,1175000,985000,1205000.0,Sold,2025-07-18,2025-07-25,3,220000.0
+UC01358,Tata,Nexon,2018,CNG,Manual,94544,3rd Owner,Aurangabad,365000,335000,350000.0,Sold,2024-04-23,2024-05-21,8,15000.0
+UC01359,Mahindra,Thar,2021,Diesel,Manual,60120,2nd Owner,Mumbai,580000,540000,555000.0,Sold,2025-11-29,2025-12-17,5,15000.0
+UC01360,Toyota,Rumion,2024,Petrol,Manual,44958,1st Owner,Ahmedabad,935000,765000,930000.0,Sold,2026-05-02,2026-05-22,2,165000.0
+UC01361,Maruti Suzuki,Baleno,2021,CNG,Manual,61198,2nd Owner,Ahmedabad,425000,365000,420000.0,Sold,2024-07-05,2024-08-12,5,55000.0
+UC01362,Hyundai,Venue,2020,Diesel,Manual,66773,1st Owner,Bengaluru,435000,390000,435000.0,Sold,2026-05-18,2026-06-14,6,45000.0
+UC01363,Tata,Nexon,2020,CNG,Manual,71875,2nd Owner,Bengaluru,420000,370000,,In Stock,2024-11-30,,6,
+UC01364,Mahindra,Bolero,2025,Diesel,Manual,32305,1st Owner,Nashik,435000,365000,,Under Inspection,2024-03-24,,1,
+UC01365,Toyota,Fortuner,2023,Diesel,Automatic,47622,1st Owner,Bengaluru,1440000,1300000,1355000.0,Sold,2026-07-13,2026-07-15,3,55000.0
+UC01366,Maruti Suzuki,Baleno,2025,CNG,Manual,24134,1st Owner,Pune,795000,685000,760000.0,Sold,2024-02-19,2024-03-15,1,75000.0
+UC01367,Hyundai,Venue,2023,Petrol,Manual,40300,1st Owner,Pune,755000,645000,,In Stock,2025-03-24,,3,
+UC01368,Tata,Safari,2020,Diesel,Automatic,81626,1st Owner,Ahmedabad,635000,560000,615000.0,Sold,2026-10-22,2026-11-12,6,55000.0
+UC01369,Mahindra,XUV 3XO,2024,Petrol,Manual,42795,2nd Owner,Pune,810000,755000,825000.0,Sold,2026-10-12,2026-10-28,2,70000.0
+UC01370,Toyota,Urban Cruiser Hyryder,2023,Petrol,Manual,40244,1st Owner,Aurangabad,1015000,905000,,In Stock,2024-08-27,,3,
+UC01371,Maruti Suzuki,Fronx,2025,Petrol,Manual,22377,2nd Owner,Delhi,690000,575000,,In Stock,2025-06-06,,1,
+UC01372,Hyundai,Verna,2021,Petrol,Manual,71328,1st Owner,Hyderabad,420000,380000,395000.0,Sold,2024-12-04,2025-01-13,5,15000.0
+UC01373,Tata,Nexon,2018,CNG,Manual,81869,1st Owner,Pune,360000,300000,355000.0,Sold,2026-08-11,2026-09-20,8,55000.0
+UC01374,Mahindra,XUV700,2023,Petrol,Manual,34740,1st Owner,Jaipur,1475000,1325000,1395000.0,Sold,2024-04-28,2024-05-13,3,70000.0
+UC01375,Toyota,Fortuner,2019,Diesel,Manual,92110,2nd Owner,Delhi,1385000,1230000,,In Stock,2026-05-19,,7,
+UC01376,Maruti Suzuki,Fronx,2025,CNG,Automatic,42481,1st Owner,Hyderabad,715000,595000,700000.0,Sold,2025-09-29,2025-10-08,1,105000.0
+UC01377,Hyundai,Exter,2023,Petrol,Manual,49356,1st Owner,Jaipur,510000,435000,,In Stock,2025-11-15,,3,
+UC01378,Tata,Nexon,2025,Diesel,Manual,24521,2nd Owner,Delhi,630000,570000,,In Stock,2026-08-10,,1,
+UC01379,Mahindra,Thar,2021,Diesel,Manual,52128,1st Owner,Nashik,700000,595000,715000.0,Sold,2024-12-26,2025-02-09,5,120000.0
+UC01380,Toyota,Urban Cruiser Hyryder,2025,CNG,Manual,34299,1st Owner,Hyderabad,1520000,1270000,,In Stock,2026-08-08,,1,
+UC01381,Maruti Suzuki,Baleno,2018,Petrol,Manual,107523,1st Owner,Nagpur,315000,265000,315000.0,Sold,2024-03-19,2024-04-07,8,50000.0
+UC01382,Hyundai,Creta,2025,Diesel,Automatic,33911,1st Owner,Delhi,870000,800000,850000.0,Sold,2024-09-03,2024-09-16,1,50000.0
+UC01383,Tata,Harrier,2023,Diesel,Automatic,47201,1st Owner,Aurangabad,995000,855000,1030000.0,Sold,2024-08-14,2024-08-23,3,175000.0
+UC01384,Mahindra,Scorpio,2025,Diesel,Manual,6331,1st Owner,Bengaluru,1325000,1160000,1290000.0,Sold,2025-12-15,2025-12-30,1,130000.0
+UC01385,Toyota,Innova Crysta,2023,Diesel,Manual,39142,1st Owner,Mumbai,1120000,955000,1160000.0,Sold,2026-05-26,2026-06-05,3,205000.0
+UC01386,Maruti Suzuki,Fronx,2024,Petrol,Manual,38116,1st Owner,Nashik,665000,585000,,In Stock,2025-07-15,,2,
+UC01387,Hyundai,Exter,2024,Petrol,Manual,48512,1st Owner,Mumbai,525000,470000,500000.0,Sold,2024-05-06,2024-06-09,2,30000.0
+UC01388,Tata,Harrier,2020,Diesel,Manual,89844,2nd Owner,Hyderabad,480000,415000,480000.0,Sold,2024-02-24,2024-03-12,6,65000.0
+UC01389,Mahindra,Bolero,2022,Diesel,Manual,64359,1st Owner,Hyderabad,350000,295000,,In Stock,2024-05-15,,4,
+UC01390,Toyota,Innova Crysta,2025,Diesel,Automatic,20024,1st Owner,Pune,1845000,1595000,1850000.0,Sold,2026-03-27,2026-04-11,1,255000.0
+UC01391,Maruti Suzuki,Baleno,2022,Petrol,Automatic,49542,2nd Owner,Delhi,445000,375000,,In Stock,2024-11-18,,4,
+UC01392,Hyundai,Creta,2019,Petrol,Automatic,90345,1st Owner,Nashik,475000,430000,470000.0,Sold,2024-05-14,2024-06-22,7,40000.0
+UC01393,Tata,Punch,2022,Petrol,Manual,45253,1st Owner,Nagpur,555000,490000,535000.0,Sold,2026-05-25,2026-05-31,4,45000.0
+UC01394,Mahindra,Bolero,2023,Diesel,Manual,61051,1st Owner,Pune,325000,275000,,In Stock,2026-04-04,,3,
+UC01395,Toyota,Fortuner,2021,Diesel,Manual,73079,2nd Owner,Jaipur,995000,925000,950000.0,Sold,2025-12-20,2025-12-26,5,25000.0
+UC01396,Maruti Suzuki,Dzire,2024,CNG,Manual,14037,1st Owner,Nashik,405000,365000,,Under Inspection,2026-05-31,,2,
+UC01397,Hyundai,Exter,2025,Petrol,Automatic,23795,2nd Owner,Nashik,500000,415000,510000.0,Sold,2026-01-20,2026-02-03,1,95000.0
+UC01398,Tata,Safari,2025,Diesel,Manual,23155,1st Owner,Hyderabad,1730000,1480000,,Under Inspection,2024-07-13,,1,
+UC01399,Mahindra,Bolero,2021,Diesel,Manual,53021,3rd Owner,Bengaluru,420000,355000,410000.0,Sold,2026-09-24,2026-10-25,5,55000.0
+UC01400,Toyota,Innova Crysta,2023,Petrol,Manual,40062,2nd Owner,Jaipur,1255000,1100000,,In Stock,2025-07-17,,3,
+UC01401,Maruti Suzuki,Dzire,2025,Petrol,Manual,18511,1st Owner,Nagpur,500000,445000,500000.0,Sold,2026-05-15,2026-06-28,1,55000.0
+UC01402,Hyundai,i20,2019,Petrol,Manual,73024,1st Owner,Delhi,300000,255000,310000.0,Sold,2026-10-14,2026-10-26,7,55000.0
+UC01403,Tata,Safari,2021,Diesel,Manual,59538,3rd Owner,Delhi,525000,470000,525000.0,Sold,2026-10-05,2026-11-10,5,55000.0
+UC01404,Mahindra,Scorpio,2025,Diesel,Manual,13975,1st Owner,Bengaluru,1350000,1175000,,In Stock,2024-11-17,,1,
+UC01405,Toyota,Innova Crysta,2025,Diesel,Manual,26665,1st Owner,Hyderabad,1230000,1125000,1175000.0,Sold,2024-11-25,2024-12-29,1,50000.0
+UC01406,Maruti Suzuki,Swift,2021,Petrol,Automatic,60037,1st Owner,Nashik,410000,340000,,In Stock,2025-06-02,,5,
+UC01407,Hyundai,Venue,2019,Petrol,Manual,84691,1st Owner,Bengaluru,395000,350000,,In Stock,2026-09-28,,7,
+UC01408,Tata,Nexon,2022,Petrol,Automatic,45915,1st Owner,Nagpur,670000,620000,,In Stock,2025-07-28,,4,
+UC01409,Mahindra,XUV 3XO,2024,Diesel,Manual,11092,1st Owner,Ahmedabad,885000,760000,,In Stock,2026-11-11,,2,
+UC01410,Toyota,Fortuner,2019,Diesel,Automatic,81658,1st Owner,Jaipur,1270000,1085000,1245000.0,Sold,2024-06-25,2024-08-05,7,160000.0
+UC01411,Maruti Suzuki,Swift,2022,CNG,Manual,31811,1st Owner,Pune,335000,285000,325000.0,Sold,2024-12-13,2024-12-17,4,40000.0
+UC01412,Hyundai,Exter,2023,Petrol,Manual,66977,1st Owner,Mumbai,410000,355000,425000.0,Sold,2026-03-22,2026-04-25,3,70000.0
+UC01413,Tata,Punch,2025,CNG,Manual,13134,1st Owner,Nashik,725000,615000,725000.0,Sold,2024-06-08,2024-07-08,1,110000.0
+UC01414,Mahindra,XUV700,2021,Petrol,Automatic,53566,2nd Owner,Nashik,845000,755000,,Under Inspection,2026-11-08,,5,
+UC01415,Toyota,Urban Cruiser Hyryder,2024,Petrol,Automatic,25269,2nd Owner,Nagpur,1270000,1115000,,Under Inspection,2024-01-29,,2,
+UC01416,Maruti Suzuki,Dzire,2025,CNG,Manual,10981,1st Owner,Ahmedabad,695000,635000,685000.0,Sold,2025-08-03,2025-09-04,1,50000.0
+UC01417,Hyundai,i20,2025,Diesel,Automatic,16940,1st Owner,Bengaluru,785000,725000,770000.0,Sold,2024-10-28,2024-11-01,1,45000.0
+UC01418,Tata,Harrier,2023,Diesel,Manual,44553,1st Owner,Nagpur,1120000,995000,1125000.0,Sold,2026-07-05,2026-07-21,3,130000.0
+UC01419,Mahindra,Bolero,2020,Diesel,Manual,82193,1st Owner,Ahmedabad,400000,345000,,In Stock,2025-07-02,,6,
+UC01420,Toyota,Innova Crysta,2019,Diesel,Automatic,69936,2nd Owner,Aurangabad,485000,440000,,In Stock,2025-08-29,,7,
+UC01421,Maruti Suzuki,Baleno,2019,Petrol,Manual,83660,2nd Owner,Delhi,335000,285000,335000.0,Sold,2024-10-02,2024-11-06,7,50000.0
+UC01422,Hyundai,Venue,2023,Petrol,Manual,54089,2nd Owner,Aurangabad,600000,530000,565000.0,Sold,2024-04-30,2024-05-22,3,35000.0
+UC01423,Tata,Punch,2021,CNG,Manual,75294,1st Owner,Jaipur,425000,375000,440000.0,Sold,2025-12-28,2026-01-20,5,65000.0
+UC01424,Mahindra,XUV 3XO,2025,Petrol,Automatic,17794,2nd Owner,Delhi,1085000,900000,1095000.0,Sold,2024-11-15,2024-12-16,1,195000.0
+UC01425,Toyota,Urban Cruiser Hyryder,2023,Petrol,Manual,40687,1st Owner,Jaipur,1210000,1090000,,In Stock,2025-03-24,,3,
+UC01426,Maruti Suzuki,Dzire,2020,Petrol,Manual,73908,1st Owner,Bengaluru,325000,290000,330000.0,Sold,2025-02-10,2025-03-17,6,40000.0
+UC01427,Hyundai,Exter,2023,Petrol,Manual,41769,1st Owner,Nashik,490000,420000,,In Stock,2024-05-25,,3,
+UC01428,Tata,Altroz,2025,Petrol,Automatic,20186,1st Owner,Pune,555000,480000,530000.0,Sold,2026-05-22,2026-06-08,1,50000.0
+UC01429,Mahindra,Bolero,2021,Diesel,Automatic,64375,1st Owner,Ahmedabad,355000,325000,365000.0,Sold,2024-04-21,2024-05-05,5,40000.0
+UC01430,Toyota,Glanza,2020,Petrol,Manual,71202,1st Owner,Hyderabad,270000,235000,265000.0,Sold,2024-01-12,2024-02-08,6,30000.0
+UC01431,Maruti Suzuki,Brezza,2025,Petrol,Manual,18748,2nd Owner,Delhi,990000,910000,980000.0,Sold,2024-10-30,2024-12-04,1,70000.0
+UC01432,Hyundai,i20,2021,Diesel,Manual,80440,1st Owner,Aurangabad,410000,365000,405000.0,Sold,2024-04-06,2024-05-19,5,40000.0
+UC01433,Tata,Altroz,2021,CNG,Manual,54312,1st Owner,Nagpur,250000,230000,,Under Inspection,2025-06-08,,5,
+UC01434,Mahindra,Bolero,2024,Diesel,Manual,42281,3rd Owner,Mumbai,555000,485000,,Under Inspection,2026-03-27,,2,
+UC01435,Toyota,Urban Cruiser Hyryder,2022,CNG,Manual,48683,1st Owner,Aurangabad,1075000,945000,1075000.0,Sold,2025-09-09,2025-10-05,4,130000.0
+UC01436,Maruti Suzuki,Dzire,2021,Petrol,Manual,71889,1st Owner,Jaipur,385000,330000,390000.0,Sold,2026-07-26,2026-07-28,5,60000.0
+UC01437,Hyundai,Creta,2021,Diesel,Manual,50554,2nd Owner,Ahmedabad,815000,740000,,In Stock,2025-04-13,,5,
+UC01438,Tata,Altroz,2025,CNG,Manual,20682,2nd Owner,Nashik,425000,390000,,In Stock,2025-01-27,,1,
+UC01439,Mahindra,XUV700,2024,Diesel,Manual,49821,1st Owner,Mumbai,1505000,1370000,1460000.0,Sold,2024-08-26,2024-09-08,2,90000.0
+UC01440,Toyota,Glanza,2025,Petrol,Manual,13456,2nd Owner,Hyderabad,730000,645000,,In Stock,2026-10-17,,1,
+UC01441,Maruti Suzuki,Baleno,2023,CNG,Manual,32649,3rd Owner,Aurangabad,550000,465000,555000.0,Sold,2024-01-24,2024-02-19,3,90000.0
+UC01442,Hyundai,Exter,2024,CNG,Manual,32388,1st Owner,Nashik,540000,470000,,In Stock,2024-11-22,,2,
+UC01443,Tata,Safari,2025,Diesel,Automatic,23963,2nd Owner,Nashik,1710000,1585000,,In Stock,2024-11-29,,1,
+UC01444,Mahindra,XUV700,2023,Diesel,Automatic,25923,1st Owner,Jaipur,1065000,915000,,In Stock,2025-01-31,,3,
+UC01445,Toyota,Fortuner,2019,Petrol,Manual,87844,1st Owner,Aurangabad,1260000,1135000,,In Stock,2024-04-12,,7,
+UC01446,Maruti Suzuki,Baleno,2020,CNG,Manual,64354,1st Owner,Delhi,430000,365000,440000.0,Sold,2025-12-21,2025-12-27,6,75000.0
+UC01447,Hyundai,i20,2022,Diesel,Automatic,62149,2nd Owner,Aurangabad,535000,495000,525000.0,Sold,2024-10-17,2024-11-22,4,30000.0
+UC01448,Tata,Punch,2022,CNG,Automatic,44459,1st Owner,Pune,480000,415000,455000.0,Sold,2024-02-29,2024-03-18,4,40000.0
+UC01449,Mahindra,Thar,2025,Petrol,Manual,21284,1st Owner,Nashik,1510000,1365000,,In Stock,2025-09-20,,1,
+UC01450,Toyota,Glanza,2024,CNG,Manual,41591,1st Owner,Nagpur,510000,435000,500000.0,Sold,2025-02-07,2025-03-06,2,65000.0
+UC01451,Maruti Suzuki,Brezza,2022,CNG,Manual,43754,1st Owner,Aurangabad,535000,440000,505000.0,Sold,2024-11-03,2024-11-13,4,65000.0
+UC01452,Hyundai,Venue,2022,Petrol,Manual,57631,1st Owner,Jaipur,505000,460000,,Under Inspection,2025-06-24,,4,
+UC01453,Tata,Harrier,2025,Diesel,Automatic,28399,3rd Owner,Mumbai,1345000,1150000,1370000.0,Sold,2024-06-30,2024-07-18,1,220000.0
+UC01454,Mahindra,Thar,2024,Petrol,Manual,41928,1st Owner,Nagpur,960000,795000,985000.0,Sold,2026-06-01,2026-07-03,2,190000.0
+UC01455,Toyota,Innova Crysta,2020,Diesel,Manual,66717,1st Owner,Nashik,875000,810000,,In Stock,2024-12-21,,6,
+UC01456,Maruti Suzuki,Fronx,2024,Petrol,Automatic,38437,2nd Owner,Bengaluru,810000,705000,,Under Inspection,2025-08-21,,2,
+UC01457,Hyundai,Creta,2020,Petrol,Manual,78290,1st Owner,Bengaluru,665000,585000,680000.0,Sold,2024-10-13,2024-11-24,6,95000.0
+UC01458,Tata,Safari,2023,Diesel,Manual,47417,1st Owner,Nashik,800000,690000,,In Stock,2026-08-13,,3,
+UC01459,Mahindra,Bolero,2024,Diesel,Automatic,49786,1st Owner,Bengaluru,660000,590000,625000.0,Sold,2025-10-17,2025-11-27,2,35000.0
+UC01460,Toyota,Glanza,2023,CNG,Automatic,34303,2nd Owner,Pune,500000,440000,480000.0,Sold,2024-10-05,2024-11-13,3,40000.0
+UC01461,Maruti Suzuki,Brezza,2024,CNG,Manual,46108,1st Owner,Hyderabad,755000,645000,780000.0,Sold,2026-05-29,2026-06-11,2,135000.0
+UC01462,Hyundai,Venue,2020,Petrol,Automatic,62769,2nd Owner,Nagpur,505000,455000,485000.0,Sold,2026-07-28,2026-08-05,6,30000.0
+UC01463,Tata,Altroz,2020,Diesel,Automatic,76549,2nd Owner,Nagpur,345000,285000,,Under Inspection,2026-02-02,,6,
+UC01464,Mahindra,Thar,2020,Petrol,Manual,57975,1st Owner,Hyderabad,540000,460000,,In Stock,2024-04-28,,6,
+UC01465,Toyota,Urban Cruiser Hyryder,2025,CNG,Manual,22945,1st Owner,Nashik,1590000,1380000,1650000.0,Sold,2026-06-13,2026-07-17,1,270000.0
+UC01466,Maruti Suzuki,Baleno,2024,CNG,Automatic,3000,1st Owner,Aurangabad,510000,430000,,Under Inspection,2026-04-15,,2,
+UC01467,Hyundai,Verna,2022,Diesel,Manual,51956,1st Owner,Mumbai,720000,610000,,In Stock,2025-12-13,,4,
+UC01468,Tata,Harrier,2019,Diesel,Manual,83674,2nd Owner,Nagpur,525000,470000,,Under Inspection,2026-04-19,,7,
+UC01469,Mahindra,XUV 3XO,2025,Petrol,Manual,45615,2nd Owner,Jaipur,895000,755000,,In Stock,2025-07-21,,1,
+UC01470,Toyota,Rumion,2024,Petrol,Manual,34936,1st Owner,Ahmedabad,990000,900000,,Under Inspection,2024-08-02,,2,
+UC01471,Maruti Suzuki,Brezza,2025,CNG,Manual,30406,1st Owner,Delhi,795000,670000,,In Stock,2025-03-25,,1,
+UC01472,Hyundai,Exter,2024,Petrol,Manual,35184,1st Owner,Bengaluru,570000,525000,,In Stock,2024-10-16,,2,
+UC01473,Tata,Altroz,2021,Diesel,Manual,64418,1st Owner,Hyderabad,360000,335000,,In Stock,2024-04-09,,5,
+UC01474,Mahindra,XUV700,2022,Diesel,Manual,44314,3rd Owner,Nagpur,875000,755000,825000.0,Sold,2024-09-10,2024-10-17,4,70000.0
+UC01475,Toyota,Innova Crysta,2021,Diesel,Manual,57586,1st Owner,Mumbai,1005000,885000,,In Stock,2026-02-28,,5,
+UC01476,Maruti Suzuki,Fronx,2024,Petrol,Manual,43636,1st Owner,Aurangabad,945000,795000,,In Stock,2024-07-06,,2,
+UC01477,Hyundai,Exter,2023,CNG,Manual,39692,1st Owner,Mumbai,630000,540000,,In Stock,2026-01-28,,3,
+UC01478,Tata,Punch,2023,Petrol,Manual,44283,1st Owner,Delhi,630000,585000,645000.0,Sold,2024-01-12,2024-01-18,3,60000.0
+UC01479,Mahindra,Bolero,2022,Diesel,Automatic,46249,2nd Owner,Bengaluru,310000,285000,295000.0,Sold,2025-10-22,2025-10-30,4,10000.0
+UC01480,Toyota,Rumion,2023,Petrol,Manual,51123,2nd Owner,Bengaluru,805000,740000,,Under Inspection,2026-06-21,,3,
+UC01481,Maruti Suzuki,Dzire,2025,Petrol,Manual,14594,1st Owner,Bengaluru,485000,430000,500000.0,Sold,2025-03-31,2025-05-13,1,70000.0
+UC01482,Hyundai,i20,2024,Petrol,Manual,14831,1st Owner,Aurangabad,590000,510000,575000.0,Sold,2025-11-04,2025-12-05,2,65000.0
+UC01483,Tata,Safari,2023,Diesel,Automatic,45294,2nd Owner,Nagpur,865000,770000,825000.0,Sold,2025-03-05,2025-04-07,3,55000.0
+UC01484,Mahindra,Scorpio,2019,Diesel,Automatic,88564,2nd Owner,Nashik,625000,535000,625000.0,Sold,2026-09-02,2026-09-14,7,90000.0
+UC01485,Toyota,Urban Cruiser Hyryder,2022,Petrol,Manual,52721,2nd Owner,Jaipur,875000,800000,885000.0,Sold,2024-03-29,2024-04-21,4,85000.0
+UC01486,Maruti Suzuki,Baleno,2019,CNG,Manual,74997,2nd Owner,Jaipur,305000,255000,290000.0,Sold,2024-08-13,2024-08-26,7,35000.0
+UC01487,Hyundai,Verna,2025,Petrol,Automatic,26081,2nd Owner,Nagpur,925000,775000,935000.0,Sold,2024-02-16,2024-03-29,1,160000.0
+UC01488,Tata,Safari,2020,Diesel,Manual,69348,1st Owner,Nashik,800000,685000,,In Stock,2024-08-26,,6,
+UC01489,Mahindra,Bolero,2018,Diesel,Automatic,98209,1st Owner,Hyderabad,315000,285000,305000.0,Sold,2024-05-04,2024-05-17,8,20000.0
+UC01490,Toyota,Rumion,2024,CNG,Manual,45416,1st Owner,Delhi,735000,665000,740000.0,Sold,2025-11-07,2025-11-17,2,75000.0
+UC01491,Maruti Suzuki,Dzire,2020,Petrol,Manual,60946,1st Owner,Aurangabad,210000,180000,215000.0,Sold,2025-05-10,2025-06-17,6,35000.0
+UC01492,Hyundai,Exter,2023,CNG,Manual,36366,2nd Owner,Hyderabad,465000,405000,470000.0,Sold,2025-02-18,2025-03-27,3,65000.0
+UC01493,Tata,Altroz,2021,CNG,Automatic,70339,2nd Owner,Hyderabad,400000,340000,,Under Inspection,2024-07-19,,5,
+UC01494,Mahindra,Scorpio,2022,Diesel,Manual,55181,2nd Owner,Nagpur,675000,620000,,In Stock,2025-11-21,,4,
+UC01495,Toyota,Urban Cruiser Hyryder,2023,Petrol,Automatic,42202,3rd Owner,Mumbai,945000,840000,,In Stock,2026-10-13,,3,
+UC01496,Maruti Suzuki,Baleno,2022,CNG,Manual,48221,1st Owner,Mumbai,405000,340000,,Under Inspection,2025-07-12,,4,
+UC01497,Hyundai,Verna,2022,Diesel,Manual,51237,1st Owner,Pune,385000,340000,,Under Inspection,2024-08-10,,4,
+UC01498,Tata,Nexon,2022,Diesel,Automatic,60228,2nd Owner,Jaipur,705000,655000,,In Stock,2024-06-09,,4,
+UC01499,Mahindra,Thar,2025,Diesel,Manual,21553,1st Owner,Nagpur,1015000,840000,,In Stock,2024-01-23,,1,
+UC01500,Toyota,Glanza,2023,CNG,Automatic,48421,1st Owner,Mumbai,430000,375000,,Under Inspection,2024-01-20,,3,
